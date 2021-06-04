@@ -1,6 +1,6 @@
 ![alt text](https://github.com/echscoregroup/images/blob/main/Screenshot%202021-05-31%20092723.jpg?raw=true) 
 # Welcome to HELPING HANDS FOR ECHS
-  <h3><a href="procedures.html">Click to get PROCEDURES FOR ECHS FACILITIES</a></h3>
+  <h3><a href="procedures.html">Click to get PROCEDURES FOR ECHS FACILITIES</a></h3><br>
 
 # Important Messages
 Beneficiaries are advised to visit CHAFB website. Useful information - 1. Guide to Home Isolation for COVID positive Patients - https://www.chaf-b.org/static/upload/Guide_to_Home_Isolation.pdf
