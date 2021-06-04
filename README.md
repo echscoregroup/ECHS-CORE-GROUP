@@ -1,4 +1,4 @@
-# Welcome to HELPING HANDS FOR ECHS
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) # Welcome to HELPING HANDS FOR ECHS
 #### PROCEDURES TO USE ECHS FACILITIES
 
 ### Messages :-
