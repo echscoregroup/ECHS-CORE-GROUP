@@ -2,6 +2,7 @@
 #### PROCEDURES TO USE ECHS FACILITIES
 
 * Messages :-
+
 [10:25, 5/27/2021] Commander V K Santhanam: Beneficiaries are advised to visit CHAFB website. Useful information - 1. Guide to Home Isolation for COVID positive Patients - https://www.chaf-b.org/static/upload/Guide_to_Home_Isolation.pdf
 
 [10:25, 5/27/2021] Commander V K Santhanam: Frequent Queries related to COVID including Vaccinations, RTPCR testings and In-patient care (Oxygen/Medications/Hospital Beds/Ventilators). https://www.chaf-b.org/static/upload/FAQs_COVID.pdf
