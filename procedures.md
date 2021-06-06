@@ -1,0 +1,27 @@
+#	<center>STEP - BY - STEP PROCEDURES </center>
+![alt text](https://github.com/echscoregroup/images/blob/main/Screenshot%202021-05-31%20092723.jpg?raw=true) 
+
+#	EMPANELLED HOSPITALS
+-----------
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/PROCEDURE%20USE%20OF%20EMPANELLED%20HOSPITAL%20FACILITIES%20EMERGENCY%20MEDICAL%20CONDITION.pdf">PROCEDURE USE OF EMPANELLED HOSPITAL FACILITIES EMERGENCY MEDICAL CONDITION</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/PROCEDURE%20USE%20OF%20EMPANELLED%20HOSPITAL%20FACILITIES%20ROUTINE%20REFERRAL.pdf">PROCEDURE USE OF EMPANELLED HOSPITAL FACILITIES ROUTINE REFERRAL</a></li></h5>
+#	NON - EMPANELLED HOSPITALS
+-----------
+#	ECHS CARD  
+-----------
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/ESM%20ALIVE%20CASES%20PROCEDURE%20TO%20APPLY%20FOR%2064%20KB%20ECHS%20CARD.pdf">ESM ALIVE CASES PROCEDURE TO APPLY FOR 64 KB ECHS CARD</a></li></h5>
+
+#	MEMBERSHIP ELIGIBILITY  
+-----------
+#	HELPLINE 
+-----------
+#	REIMBURSEMENT 
+-----------
+#	PRIORITY TREATMENT 
+-----------
+#	COVID ADVISORY 
+-----------
+#	SERVICE HOSPITAL 
+-----------
+
+ <h4><a href="https://echscoregroup.github.io/ECHS-CORE-GROUP/">Home</a></h4><br>
