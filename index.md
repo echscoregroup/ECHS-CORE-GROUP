@@ -7,6 +7,8 @@
   
 # Important Messages
 <hr>
+A new Initiative - Helping Hands for ECHS Website designed and launched 6 Jun 2021. This will allow Beneficiries to access information using this website link and do not require WhatsApp.
+
 Beneficiaries are advised to visit CHAFB website. Useful information - 1. Guide to Home Isolation for COVID positive Patients - https://www.chaf-b.org/static/upload/Guide_to_Home_Isolation.pdf
 
 Frequent Queries related to COVID including Vaccinations, RTPCR testings and In-patient care (Oxygen/Medications/Hospital Beds/Ventilators). https://www.chaf-b.org/static/upload/FAQs_COVID.pdf
