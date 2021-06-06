@@ -6,28 +6,28 @@
 <h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES-POLICIES/PROCEDURE%20FOR%20USE%20OF%20EMPANELLED%20HOSPITAL%20FACILITIES_ROUTINE%20REFERRAL_24%20MAY%202021_PD.pdf">Procedure for use of empanelled hospital facilities_routine referral_24 may 2021_pd</a></li></h5>
 #	NON - EMPANELLED HOSPITALS
 -----------
-ECHS CARD  
+#	ECHS CARD  
 -----------
-MEMBERSHIP ELIGIBILITY  
+#	MEMBERSHIP ELIGIBILITY  
 -----------
-HELPLINE 
+#	HELPLINE 
 -----------
-REIMBURSEMENT 
+#	REIMBURSEMENT 
 -----------
-PRIORITY TREATMENT 
+#	PRIORITY TREATMENT 
 -----------
-COVID ADVISORY 
+#	COVID ADVISORY 
 -----------
-SERVICE HOSPITAL 
+#	SERVICE HOSPITAL 
 -----------
 #	ECHS POLICY LETTERS 
 ----------------
-<h5><li>TREATMENT IN PVT HOSPITALS </li></h5>
-<h5><li>ECHS CARD</li></h5>
-<h5><li>MEMBERSHIP  </li></h5>
-<h5><li>REIMBURSEMENT</li></h5>
-<h5><li>PRIORITY TREATMENT</li></h5>
-<h5><li>COVID ADVISORY</li></h5>
-<h5><li>SERVICE HOSPITAL</li></h5>
+#	TREATMENT IN PVT HOSPITALS  
+#	ECHS CARD 
+#	MEMBERSHIP   
+#	REIMBURSEMENT 
+#	PRIORITY TREATMENT 
+#	COVID ADVISORY 
+#	SERVICE HOSPITAL 
 
  <h4><a href="https://echscoregroup.github.io/ECHS-CORE-GROUP/">Home</a></h4><br>
