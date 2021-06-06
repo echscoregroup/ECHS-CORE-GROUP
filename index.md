@@ -1,7 +1,7 @@
 ![alt text](https://github.com/echscoregroup/images/blob/main/Screenshot%202021-05-31%20092723.jpg?raw=true) 
 # Welcome to HELPING HANDS FOR ECHS
-  <h3>-><a href="procedures.html">STEP - BY - STEP PROCEDURES </a></h3>
-  <h3>-><a href="policys.html">ECHS POLICY LETTERS</a></h3>
+  <h3>-> <a href="procedures.html">STEP - BY - STEP PROCEDURES </a></h3>
+  <h3>-> <a href="policys.html">ECHS POLICY LETTERS</a></h3>
   <h3>Useful Websites</h3><a href="https://echs.gov.in/">https://echs.gov.in/</a>
   |   <a href="https://echs.sourceinfosys.com/">https://echs.sourceinfosys.com/</a><br><br>
   
