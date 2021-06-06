@@ -8,7 +8,7 @@ Beneficiaries are advised to visit CHAFB website. Useful information - 1. Guide 
 
 Frequent Queries related to COVID including Vaccinations, RTPCR testings and In-patient care (Oxygen/Medications/Hospital Beds/Ventilators). https://www.chaf-b.org/static/upload/FAQs_COVID.pdf
 
-Management of 64 kB Faulty Cards Procedure at Polyclinic level has been promulgated by CO ECHS latter dated 07 may 2021 is shared here for your use as necessary
+<img src="Message.png"/> Management of 64 kB Faulty Cards Procedure at Polyclinic level has been promulgated by CO ECHS latter dated 07 may 2021 is shared here for your use as necessary
 
 MESSAGE FROM POLYCLINIC (URBAN) - 31 MAY 2021 is  Monthly Stock Taking Day. No Vaccinations , OPD , CT Medicines Issue & Dental OPD. Only Medical Emergency cases will be attended to by the Duty Medical Officer.
 
