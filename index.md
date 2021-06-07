@@ -7,5 +7,6 @@
   
 # Important Messages
 <hr>
+PROCEDURES ARE AVAILABLE UNDER STEP - BY - STEP PROCEDURES LINK IN HOME PAGE
 <B>A new Initiative - Helping Hands for ECHS Website designed and launched 6 Jun 2021. This will allow Beneficiries to access information using this website link and do not require WhatsApp</B>
 
