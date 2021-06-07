@@ -8,4 +8,4 @@
 # Important Messages
 <hr>
 <B>A new Initiative - Helping Hands for ECHS Website designed and launched 6 Jun 2021. This will allow Beneficiries to access information using this website link and do not require WhatsApp</B>
-PROCEDURES ARE AVAILABLE 
+
