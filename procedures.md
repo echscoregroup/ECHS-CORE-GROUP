@@ -40,7 +40,6 @@
 #	ECHS MOBILE APP 
 -----------
 <h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/PROCEDURE%20TO%20USE%20ECHS%20MOBILE%20APP.pdf">PROCEDURE TO USE ECHS MOBILE APP</a></li></h5>
- 
 
 
 
