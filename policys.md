@@ -3,7 +3,7 @@
 
 #	TREATMENT IN PVT HOSPITALS 
 ---------------- 
-<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/POLICIES/%20&%20POLYCLINIC.pdf">PROCEDURE 64 kB CARD CHANGE MOBILE NUMBER & POLYCLINIC</a></li></h5>
+
 #	ECHS CARD 
 ----------------
 #	MEMBERSHIP   
