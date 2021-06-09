@@ -13,5 +13,5 @@
 
 
 
-<B>A new Initiative - Helping Hands for ECHS Website designed and launched 6 Jun 2021. This will allow Beneficiries to access information using this website link and do not require WhatsApp</B>
+<B>A new Initiative - Happy to announce - Helping Hands for ECHS Web Portal designed and launched 9 Jun 2021. This will allow Beneficiries to access information from this Web Portal and do not require WhatsApp</B>
 
