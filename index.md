@@ -10,6 +10,8 @@
 
 <hr>
 
+<B>9 JUN 21 – Helping-Hands-for-ECHS portal is now visible in Google Search also!</B>
+
 An Initiative - Migration to Web Portal Helping Hands For ECHS from WhatsApp platform wef 09 Jun 2021
 
 
