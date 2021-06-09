@@ -3,13 +3,14 @@
 
 #	TREATMENT IN PVT HOSPITALS 
 ---------------- 
-<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/POLICIES/PROCEDURE%2064%20kB%20CARD%20CHANGE%20MOBILE%20NUMBER%20&%20POLYCLINIC.pdf">PROCEDURE 64 kB CARD CHANGE MOBILE NUMBER & POLYCLINIC</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/POLICIES/%20&%20POLYCLINIC.pdf">PROCEDURE 64 kB CARD CHANGE MOBILE NUMBER & POLYCLINIC</a></li></h5>
 #	ECHS CARD 
 ----------------
 #	MEMBERSHIP   
 ----------------
 #	REIMBURSEMENT 
 ----------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSMENT%20COVID%20HOME%20ISOLATION.pdf">REIMBURSMENT COVID HOME ISOLATION</a></li></h5>
 #	PRIORITY TREATMENT 
 ----------------
 #	COVID ADVISORY 
