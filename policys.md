@@ -11,6 +11,7 @@
 #	REIMBURSEMENT 
 ----------------
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSEMENT%20CT%20MEDICINES.pdf">REIMBURSEMENT CT MEDICINES</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSMENT%20COVID%20HOME%20ISOLATION.pdf">REIMBURSMENT COVID HOME ISOLATION</a></li></h5>
 #	PRIORITY TREATMENT 
 ----------------
 #	COVID ADVISORY 
