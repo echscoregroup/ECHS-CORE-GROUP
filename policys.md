@@ -7,6 +7,7 @@
 
 #	ECHS CARD 
 ----------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/SMART%20CARDS%20SCENARIOS.pdf">SMART CARDS SCENARIOS</a></li></h5>
 #	MEMBERSHIP   
 ----------------
 #	REIMBURSEMENT 
