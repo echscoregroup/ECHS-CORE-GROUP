@@ -10,7 +10,7 @@
 
 <hr>
 
-9 JUN 21 – Helping-Hands-for-ECHS portal is now visible in Google Search also!
+
 <Br>
 9 JUN 21 – Helping-Hands-for-ECHS Web Portal is now visible in Google Search also!
 <Br>
