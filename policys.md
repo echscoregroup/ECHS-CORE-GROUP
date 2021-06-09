@@ -3,6 +3,7 @@
 
 #	TREATMENT IN PVT HOSPITALS 
 ---------------- 
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ACCEPTANCE%20OF%2064%20KB%20WHITE%20CARD%20BY%20HOSPITALS.pdf">ACCEPTANCE OF 64 KB WHITE CARD BY HOSPITALS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/EMPANELLED%20HOSPITAL%20REFERRAL%20&%2075%20YRS%20ABOVE%20SCOPE.pdf">EMPANELLED HOSPITAL REFERRAL & 75 YRS ABOVE SCOPE</a></li></h5>
 
 #	ECHS CARD 
