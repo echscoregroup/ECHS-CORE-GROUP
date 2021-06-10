@@ -6,22 +6,27 @@
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/AYUSH%20TREATMENT.pdf">AYUSH TREATMENT</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ACCEPTANCE%20OF%2064%20KB%20WHITE%20CARD%20BY%20HOSPITALS.pdf">ACCEPTANCE OF 64 KB WHITE CARD BY HOSPITALS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/EMPANELLED%20HOSPITAL%20REFERRAL%20&%2075%20YRS%20ABOVE%20SCOPE.pdf">EMPANELLED HOSPITAL REFERRAL & 75 YRS ABOVE SCOPE</a></li></h5>
-
+<br>
 #	ECHS CARD 
 ----------------
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/SEPECIAL%20SANCTION%2064%20KB%20WHITE%20CARD.pdf">SEPECIAL SANCTION 64 KB WHITE CARD</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/SMART%20CARDS%20SCENARIOS.pdf">SMART CARDS SCENARIOS</a></li></h5>
+<br>
 #	MEMBERSHIP   
 ----------------
+<br>
 #	REIMBURSEMENT 
 ----------------
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSEMENT%20OF%20HOSPITAL%20CHARGES%20HIGH%20POWER%20COMMITTEE.pdf">REIMBURSEMENT OF HOSPITAL CHARGES HIGH POWER COMMITTEE</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSEMENT%20CT%20MEDICINES.pdf">REIMBURSEMENT CT MEDICINES</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSMENT%20COVID%20HOME%20ISOLATION.pdf">REIMBURSMENT COVID HOME ISOLATION</a></li></h5>
+<br>
 #	PRIORITY TREATMENT 
 ----------------
+<br>
 #	COVID ADVISORY 
 ----------------
+<br>
 #	SERVICE HOSPITAL 
 ----------------
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/TREATMENT%20AT%20SERVICE%20HOSPITALS%20ELIGIBILTY.pdf">TREATMENT AT SERVICE HOSPITALS ELIGIBILTY</a></li></h5>
