@@ -266,7 +266,7 @@ header {
     right:7px;
     top:7px;
     display: block;
-    background: url(../images/octocat-logo.svg);
+    background: url("https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fechscoregroup.github.io%2FHelping-Hands-For-ECHS%2F&count_bg=%2379C83D&title_bg=%23555555&icon=hackhands.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false");
   }
 }
 
