@@ -10,7 +10,7 @@
 
 <hr>
 <bR>
-10 JUN 21 – ECHS MOBILE APP FOR ANDROID PHONE. TO DOWNLOAD THE APP,   PRESS CTL + CLICK  TO FOLLOW THE LINK https://play.google.com/store/apps/details?id=com.sourceinfosys.echsbenapp&hl=en_IN&gl=US
+10 JUN 21 – ECHS MOBILE APP FOR ANDROID PHONE. TO DOWNLOAD THE APP,   PRESS CTL + CLICK  TO FOLLOW THE LINK <a href="https://play.google.com/store/apps/details?id=com.sourceinfosys.echsbenapp&hl=en_IN&gl=US">https://play.google.com/store/apps/details?id=com.sourceinfosys.echsbenapp&hl=en_IN&gl=US</a>
  <br><br>
 9 JUN 21 – Helping-Hands-for-ECHS Web Portal is now visible in Google Search also!
 <Br>
