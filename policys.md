@@ -9,7 +9,7 @@
 <br>
 #	ECHS CARD 
 ----------------
-<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/SEPECIAL%20SANCTION%2064%20KB%20WHITE%20CARD.pdf">SEPECIAL SANCTION 64 KB WHITE CARD</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/SPECIAL%20SANCTION%2064%20KB%20WHITE%20CARD.pdf">SPECIAL SANCTION 64 KB WHITE CARD</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/SMART%20CARDS%20SCENARIOS.pdf">SMART CARDS SCENARIOS</a></li></h5>
 <br>
 #	MEMBERSHIP   
