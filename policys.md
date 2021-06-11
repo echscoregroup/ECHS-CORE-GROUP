@@ -15,6 +15,7 @@
 <br>
 #	MEMBERSHIP   
 ----------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ECHS%20FACILITIES%20TO%20WWII%20SSCO%20ECO%20PMR.pdf">ECHS FACILITIES TO WWII SSCO ECO PMR</a></li></h5>
 <br>
 #	REIMBURSEMENT 
 ----------------
