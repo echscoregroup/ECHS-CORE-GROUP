@@ -30,6 +30,7 @@
 #	COVID ADVISORY 
 ----------------
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/DENTAL%20TREATMENT%20COVID%20SAFETY.pdf">DENTAL TREATMENT COVID SAFETY</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ADMINISTRATION%20OF%20COVID%20VACCINE%20AT%20POLYCLINICS%20.pdf">ADMINISTRATION OF COVID VACCINE AT POLYCLINICS </a></li></h5>
 
 <br>
 #	SERVICE HOSPITAL 
