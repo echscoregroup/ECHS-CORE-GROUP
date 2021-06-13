@@ -9,7 +9,7 @@
 # Important Messages
 
 <hr>
-![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>13 JUN 21–If you want to find out Empanelled Hospital near you,open the ‘Web Portal Helping-Hands-For-ECHS’, click on STEP BY STEP PROCEDURE link ,open the file “PROCEDURE USE OF EMPANELLED FACILITIES SECTION 2”</B>
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>13 JUN 21–If you want to find out Empanelled Hospital near you,click on STEP BY STEP PROCEDURE link ,open the file “PROCEDURE USE OF EMPANELLED FACILITIES SECTION 2”</B>
 
 
 <BR>
