@@ -9,6 +9,8 @@
 # Important Messages
 
 <hr>
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>13 JUN 21 – ECHS Central Org,New Delhi Functionaries Contact details added.Click STEP BY STEP PROCEDURE & then HELPLINE link to open the document</B> 
+<br>
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>13 JUN 21–If you want to find out Empanelled Hospital near you,click on STEP BY STEP PROCEDURE link ,open the file “PROCEDURE USE OF EMPANELLED FACILITIES SECTION 2”</B>
 
 
