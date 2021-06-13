@@ -1,7 +1,7 @@
 #	<center>ECHS POLICY LETTERS </center>
 ![alt text](https://github.com/echscoregroup/images/blob/main/Screenshot%202021-05-31%20092723.jpg?raw=true) 
 
-#	TREATMENT IN PVT HOSPITALS 
+#	EMPANELLED & NON-EMPANELLED HOSPITALS 
 ---------------- 
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REFERRAL%20NO%20NAME%20OF%20EMPANELLED%20HOSPITAL.pdf">REFERRAL NO NAME OF EMPANELLED HOSPITAL</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/AYUSH%20TREATMENT.pdf">AYUSH TREATMENT</a></li></h5>
