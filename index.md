@@ -9,9 +9,13 @@
 # Important Messages
 
 <hr>
-![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>12 Jun 21 Important Policy Letters are now available under Policy Letters Link for your benefits</B>
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)6.13 JUN 21–If you want to find out Empanelled Hospital near you,open the ‘Web Portal Helping-Hands-For-ECHS’, click on STEP BY STEP PROCEDURE link ,open the file “PROCEDURE USE OF EMPANELLED FACILITIES SECTION 2” 
+
+
+<BR>
+<B>12 Jun 21 Important Policy Letters are now available under Policy Letters Link for your benefits</B>
 <br><br>
-![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true) <B>COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 13 Jun 2021 to 19 Jun 2021 is Maj (Dr) Piyush Bali, Mobile #  8289016484.A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala ( Retd), Contact Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer   can be contacted by ECHS Beneficiaries having  COVID symptoms or COVID Positive and seek Medical Help</B>
+<B>COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 13 Jun 2021 to 19 Jun 2021 is Maj (Dr) Piyush Bali, Mobile #  8289016484.A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala ( Retd), Contact Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer   can be contacted by ECHS Beneficiaries having  COVID symptoms or COVID Positive and seek Medical Help</B>
 <br><br>
 <B>11 JUN 21 Since we are in the process of migrating to Web Portal Helping Hands For ECHS, you may wish to save the WhatsApp message / Published documents in the group where you are a members , as you consider it necessary before 17 JUN 2021. This will ensure that when I delete the Helping Hands Groups in WhatsApp you still have data you want in your local computer / device.  Please start using Portal rather than WhatsApp for Helping Hands For ECHS information</B>
 <br><br>
