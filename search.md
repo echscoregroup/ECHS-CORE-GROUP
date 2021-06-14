@@ -1,6 +1,5 @@
 ---
 title: "HELPING HANDS FOR ECHS"
-permalink: /search/
 tipue_search_active: true
 exclude_from_search: true
 ---
