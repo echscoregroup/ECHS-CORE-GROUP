@@ -2,3 +2,10 @@
 theme: jekyll-theme-leap-day
 title: HELPING HANDS FOR ECHS
 description: FOR QUERIES-WHATSAPP MSG TO ADMINISTRATOR CDR SANTHANAM (Retd) @ 97400 72879
+
+# Tipue search settings
+tipue_search:
+  include:
+    pages: true
+  exclude:
+    files: [search.html]
