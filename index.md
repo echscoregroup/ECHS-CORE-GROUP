@@ -9,7 +9,7 @@
 # Important Messages
 <hr>
 
-<<<<<<< HEAD
+
  
 <b>14 JUN 2021- An useful feedback from Commander Chandrasekar, to provide a Search facility was analysed.A BASIC Page Level Search in the Home page is now available from today.This search algorithm is not as robust as that of Google!! However, if you enter a key word,it will take you to the Portal pages where the word is available</B> 
 <BR>
