@@ -2,8 +2,7 @@
 # Welcome to HELPING HANDS FOR ECHS
   <h3> <a href="procedures.html">STEP - BY - STEP PROCEDURES </a></h3>
   <h3> <a href="policys.html">ECHS POLICY LETTERS</a></h3>
-  <br>
-   
+     
 # Important Messages
 <hr>
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>15 JUN 2021 - Asper CO ECHS Letter dated 14 Jun 2021 , for Veterans suffering from cancer , waiver is now accorded till 31 Jul 2021 for taking Referral from PCs & Approvals from specialists / SEMO of Service Hospitals for follow-up Chemo / Radio Therapy</B>
