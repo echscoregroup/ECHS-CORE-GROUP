@@ -1,5 +1,5 @@
 <table>
-  <tr><td><img src="https://github.com/echscoregroup/images/blob/main/Screenshot%202021-05-31%20092723.jpg?raw=true" class="img-responsive" alt=""></td>
+  <tr><td><img src="https://github.com/echscoregroup/images/blob/main/Screenshot%202021-05-31%20092723.jpg?raw=true" width="200" height="200"</td>
     <td><h3> Welcome to HELPING HANDS FOR ECHS</h3>
   <h3> <a href="procedures.html">STEP - BY - STEP PROCEDURES </a></h3>
   <h3> <a href="policys.html">ECHS POLICY LETTERS</a></h3></td></tr>
