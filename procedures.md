@@ -1,8 +1,10 @@
 ---
 title: "HELPING HANDS FOR ECHS"
 ---
-#	<center>STEP - BY - STEP PROCEDURES </center>
-![alt text](https://github.com/echscoregroup/images/blob/main/Screenshot%202021-05-31%20092723.jpg?raw=true) 
+<table>
+  <tr><td><img src="https://github.com/echscoregroup/images/blob/main/Screenshot%202021-05-31%20092723.jpg?raw=true" width="100" height="100"></td>
+    <td><h3>STEP - BY - STEP PROCEDURES</h3></td>
+ </table>
 
 #	EMPANELLED HOSPITALS
 -----------
