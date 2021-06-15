@@ -7,6 +7,8 @@
 
 # Important Messages
 <hr>
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>15 Jun 2021 - Important Information-Registration of your 64Kb ECHS Card – After you collect the card, you can go to any Polyclinic and register your 64 kB card at the Kiosk</b>
+<br><br>
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>15 JUN 2021 - Asper CO ECHS Letter dated 14 Jun 2021 , for Veterans suffering from cancer , waiver is now accorded till 31 Jul 2021 for taking Referral from PCs & Approvals from specialists / SEMO of Service Hospitals for follow-up Chemo / Radio Therapy</B>
 <BR><BR>
 <b>14 JUN 2021- An useful feedback from Commander Chandrasekar, to provide a Search facility was analysed.A BASIC Page Level Search in the Home page is now available from today.This search algorithm is not as robust as that of Google!! However, if you enter a key word,it will take you to the Portal pages where the word is available</B> 
