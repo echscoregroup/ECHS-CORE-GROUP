@@ -9,10 +9,12 @@
 # Important Messages
 
 <hr>
-![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)14 Jun 2021– An useful feedback from Commander Chandrasekar, to provide a Search facility was analysed.A BASIC Page Level Search in the Home page is now available from today.This search algorithm is not as robust as that of Google!! However, if you enter a key word,it will take you to the Portal pages where the word is available. 
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>15 JUN 2021 - As per CO ECHS Letter dated 14 Jun 2021, for Veterans suffering from cancer,waiver is now accorded till 31 Jul 2021 for taking Referral from PCs & Approvals from Specialists/SEMO of Service Hospitals for follow-up Chemo/Radio Therapy</B>
 <BR><BR>
-![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>14 Jun 2021 – Migration to Web Portal from WhatsApp of Helping Hands For ECHS was initiated on 9 Jun 2021. As you are aware I am no longer posting information in WhatsApp except an advisory. Messages and other documents such as Procedures & Policy Letters are posted only in Web Portal. All members are requested to start using the Portal.So far I am observing the Hits (whoever visits at least once = 1 Hit)at the Portal is less than 80 daily.The Portal brings tremendous advantages to access ECHS information due to the way it has been designed. I look forward to maximum number of members using the Web Portal.</B> 
-<br>
+<b>14 JUN 2021- An useful feedback from Commander Chandrasekar, to provide a Search facility was analysed.A BASIC Page Level Search in the Home page is now available from today.This search algorithm is not as robust as that of Google!! However, if you enter a key word,it will take you to the Portal pages where the word is available</B> 
+<BR><BR>
+<B>14 Jun 2021 – Migration to Web Portal from WhatsApp of Helping Hands For ECHS was initiated on 9 Jun 2021. As you are aware I am no longer posting information in WhatsApp except an advisory. Messages and other documents such as Procedures & Policy Letters are posted only in Web Portal. All members are requested to start using the Portal.So far I am observing the Hits (whoever visits at least once = 1 Hit)at the Portal is less than 80 daily.The Portal brings tremendous advantages to access ECHS information due to the way it has been designed. I look forward to maximum number of members using the Web Portal.</B> 
+<br><BR>
 <B>13 JUN 21 – ECHS Central Org,New Delhi Functionaries Contact details added.Click STEP BY STEP PROCEDURE & then HELPLINE link to open the document</B> 
 <br>
 13 JUN 21–If you want to find out Empanelled Hospital near you,click on STEP BY STEP PROCEDURE link ,open the file “PROCEDURE USE OF EMPANELLED FACILITIES SECTION 2”</B>
