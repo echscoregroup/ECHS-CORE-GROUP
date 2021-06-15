@@ -19,7 +19,7 @@
 <BR><BR>
 13 JUN 21–If you want to find out Empanelled Hospital near you,click on STEP BY STEP PROCEDURE link ,open the file “PROCEDURE USE OF EMPANELLED FACILITIES SECTION 2”</B>
 <BR><BR>
-<B>12 Jun 21 Important Policy Letters are now available under Policy Letters Link for your benefits</B>
+<B>12 Jun 21 Important Policy Letters are now available under Policy Letters Link for your benefits
 <br><br>
 <B>COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 13 Jun 2021 to 19 Jun 2021 is Maj (Dr) Piyush Bali, Mobile #  8289016484.A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala ( Retd), Contact Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer   can be contacted by ECHS Beneficiaries having  COVID symptoms or COVID Positive and seek Medical Help</B>
 <br><br>
