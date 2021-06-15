@@ -1,6 +1,6 @@
 <table>
   <tr><td><img src="https://github.com/echscoregroup/images/blob/main/Screenshot%202021-05-31%20092723.jpg" class="img-responsive" alt=""></td>
-    <td># Welcome to HELPING HANDS FOR ECHS
+    <td><h4> Welcome to HELPING HANDS FOR ECHS</h4>
   <h3> <a href="procedures.html">STEP - BY - STEP PROCEDURES </a></h3>
   <h3> <a href="policys.html">ECHS POLICY LETTERS</a></h3></td></tr>
  </table>
