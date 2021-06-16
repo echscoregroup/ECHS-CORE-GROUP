@@ -45,6 +45,7 @@ title: "HELPING HANDS FOR ECHS"
 <BR>
 #   POLYCLINIC 
 --------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/WORKING%20HOURS%20POLYCLINICS.pdf">WORKING HOURS POLYCLINICS</a></li></h5>
 <br>
  <h4><a href="https://echscoregroup.github.io/Helping-Hands-For-ECHS/">Home</a></h4><br>
 
