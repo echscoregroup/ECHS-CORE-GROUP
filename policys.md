@@ -16,7 +16,7 @@ title: "HELPING HANDS FOR ECHS"
 #	ECHS CARD 
 ----------------
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ECHS%20FAULTY%20CARD%20MANAGEMENT%20SH3.pdf">ECHS FAULTY CARD MANAGEMENT SH3</a></li></h5>
-<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ECHS%20FAULTY%20CARD%20MANAGEMENT%20SH.pdf">ECHS FAULTY CARD MANAGEMENT SH2</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ECHS%20FAULTY%20CARD%20MANAGEMENT%20SH2.pdf">ECHS FAULTY CARD MANAGEMENT SH2</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ECHS%20FAULTY%20CARD%20MANAGEMENT%20SH1.pdf">ECHS FAULTY CARD MANAGEMENT SH1</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/SPECIAL%20SANCTION%2064%20KB%20WHITE%20CARD.pdf">SPECIAL SANCTION 64 KB WHITE CARD</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/SMART%20CARDS%20SCENARIOS.pdf">SMART CARDS SCENARIOS</a></li></h5>
