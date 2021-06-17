@@ -7,7 +7,7 @@
 
 # Important Messages
 <hr>
-![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>16 Jun 2021 – Two important Policy letters posted. Polyclinic Working Hours & Referral Issue Timings at Polyclinics. Click Policy Letters then Polyclinic category link to access</B>
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>16 Jun 2021 – Two important Policy letters posted. Polyclinic Working Hours & Referral Issue Timings at Polyclinics. Click ECHS Policy Letters link above and the documents link available under Polyclinic category to access</B>
 <BR><BR>
 <B>15 Jun 2021 - Important Information-Registration of your 64Kb ECHS Card – After you collect the card, you can go to any Polyclinic and register your 64 kB card at the Kiosk</b>
 <br><br>
