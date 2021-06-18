@@ -3,6 +3,7 @@
     <td><h3> Welcome to HELPING HANDS FOR ECHS</h3>
   <h3> <a href="procedures.html">STEP - BY - STEP PROCEDURES </a></h3>
   <h3> <a href="policys.html">ECHS POLICY LETTERS</a></h3></td></tr>
+  <h5> <a href="/Help/HOW TO BOOKMARK HELPING HANDS FOR ECHS PORTAL WEB ADDRESS.pdf">How to bookmark helping hands for echs portal web address</a></h5></td></tr>
  </table>
 
 # Important Messages
