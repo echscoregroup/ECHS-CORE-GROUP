@@ -2,7 +2,7 @@
   <tr><td><img src="https://github.com/echscoregroup/images/blob/main/Screenshot%202021-05-31%20092723.jpg?raw=true" width="100" height="100"></td>
     <td><h3> Welcome to HELPING HANDS FOR ECHS</h3>
   <h3> <a href="procedures.html">STEP - BY - STEP PROCEDURES </a></h3>
-  <h3> <a href="policys.html">ECHS POLICY LETTERS</a></h3></td></tr>
+  <h3> <a href="policys.html">ECHS POLICY LETTERS</a></h3>
   <h5> <a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/Help/HOW%20TO%20BOOKMARK%20HELPING%20HANDS%20FOR%20ECHS%20PORTAL%20WEB%20ADDRESS.pdf">How to bookmark helping hands for echs portal web address</a></h5></td></tr>
  </table>
 
