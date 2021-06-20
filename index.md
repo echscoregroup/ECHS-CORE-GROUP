@@ -8,7 +8,9 @@
 
 # Important Messages
 <hr>
-![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>18 JUN 2021– Based on the suggestion from Gp Capt Ghosh to provide a Help document on How to Bookmark the Portal Address, a  HELP Document has been developed.In the Home Page of Helping – Hands  - For - ECHS portal itself (above), a link has been provided (RED colour), so that you can click to open the HELP document and use it</B>
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>20 JUN 2021 - COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 20 Jun 2021 to 26 Jun 2021 is Dr H S Roopa , Mobile # 9599829300 . A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala ( Retd), Contact Mobile # 7002513995.The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
+<BR><BR>
+<B>18 JUN 2021– Based on the suggestion from Gp Capt Ghosh to provide a Help document on How to Bookmark the Portal Address, a  HELP Document has been developed.In the Home Page of Helping – Hands  - For - ECHS portal itself (above), a link has been provided (RED colour), so that you can click to open the HELP document and use it</B>
 <BR><BR>
 <B>17 Jun 2021 – Management of Faulty 64 kB ECHS Cards.It is possible that the cards you have may become defective.In this case,you need to approach the Polyclinic for assistance.Click ECHS Policy Letters,go to ECHS Card category.Click the letter with the name ECHS Faulty Card Management(3 separate sheets)for guidance</B>  
 <BR><BR>
