@@ -8,6 +8,8 @@
 
 # Important Messages
 <hr>
+
+
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>22 JUN 2021 - Important Information – ECHS Referral Cell at CHAFB - Approval request for Unlisted Procedure from Karnataka, Kerala & Tamil Nadu are received by Stn HQ office, ECHS Referral Cell. The Referral cell is located inside CHAFB. The contact details of the personnel of the Referral Cell are shared here. Medical Officer – In – Charge – Maj  Jyotsana Bhatnagar (Retd) , Mobile # 7875674990, Email ID - echscellchafb@gmail.com. Office Clerk – Mrs Charisma, Mobile # - 6005152464. Office Assistant – Mr Kinkar Mobile # 9066154514. Beneficiaries can contact the personnel to find out about the status of approval of Unlisted Procedures request or matters related to it.</B>
 <BR><BR>
 <B>21 JUN 2021 – Duty Medical Officer (DMO) at Polyclinic Jalahalli from 21 Jun to 27 Jun 2021 is Capt (Dr) H V Venkatesh. Mobile # ,8590940453. Beneficiaries may contact the DMO for Medical Help after PC working hours</B>
