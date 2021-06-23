@@ -5,7 +5,12 @@
   <h3> <a href="policys.html">ECHS POLICY LETTERS</a></h3>
   <h5> <a style="color: red;" href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/gh-pages/Help/HOW%20TO%20BOOKMARK%20HELPING%20HANDS%20FOR%20ECHS%20PORTAL%20WEB%20ADDRESS.pdf">How to bookmark helping hands for ECHS portal web address</a></h5></td></tr>
  </table>
-
+<table>
+<tr><td colspan=2>Useful External Web sites</td></tr>
+<tr><td>Central Orgn ECHS</td><td><a href="https://echs.gov.in/">https://echs.gov.in/</a></td></tr>
+<tr><td>Command Hospital AF (CHAFB)</td><td><a href="https://www.chaf-b.org/">https://www.chaf-b.org/</a></td></tr>
+<tr><td>64kB Online Card Application </td><td><a href="https://echs.sourceinfosys.com/">https://echs.sourceinfosys.com/</a></td></tr>
+</table>
 # Important Messages
 <hr>
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>23 Jun 2021 – From the Desk of the Administrator - Typically I receive  queries , for which the answer (s) is readily available in the Step-By-Step Procedure link in this Web Portal. In fact, I have arranged the Procedure documents logically under Categories (headings), such as , for example, Empanelled Hospitals, ECHS Card, Helpline, et al. To name few Procedure documents readily accessible – Pocket Book to manage medical conditions, How to use Emp Hospitals, etc. If Beneficiaries take little effort to browse the information available in the Web Portal, in future,  you  will be able to get information in a jiffy. You do not have to depend on anyone for getting important ECHS information. I encourage you all to try to get a feel of the Web Portal – Helping Hands For ECHS. If you need Help, do not hesitate to send me a message and I will be happy to provide answers</B>
