@@ -6,7 +6,7 @@
   <h5> <a style="color: red;" href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/gh-pages/Help/HOW%20TO%20BOOKMARK%20HELPING%20HANDS%20FOR%20ECHS%20PORTAL%20WEB%20ADDRESS.pdf">How to bookmark helping hands for ECHS portal web address</a></h5></td></tr>
  </table>
 <table>
-<tr><td colspan=2>Useful External Web sites:-</td></tr>
+<tr><th colspan=2>Useful External Web sites:-</th></tr>
 <tr><td>Central Orgn ECHS</td><td><a href="https://echs.gov.in/">https://echs.gov.in/</a></td></tr>
 <tr><td>Command Hospital AF (CHAFB)</td><td><a href="https://www.chaf-b.org/">https://www.chaf-b.org/</a></td></tr>
 <tr><td>64kB Online Card Application </td><td><a href="https://echs.sourceinfosys.com/">https://echs.sourceinfosys.com/</a></td></tr>
