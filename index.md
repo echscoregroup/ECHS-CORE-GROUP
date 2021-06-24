@@ -13,6 +13,8 @@
 </table>
 # Important Messages
 <hr>
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>24 Jun 2021 – Recently it was reported by a Beneficiary that the Empanelled Hospital to which he was admitted in an Emergency, charged for PPE kit though the patient was not COVID Positive. Central Org ECHS letter dated 28 Dec 2020 clearly states that Beneficiary shall NOT be charged.  The Policy letter is placed in this portal. To read the letter, CLICK on ECHS POLICY LETTERS link above, under the heading Empanelled & Non Empanelled Hospitals, CLICK the letter NO CHARGES FOR PPE KITS IN EMP HOSPITAL</B>
+<BR><BR>
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>24 JUN 2021 – An important feature to correct your 64kB card application after Successful Verification by Records Office is available.  This situation may be possible as the Beneficiary realised that there is a correction to be done in the Card Application form. A feature called REVERT Application is used.  Step By Step Procedure for use of this feature is now published in this Web Portal. To read the Procedure, click STEP BY STEP PROCEDURES link above , under ECHS CARD heading click the document PROCEDURE USE OF REVERT APPLICATION 64kB CARD</B>
 <BR><BR>
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>24 Jun 2021 – Web portal Helping Hands For ECHS will now allow you to launch 03 important external web sites, viz, ECHS Central Orgn website, CHAFB website & 64kB Card Application website. This feature has been provided to Help all Veterans.</B>
