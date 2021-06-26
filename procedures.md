@@ -34,6 +34,7 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	HELPLINE 
 -----------
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/HOW%20TO%20FIND%20ECHS%20CONTACT%20DETAILS.pdf">HOW TO FIND ECHS CONTACT DETAILS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/REFERRAL%20CELL%20CHAFB%20CONTACT%20DETAILS.pdf">REFERRAL CELL CHAFB CONTACT DETAILS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/ECHS%20CENTRAL%20ORG%20CONTACTS.pdf">ECHS CENTRAL ORG CONTACTS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/OXYGEN%20CONCENTRATOR%20FOR%20VETERANS.pdf">OXYGEN CONCENTRATOR FOR VETERANS</a></li></h5>
