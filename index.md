@@ -13,9 +13,11 @@
 </table>
 # Important Messages
 <hr>
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>26 Jun 2021 – Frequently Veterans require Contact details of ECHS Polyclinics & Regional Centre functionaries in their State or City. It is just a click away and you need not ask anyone for this information. Attached a Help document giving a simple Procedure to find this useful information. To access the Help document, click on STEP - BY - STEP PROCEDURES link above, then under HELPLINE heading, click on the document HOW TO FIND ECHS CONTACT DETAILS</B>
+<br><br>
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>26 Jun 2021 – A Common & IMPORTANT Question which everyone asks -  “What are the Empanelled Hospitals near me? A simple Step By Step Procedure is placed in this portal. To access – Click on STEP – BY- STEP PROCEDURES link above, then under EMPANELLED HOSPITALS heading click on the document HOW TO FIND LIST OF EMPANELLED HOSPITAL</B>
 <BR><BR>
-![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>25 Jun 2021 – Many Veterans are now visiting this Web Portal since launch on 09 Jun 2021. One of the Objective of this portal is Anyone with this Portal address can view information. You may share this Portal address to other Veterans without hesitation.  There is no more request to join. In this way,  we will be able to reach many Veterans across India. Portal address https://echscoregroup.github.io/Helping-Hands-For-ECHS/</B>
+<B>25 Jun 2021 – Many Veterans are now visiting this Web Portal since launch on 09 Jun 2021. One of the Objective of this portal is Anyone with this Portal address can view information. You may share this Portal address to other Veterans without hesitation.  There is no more request to join. In this way,  we will be able to reach many Veterans across India. Portal address https://echscoregroup.github.io/Helping-Hands-For-ECHS/</B>
 <BR><BR>
 <B>24 Jun 2021 – Recently it was reported by a Beneficiary that the Empanelled Hospital to which he was admitted in an Emergency, charged for PPE kit though the patient was not COVID Positive. Central Org ECHS letter dated 28 Dec 2020 clearly states that Beneficiary shall NOT be charged.  The Policy letter is placed in this portal. To read the letter, CLICK on ECHS POLICY LETTERS link above, under the heading Empanelled & Non Empanelled Hospitals, CLICK the letter NO CHARGES FOR PPE KITS IN EMP HOSPITAL</B>
 <BR><BR>
