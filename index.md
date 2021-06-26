@@ -13,6 +13,8 @@
 </table>
 # Important Messages
 <hr>
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<b>27 JUN2021 COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 27 Jun 2021 to 03 Jul 2021 is Wg Cdr (Dr) Priti Kalani (Retd), Mobile # 9654300384. A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala ( Retd), Contact Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</b>
+<br><br>
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>26 Jun 2021 – Frequently Veterans require Contact details of ECHS Polyclinics & Regional Centre functionaries in their State or City. It is just a click away and you need not ask anyone for this information. Attached a Help document giving a simple Procedure to find this useful information. To access the Help document, click on STEP - BY - STEP PROCEDURES link above, then under HELPLINE heading, click on the document HOW TO FIND ECHS CONTACT DETAILS</B>
 <br><br>
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>26 Jun 2021 – A Common & IMPORTANT Question which everyone asks -  “What are the Empanelled Hospitals near me? A simple Step By Step Procedure is placed in this portal. To access – Click on STEP – BY- STEP PROCEDURES link above, then under EMPANELLED HOSPITALS heading click on the document HOW TO FIND LIST OF EMPANELLED HOSPITAL</B>
