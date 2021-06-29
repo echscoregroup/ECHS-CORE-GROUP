@@ -44,6 +44,7 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	REIMBURSEMENT 
 -----------
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/VERIFY%20STATUS%20REIMBURSEMENT%20CLAIMS.pdf">VERIFY STATUS REIMBURSEMENT CLAIMS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/CONTINGENT%20BILL%20FORMAT.pdf">CONTINGENT BILL FORMAT</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/PROCEDURE%20TO%20CLAIM%20REIMBURSEMENT%20OF%20CT%20MEDICINES.pdf">PROCEDURE TO CLAIM REIMBURSEMENT OF CT MEDICINES</a></li></h5>
 <br>
