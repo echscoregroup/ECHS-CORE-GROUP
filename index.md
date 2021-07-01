@@ -13,6 +13,8 @@
 </table>
 # Important Messages
 <hr>
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>01 JUL 2021 USEFUL POCKET GUIDES  -  MANAGING MEDICAL CONDITIONS & SMART CARD are in this portal since   09 Jun 2021. Many of your queries are answered in these documents. Take time to browse through the documents. To access the document, click on STEP - BY - STEP PROCEDURES link above, under HELPLINE & ECHS CARD ,click on the pocket guide</B>
+<BR><BR>
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>29 JUN 2021 – Procedure to check your Reimbursement Claim status is now available in this portal. To access the document, click on STEP - BY -  STEP PROCEDURES link above, under REIMBURSEMENT heading, click on the document VERIFY STATUS REIMBURSEMENT CLAIMS</B>
 <BR><BR>
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<b>28 JUN 2021 - MESSAGE FROM POLYCLINIC (URBAN) – 30 Jun 2021 is  Monthly Stock Taking Day. Following services WILL NOT be available - Vaccinations, OPD , CT Medicines Issue & Dental OPD. Only Medical Emergency cases will be attended to by the Duty Medical Officer</b>
