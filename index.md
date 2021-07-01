@@ -13,6 +13,8 @@
 </table>
 # Important Messages
 <hr>
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>01 JUL 2021 – Message from CHAFB - Due to non-receipt of vaccine doses from state authorities, the hospital will NOT be able to vaccinate till 03 Jul 21. Please be aware that CVC CHAFB/ECHS Polyclinic will not be able to vaccinate on CoWin, till such time the doses are available for all categories</B>
+<BR><BR>
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>01 JUL 2021 USEFUL POCKET GUIDES  -  MANAGING MEDICAL CONDITIONS & SMART CARD are in this portal since   09 Jun 2021. Many of your queries are answered in these documents. Take time to browse through the documents. To access the document, click on STEP - BY - STEP PROCEDURES link above, under HELPLINE & ECHS CARD ,click on the pocket guide</B>
 <BR><BR>
 <B>29 JUN 2021 – Procedure to check your Reimbursement Claim status is now available in this portal. To access the document, click on STEP - BY -  STEP PROCEDURES link above, under REIMBURSEMENT heading, click on the document VERIFY STATUS REIMBURSEMENT CLAIMS</B>
