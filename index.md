@@ -5,7 +5,7 @@
   <h3> <a href="policys.html">ECHS POLICY LETTERS</a></h3>
   <h5> <a style="color: red;" href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/gh-pages/Help/HOW%20TO%20BOOKMARK%20HELPING%20HANDS%20FOR%20ECHS%20PORTAL%20WEB%20ADDRESS.pdf">How to bookmark helping hands for ECHS portal web address</a></h5></td></tr>
  </table>
- <marquee behavior="scroll" direction="left"><b> Happy ECHS Doctors Day!</b></marquee>
+ <marquee behavior="scroll" direction="left"><p style="color:red;"><b> Happy ECHS Doctors Day!</b></p></marquee>
 <table>
 <tr><th colspan=2>Useful External Web sites:-</th></tr>
 <tr><td>Central Orgn ECHS</td><td><a href="https://echs.gov.in/">https://echs.gov.in/</a></td></tr>
