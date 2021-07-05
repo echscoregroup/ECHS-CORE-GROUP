@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)05 JUL 2021 – A New Version of POCKET GUIDE FOR SMART CARD with additional details is added in this portal. To read this, click on STEP - BY - STEP PROCEDURES link above, under ECHS Card , click  A POCKET GUIDE FOR ECHS BENEFICIARIES SMART CARD</B>
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>05 JUL 2021 – A New Version of POCKET GUIDE FOR SMART CARD with additional details is added in this portal. To read this, click on STEP - BY - STEP PROCEDURES link above, under ECHS Card , click  A POCKET GUIDE FOR ECHS BENEFICIARIES SMART CARD</B>
 <BR><BR>
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>05 JUL 2021 – Due to Non receipt of vaccines at CHAFB & Polyclinic Urban, Vaccination is STOPPED Indefinitely</B>
 <BR><BR>
