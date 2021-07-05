@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>05 JUL 2021 – Due to Non receipt of vaccines at Polyclinic Urban, Vaccination is not being administered</B>
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>05 JUL 2021 – Due to Non receipt of vaccines at CHAFB & Polyclinic Urban, Vaccination is STOPPED Indefinitely</B>
 <BR><BR>
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>04 JUL  2021 COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 04 Jul 2021 to 10 JUL 2021 is Gp Capt (Dr) Sunil Baveja (Retd), Mobile # 8130075180. A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
 <BR><BR>
