@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B<06 JUL  2021 – IMPORTANT INFORMATION - VALIDITY OF ECHS CARD TEMPORARY SLIP - When you apply for 64kB ECHS Card, you are allowed to download the Temporary Slip (after verification by Records Office in some cases) from the site https://echs.sourceinfosys.com/. As on date the Temporary Slip is valid till 31 JUL 2021, to get all facilities at Polyclinics & Empanelled Hospitals<B>
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>06 JUL  2021 – IMPORTANT INFORMATION - VALIDITY OF ECHS CARD TEMPORARY SLIP - When you apply for 64kB ECHS Card, you are allowed to download the Temporary Slip (after verification by Records Office in some cases) from the site https://echs.sourceinfosys.com/. As on date the Temporary Slip is valid till 31 JUL 2021, to get all facilities at Polyclinics & Empanelled Hospitals</B>
 <br><br>
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>05 JUL 2021 – A New Version of POCKET GUIDE FOR SMART CARD with additional details is added in this portal. To read this, click on STEP - BY - STEP PROCEDURES link above, under ECHS Card , click  A POCKET GUIDE FOR ECHS BENEFICIARIES SMART CARD</B>
 <BR><BR>
