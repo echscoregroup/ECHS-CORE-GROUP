@@ -14,9 +14,12 @@
 </table>
 # Important Messages
 <hr>
+
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>07 JUL 2021 – Direct Referral from Polyclinics to Empanelled Hospitals.In view of COVID Pandemic, CO ECHS Letter B/49774/AG/ECHS/Referral/2021 dated 02 Jul 2021 has permitted Cardiology , TKR & THR patients are permitted to be referred to Empanelled civil Hospitals by the Specialists / Medical Officers at Polyclinics. These Patients need not be referred to Service Hospitals. This order is effective from 01 Jul 2021 till 31 Dec 2021</B>
+<BR><BR>
 ![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>06 JUL  2021 – IMPORTANT INFORMATION - VALIDITY OF ECHS CARD TEMPORARY SLIP - When you apply for 64kB ECHS Card, you are allowed to download the Temporary Slip (after verification by Records Office in some cases) from the site https://echs.sourceinfosys.com/. As on date the Temporary Slip is valid till 31 JUL 2021, to get all facilities at Polyclinics & Empanelled Hospitals</B>
 <br><br>
-![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>05 JUL 2021 – A New Version of POCKET GUIDE FOR SMART CARD with additional details is added in this portal. To read this, click on STEP - BY - STEP PROCEDURES link above, under ECHS Card , click  A POCKET GUIDE FOR ECHS BENEFICIARIES SMART CARD</B>
+<B>05 JUL 2021 – A New Version of POCKET GUIDE FOR SMART CARD with additional details is added in this portal. To read this, click on STEP - BY - STEP PROCEDURES link above, under ECHS Card , click  A POCKET GUIDE FOR ECHS BENEFICIARIES SMART CARD</B>
 <BR><BR>
 <B>05 JUL 2021 – Due to Non receipt of vaccines at CHAFB & Polyclinic Urban, Vaccination is STOPPED Indefinitely</B>
 <BR><BR>
