@@ -14,9 +14,11 @@
 </table>
 # Important Messages
 <hr>
-![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>09 JUL 2021 – A Useful facility for Veterans & Dependents – CO ECHS letter TRANSFER OF ECHS CARDS BETWEEN POLYCLINICS dated 28 Jun 2021 is now available in this portal. To access this click on ECHS POLICY LETTERS link above, under ECHS CARD, click   TRANSFER OF ECHS CARDS BETWEEN POLYCLINICS. This feature allows your 64 kB cards received in one city from where you applied to be sent to the city where you have moved before receiving the 64 kB card. Contents are self-explanatory</B>
+![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true<B>11 JUL 2021 – A New Version of POCKET GUIDE FOR SMART CARD with details of How to transfer 64 kB ECHS card across Polyclinic when you shift residence  is added in this portal. To read this, click on STEP - BY - STEP PROCEDURES link above, under ECHS Card , click  A POCKET GUIDE FOR ECHS BENEFICIARIES SMART CARD</B>
 <BR><BR>
-![alt text](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>08 JUL 2021 – A useful document explaining Priority Treatment, Direct OPD facility at Empanelled & Service Hospitals & Special Category Beneficiaries is placed in this portal. To access this click on STEP - BY -  STEP PROCEDURES link above, under PRIORITY TREATMENT heading  , click  PRIORITY TREATMENT ---- document</B>
+<B>09 JUL 2021 – A Useful facility for Veterans & Dependents – CO ECHS letter TRANSFER OF ECHS CARDS BETWEEN POLYCLINICS dated 28 Jun 2021 is now available in this portal. To access this click on ECHS POLICY LETTERS link above, under ECHS CARD, click   TRANSFER OF ECHS CARDS BETWEEN POLYCLINICS. This feature allows your 64 kB cards received in one city from where you applied to be sent to the city where you have moved before receiving the 64 kB card. Contents are self-explanatory</B>
+<BR><BR>
+<B>08 JUL 2021 – A useful document explaining Priority Treatment, Direct OPD facility at Empanelled & Service Hospitals & Special Category Beneficiaries is placed in this portal. To access this click on STEP - BY -  STEP PROCEDURES link above, under PRIORITY TREATMENT heading  , click  PRIORITY TREATMENT ---- document</B>
 <BR><BR>
 <B>07 JUL 2021 – Direct Referral from Polyclinics to Empanelled Hospitals.In view of COVID Pandemic, CO ECHS Letter B/49774/AG/ECHS/Referral/2021 dated 02 Jul 2021 has permitted Cardiology , TKR & THR patients to be referred to Empanelled civil Hospitals by the Specialists / Medical Officers at Polyclinics. These Patients need not be referred to Service Hospitals. This order is effective from 01 Jul 2021 till 31 Dec 2021</B>
 <BR><BR>
