@@ -14,11 +14,13 @@
 </table>
 # Important Messages
 <hr>
+![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>12 JUL 2021 – In case of demise of a Beneficiary , the ECHS card is required to  be blocked by the Primary Beneficiary or NOK depending on the case. In addition, OIC Polyclinic is authorised to block card due to Disciplinary reasons. CO ECHS letter of 01 Jul 2021 providing the details is added in this portal. To access the letter, click on ECHS POLICY LETTERS link above, under ECHS CARD, click   BLOCKING OF 64Kb CARDS DEMISE OF BENEFICIARY. This is also included in the Pocket Book for Smart Cards document available in this portal</B>
+<BR><BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>12 JUL 2021 For 64kB Card collection related queries from Stn HQ , CHAFB office, contact JWO Tripathi  Mobile # 95968 46262 or Ms Shiarangini  , Mobile # 86188 93318. Currently OIC Stn HQ is unwell  and hence avoid contacting him for few days</B>
 <BR><BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>12 JUL  2021 COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 11 Jul 2021 to 17 JUL 2021 is Gp Capt (Dr)   P C Ghosh (Retd  Mobile # 9448119581. A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
 <BR><BR>
-![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>11 JUL 2021 – A New Version of POCKET GUIDE FOR SMART CARD with details of How to transfer 64 kB ECHS card across Polyclinic when you shift residence  is added in this portal. To read this, click on STEP - BY - STEP PROCEDURES link above, under ECHS Card , click  A POCKET GUIDE FOR ECHS BENEFICIARIES SMART CARD</B>
+<B>11 JUL 2021 – A New Version of POCKET GUIDE FOR SMART CARD with details of How to transfer 64 kB ECHS card across Polyclinic when you shift residence  is added in this portal. To read this, click on STEP - BY - STEP PROCEDURES link above, under ECHS Card , click  A POCKET GUIDE FOR ECHS BENEFICIARIES SMART CARD</B>
 <BR><BR>
 <B>09 JUL 2021 – A Useful facility for Veterans & Dependents – CO ECHS letter TRANSFER OF ECHS CARDS BETWEEN POLYCLINICS dated 28 Jun 2021 is now available in this portal. To access this click on ECHS POLICY LETTERS link above, under ECHS CARD, click   TRANSFER OF ECHS CARDS BETWEEN POLYCLINICS. This feature allows your 64 kB cards received in one city from where you applied to be sent to the city where you have moved before receiving the 64 kB card. Contents are self-explanatory</B>
 <BR><BR>
