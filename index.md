@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>12 JUL 2021 For 64kB Card collection related queries from Stn HQ , CHAFB office, contact JWO Tripathi  Mobile # 95968 46262 or Ms Shiarangini  , Mobile # 86188 93318. Currently OIC Stn HQ is unwell  and hence avoid contacting him for few days</B>
+<BR><BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>12 JUL  2021 COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 11 Jul 2021 to 17 JUL 2021 is Gp Capt (Dr)   P C Ghosh (Retd  Mobile # 9448119581. A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
 <BR><BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>11 JUL 2021 – A New Version of POCKET GUIDE FOR SMART CARD with details of How to transfer 64 kB ECHS card across Polyclinic when you shift residence  is added in this portal. To read this, click on STEP - BY - STEP PROCEDURES link above, under ECHS Card , click  A POCKET GUIDE FOR ECHS BENEFICIARIES SMART CARD</B>
