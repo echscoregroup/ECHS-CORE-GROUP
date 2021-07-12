@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>12 JUL 2021 – In case of demise of a Beneficiary , the ECHS card is required to  be blocked by the Primary Beneficiary or NOK depending on the case. In addition, OIC Polyclinic is authorised to block card due to Disciplinary reasons. CO ECHS letter of 01 Jul 2021 providing the details is added in this portal. To access the letter, click on ECHS POLICY LETTERS link above, under ECHS CARD, click   BLOCKING OF 64Kb CARDS DEMISE OF BENEFICIARY. This is also included in the Pocket Book for Smart Cards document available in this portal</B>
+![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>12 JUL 2021 – IMPORTANT INFORMATION - In case of demise of a Beneficiary , the ECHS card is required to  be blocked by the Primary Beneficiary or NOK depending on the case. In addition, OIC Polyclinic is authorised to block card due to Disciplinary reasons. CO ECHS letter of 01 Jul 2021 providing the details is added in this portal. To access the letter, click on ECHS POLICY LETTERS link above, under ECHS CARD, click   BLOCKING OF 64Kb CARDS DEMISE OF BENEFICIARY. This is also included in the Pocket Book for Smart Cards document available in this portal</B>
 <BR><BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>12 JUL 2021 For 64kB Card collection related queries from Stn HQ , CHAFB office, contact JWO Tripathi  Mobile # 95968 46262 or Ms Shiarangini  , Mobile # 86188 93318. Currently OIC Stn HQ is unwell  and hence avoid contacting him for few days</B>
 <BR><BR>
