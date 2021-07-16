@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>16 JUL 2021 – INFORMATION ABOUT VALIDITY OF ONLINE TEMPORARY SLIP – Due to COVID pandemic, the Validity of On-Line Temporary Slips that were downloaded after applying for 64kB card   is extended to 31 Oct 2021. To access the CO ECHS letter dated 15 Jul 2021, click on ECHS POLICY LETTERS link above, under ECHS CARD, click   VALIDITY DATE ONLINE TEMPORARY SLIP</B>
+<BR><BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>15 JUL 2021 – IMPORTANT INFORMATION ABOUT REFERRAL BY POLYCLINIC (URBAN ) TO EMPANELLED HOSPITALS – Due to the COVID situation, Beneficiaries of PC (Urban) will be given direct Referral by Medical Officer of PC(Urban) to meet Specialists of Empanelled Hospitals. Beneficiaries need not be referred to CHAFB. This is a temporary measure<B>
 <BR><BR>
 <B>13 JUL 2021 – FROM ADMINISTRATOR - The information that is made available in this web portal since launch will answer over 90 % of your queries pertaining to ECHS. The portal is designed , keeping in view that a Non Computer savvy person can also use this portal with very little practice. I request all users to take time and browse through the contents, such as Messages, Procedures & Policies. You are most welcome to ask me queries for which you do not find answers here. You may also suggest areas that needs to be included in this web portal. I will try my best to meet such needs. Please share the Web Portal address to as many Veterans as you can across India , so that others benefit from the information available,  at the click of mouse</B>
