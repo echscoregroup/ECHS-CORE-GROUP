@@ -16,6 +16,7 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	ECHS CARD 
 ----------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/VALIDITY%20DATE%20ONLINE%20TEMPORRY%20SLIP.pdf">VALIDITY DATE ONLINE TEMPORRY SLIP</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/BLOCKING%20OF%2064Kb%20CARDS%20DEMISE%20OF%20BENEFICARY.pdf">BLOCKING OF 64Kb CARDS DEMISE OF BENEFICARY</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ECHS%20FAULTY%20CARD%20MANAGEMENT.pdf">ECHS FAULTY CARD MANAGEMENT</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/TRANSFER%20OF%20ECHS%20CARDS%20BETWEEN%20POLYCLINICS.pdf">TRANSFER OF ECHS CARDS BETWEEN POLYCLINICS</a></li></h5>
