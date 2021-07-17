@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>52.	18 JUL 2021 – Duty Medical Officer (DMO) at Polyclinic Jalahalli from 18 Jul 2021 to 24 Jul 2021  is Dr Murali Mobile # 9448412503. Beneficiaries may contact the DMO for Medical Help after PC working hours</B>
+![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>18 JUL 2021 – Duty Medical Officer (DMO) at Polyclinic Jalahalli from 18 Jul 2021 to 24 Jul 2021  is Dr Murali Mobile # 9448412503. Beneficiaries may contact the DMO for Medical Help after PC working hours</B>
 <BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>18 JUL  2021 COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 18 Jul 2021 to 24 JUL 2021 is Maj (Dr) Rukmani  Mobile # 9880258426. A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
 <BR>
