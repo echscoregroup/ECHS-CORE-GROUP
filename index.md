@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>17 JUL 2021 – IMPORTANT INFORMATION – The ECHS cards may be blocked under certain conditions such as Ineligibility, Demise or Disciplinary reasons. A revised letter from Central Org, ECHS dated 16 Jul 2021 has been issued now. Earlier letter dated 01 Jul 2021 has been superseded. CO ECHS letter of 16 Jul 2021 providing the details is added in this portal. To access the letter, click on ECHS POLICY LETTERS link above, under ECHS CARD, click BLOCKING OF CARDS INELIGIBILITY DEMISE DISCIPLINARY REASONS</B> 
+<BR><BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>17 JUL 2021 – REFERRAL PROCEDURE TO EMPANELLED HOSPITALS – A comprehensive letter from Central Org , ECHS dated 15 Jul 2021 has been issued. A very useful read.. The STEP – BY - STEP PROCEDURE FOR TREATMENT AT EMPANELLED HOSPITALS published here is also being modified in line with the policies contained in this letter. To access the Policy Letter dated 15 Jul 2021, click on ECHS POLICY LETTERS link above, under EMPANELLED & NON-EMPANELLED HOSPITALS, click REFERRAL PROCEDURE TO EMPANELLED HOSPITALS</B>
 <BR><BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>16 JUL 2021 – INFORMATION ABOUT VALIDITY OF ONLINE TEMPORARY SLIP – Due to COVID pandemic, the Validity of On-Line Temporary Slips that were downloaded after applying for 64kB card   is extended to 31 Oct 2021. To access the CO ECHS letter dated 15 Jul 2021, click on ECHS POLICY LETTERS link above, under ECHS CARD, click   VALIDITY DATE ONLINE TEMPORARY SLIP</B>
