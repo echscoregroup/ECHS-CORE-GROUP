@@ -15,7 +15,7 @@
 # Important Messages
 <hr>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>17 Jul 2021 – Good Information is available in CHAFB Web site related to COVID - Vaccination, RT-PCR testing and In-patient care (Oxygen/Medications/Hospital Beds/Ventilators). Click on the CHAFB website link above to visit the CHAFB website</B> 
- <BR><BR>
+ <BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>17 JUL 2021 – IMPORTANT INFORMATION – The ECHS cards may be blocked under certain conditions such as Ineligibility, Demise or Disciplinary reasons. A revised letter from Central Org, ECHS dated 16 Jul 2021 has been issued now. Earlier letter dated 01 Jul 2021 has been superseded. CO ECHS letter of 16 Jul 2021 providing the details is added in this portal. To access the letter, click on ECHS POLICY LETTERS link above, under ECHS CARD, click BLOCKING OF CARDS INELIGIBILITY DEMISE DISCIPLINARY REASONS</B> 
 <BR><BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>17 JUL 2021 – REFERRAL PROCEDURE TO EMPANELLED HOSPITALS – A comprehensive letter from Central Org , ECHS dated 15 Jul 2021 has been issued. A very useful read.. The STEP – BY - STEP PROCEDURE FOR TREATMENT AT EMPANELLED HOSPITALS published here is also being modified in line with the policies contained in this letter. To access the Policy Letter dated 15 Jul 2021, click on ECHS POLICY LETTERS link above, under EMPANELLED & NON-EMPANELLED HOSPITALS, click REFERRAL PROCEDURE TO EMPANELLED HOSPITALS</B>
