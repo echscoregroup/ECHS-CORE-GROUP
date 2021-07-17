@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>18 JUL  2021 COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 18 Jul 2021 to 24 JUL 2021 is Maj (Dr) Rukmani  Mobile # 9880258426. A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
+<BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>17 Jul 2021 – Good Information is available in CHAFB Web site related to COVID - Vaccination, RT-PCR testing and In-patient care (Oxygen/Medications/Hospital Beds/Ventilators). Click on the CHAFB website link above to visit the CHAFB website</B> 
  <BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>17 JUL 2021 – IMPORTANT INFORMATION – The ECHS cards may be blocked under certain conditions such as Ineligibility, Demise or Disciplinary reasons. A revised letter from Central Org, ECHS dated 16 Jul 2021 has been issued now. Earlier letter dated 01 Jul 2021 has been superseded. CO ECHS letter of 16 Jul 2021 providing the details is added in this portal. To access the letter, click on ECHS POLICY LETTERS link above, under ECHS CARD, click BLOCKING OF CARDS INELIGIBILITY DEMISE DISCIPLINARY REASONS</B> 
