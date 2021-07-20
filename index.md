@@ -14,6 +14,38 @@
 </table>
 # Important Messages
 <hr>
+<BR>
+![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)20 JUL 2021 – Frequent queries are received about Polyclinic working Hours and lunch time closure, etc. The Policy letter of CO ECHS is published in this web portal & can be accessed by clicking on   ECHS POLICY LETTERS link above, under POLYCLINIC, click   WORKING HOURS POLYCLINIC. This is applicable for all Polyclinics across India.  
+<BR>
+<table style="width:100%">
+  <tr>
+    <th>ACTIVITY DESCRIPTION</th>
+    <th>WORKING HOURS </th> 
+    
+  </tr>
+  <tr>
+    <td>POLYCLINIC WORKING HOURS</td>
+    <td>0800 to 1600 hrs (8 AM to 4 PM)</td>
+  </tr>
+  <tr>
+    <td>LUNCH HOURS</td>
+    <td>STAGGERED.No One is denied treatment
+   </tr>
+  
+  </tr>
+  <tr>
+  	<td>ISSUING OF REFERRALS</td>
+  	<td>0800 to 1600 Hrs (8 AM to 4 PM) 
+  </tr>
+  
+    <td>POLYCLINIC ADMIN HOURS</td>
+    <td>1500 TO 1600 hRS (3 TO 4 pm)</td>
+       </tr>
+       
+   <td></td>
+  </tr>
+</table>
+<BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>20 JUL 2021 – This portal has Procedures that describes various Referrals that are available to ECHS Beneficiaries. Refer STEP BY STEP PROCEDURES – EMPANELLED HOSPITALS & POCKET GUIDE MANAGING MEDICAL CONDITIONS published here. In summary , Five (05) Types of Referrals a Polyclinic can issue are – 1. Routine Planned Referral to Empanelled Hospital 2. Routine Planned Referral from Military Polyclinic to affiliated Military Hospital 3. Referral to Empanelled Hospital under Emergency Medical condition 4. Referral to Military Hospital outside the Area Of Responsibility (AOR) of Regional Centre & 5. Referral to Empanelled Hospital outside the Area Of Responsibility (AOR) of Regional Centre</B>
 <BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>19 Jul 2021 – Pocket Guide for Managing Medical Conditions by ECHS Beneficiaries has been updated incorporating ECHS recent policies. This Pocket Guide will help Beneficiaries. Take a print out and keep it as a ready reference. To access the Pocket Guide , click on STEP – BY – STEP PROCEDURES link above, under HELPLINE , click POCKET GUIDE MANAGING MEDICAL CONDITIONS</B>
