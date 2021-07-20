@@ -15,13 +15,12 @@
 # Important Messages
 <hr>
 <BR>
-![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)20 JUL 2021 – Frequent queries are received about Polyclinic working Hours and lunch time closure, etc. The Policy letter of CO ECHS is published in this web portal & can be accessed by clicking on   ECHS POLICY LETTERS link above, under POLYCLINIC, click   WORKING HOURS POLYCLINIC. This is applicable for all Polyclinics across India.  
+![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>20 JUL 2021 – Frequent queries are received about Polyclinic working Hours and lunch time closure, etc. The Policy letter of CO ECHS is published in this web portal & can be accessed by clicking on   ECHS POLICY LETTERS link above, under POLYCLINIC, click   WORKING HOURS POLYCLINIC. This is applicable for all Polyclinics across India.  
 <BR>
-<table style="width:100%">
+<table>
   <tr>
     <th>ACTIVITY DESCRIPTION</th>
     <th>WORKING HOURS </th> 
-    
   </tr>
   <tr>
     <td>POLYCLINIC WORKING HOURS</td>
@@ -29,20 +28,17 @@
   </tr>
   <tr>
     <td>LUNCH HOURS</td>
-    <td>STAGGERED.No One is denied treatment
+    <td>STAGGERED.No One is denied treatment</td>
    </tr>
   
   </tr>
   <tr>
   	<td>ISSUING OF REFERRALS</td>
-  	<td>0800 to 1600 Hrs (8 AM to 4 PM) 
+  	<td>0800 to 1600 Hrs (8 AM to 4 PM) </td>
   </tr>
-  
+  <tr>
     <td>POLYCLINIC ADMIN HOURS</td>
     <td>1500 TO 1600 hRS (3 TO 4 pm)</td>
-       </tr>
-       
-   <td></td>
   </tr>
 </table>
 <BR>
