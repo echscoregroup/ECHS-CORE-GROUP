@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td>POLYCLINIC ADMIN HOURS</td>
-    <td>1500 TO 1600 hRS (3 TO 4 pm)</td>
+    <td>1500 TO 1600 Hrs (3 TO 4 pm)</td>
   </tr>
 </table>
 <BR>
