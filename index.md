@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>ECHS Polyclinic Bangalore ( U) will remain closed on 21 July 2021 on account of Bakrid</B> 
+<BR><BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>20 JUL 2021 – Frequent queries are received about Polyclinic working Hours and lunch time closure, etc. The Policy letter of CO ECHS is published in this web portal & can be accessed by clicking on   ECHS POLICY LETTERS link above, under POLYCLINIC, click   WORKING HOURS POLYCLINIC. This is applicable for all Polyclinics across India.</B>
 <table>
   <tr>
