@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"<B>20 JUL 2021 – Frequent queries are received about Polyclinic working Hours and lunch time closure, etc. The Policy letter of CO ECHS is published in this web portal & can be accessed by clicking on   ECHS POLICY LETTERS link above, under POLYCLINIC, click   WORKING HOURS POLYCLINIC. This is applicable for all Polyclinics across India.</B>
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><B>20 JUL 2021 – Frequent queries are received about Polyclinic working Hours and lunch time closure, etc. The Policy letter of CO ECHS is published in this web portal & can be accessed by clicking on   ECHS POLICY LETTERS link above, under POLYCLINIC, click   WORKING HOURS POLYCLINIC. This is applicable for all Polyclinics across India.</B>
 <table>
   <tr>
     <th>ACTIVITY DESCRIPTION</th>
