@@ -39,15 +39,15 @@
     <td>1500 TO 1600 Hrs (3 TO 4 pm)</td>
   </tr>
 </table>
-<BR>
+<BR><BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>20 JUL 2021 – This portal has Procedures that describes various Referrals that are available to ECHS Beneficiaries. Refer STEP BY STEP PROCEDURES – EMPANELLED HOSPITALS & POCKET GUIDE MANAGING MEDICAL CONDITIONS published here. In summary , Five (05) Types of Referrals a Polyclinic can issue are – 1. Routine Planned Referral to Empanelled Hospital 2. Routine Planned Referral from Military Polyclinic to affiliated Military Hospital 3. Referral to Empanelled Hospital under Emergency Medical condition 4. Referral to Military Hospital outside the Area Of Responsibility (AOR) of Regional Centre & 5. Referral to Empanelled Hospital outside the Area Of Responsibility (AOR) of Regional Centre</B>
 <BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>19 Jul 2021 – Pocket Guide for Managing Medical Conditions by ECHS Beneficiaries has been updated incorporating ECHS recent policies. This Pocket Guide will help Beneficiaries. Take a print out and keep it as a ready reference. To access the Pocket Guide , click on STEP – BY – STEP PROCEDURES link above, under HELPLINE , click POCKET GUIDE MANAGING MEDICAL CONDITIONS</B>
-<BR>
+<BR><BR>
 <B>18 JUL 2021 – Duty Medical Officer (DMO) at Polyclinic Jalahalli from 18 Jul 2021 to 24 Jul 2021  is Dr Murali Mobile # 9448412503. Beneficiaries may contact the DMO for Medical Help after PC working hours</B>
-<BR>
+<BR><BR>
 <B>18 JUL  2021 COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 18 Jul 2021 to 24 JUL 2021 is Maj (Dr) Rukmani  Mobile # 9880258426. A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
-<BR>
+<BR><BR>
 <B>17 Jul 2021 – Good Information is available in CHAFB Web site related to COVID - Vaccination, RT-PCR testing and In-patient care (Oxygen/Medications/Hospital Beds/Ventilators). Click on the CHAFB website link above to visit the CHAFB website</B> 
  <BR>
 <B>17 JUL 2021 – IMPORTANT INFORMATION – The ECHS cards may be blocked under certain conditions such as Ineligibility, Demise or Disciplinary reasons. A revised letter from Central Org, ECHS dated 16 Jul 2021 has been issued now. Earlier letter dated 01 Jul 2021 has been superseded. CO ECHS letter of 16 Jul 2021 providing the details is added in this portal. To access the letter, click on ECHS POLICY LETTERS link above, under ECHS CARD, click BLOCKING OF CARDS INELIGIBILITY DEMISE DISCIPLINARY REASONS</B> 
