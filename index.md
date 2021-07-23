@@ -15,7 +15,7 @@
 # Important Messages
 <hr>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>23 JUL 2021 – COVID VACCINATION - MESSAGE FROM OIC POLYCLINIC MEG & CENTRE - Covid 19 Vaccination Program in MEG & Centre ECHS Polyclinic (Subject to receiving response) with effect from 24 Jul 2021. Important points are given below:</B>
-<B>1. Only ECHS Beneficiaries will be vaccinated. 2. Time: 1330h to 1530h. 3. Location : ECHS Polyclinic MEG & Centre.4. Age Group -  18 Yrs + 5. Documents required - ECHS Card / Temporary Slip ,  Aadhar Card / PAN Card. Vaccination by Appointment only. 7. Interested ECHS Beneficiary to forward following detail on Mob No 9448234120. ECHS Card/Temporary Slip No, Name of ESM , Name of person requiring vaccination , Gender: Male/Female. PLEASE COME TO POLYCLINIC FOR VACCINATION ONLY ON GETTING MESSAGE FROM MOBILE NUMBER 9448234120 ONLY</B>
+<B>1. Only ECHS Beneficiaries will be vaccinated. 2. Time: 1330h to 1530h. 3. Location : ECHS Polyclinic MEG & Centre.4. Age Group -  18 Yrs + 5. Documents required - ECHS Card / Temporary Slip ,  Aadhar Card / PAN Card. Vaccination by Appointment only. 7. Interested ECHS Beneficiary to forward following detail on Mob No 9448234120. ECHS Card/Temporary Slip No, Name of ESM , Name of person requiring vaccination , Gender: Male/Female. PLEASE COME TO POLYCLINIC FOR VACCINATION ONLY ON GETTING MESSAGE FROM MOBILE NUMBER 9448234120</B>
 <BR><BR>
 ![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>ECHS Polyclinic Bangalore ( U) will remain closed on 21 July 2021 on account of Bakrid</B> 
 <BR><BR>
