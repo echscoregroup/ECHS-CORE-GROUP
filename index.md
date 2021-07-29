@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>29 Jul 2021 – COVISHIELD Vaccination is being administered at CHAFB daily for Veterans. Supply of vaccines are however erratic</B>
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>FOR ALL INDIA -- 28 JUL 2021 – REFERRAL PROCEDURE TO EMPANELLED HOSPITALS – Comprehensive information vide letters from Central Org , ECHS dated 15 Jul 2021 & 27 Jul 2021 have been issued and is published here. A very useful read. To access the Policy Letters dated 15 & 27 Jul 2021, click on ECHS POLICY LETTERS link above, under EMPANELLED & NON-EMPANELLED HOSPITALS, click REFERRAL PROCEDURE TO EMPANELLED HOSPITALS</B> 
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><B>For BANGALORE 26 JUL 2021 - The Polyclinic (Urban)  is located in a low area. Yesterday's rain has resulted in water logging of both the waiting areas. A lot of mud and silt has settled down. This is being cleared since last night. Polyclinic will open late today</B>
