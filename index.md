@@ -37,7 +37,6 @@
     <td>1500 TO 1600 Hrs (3 TO 4 pm)</td>
   </tr>
 </table>
-
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>03 AUG 2021 - FOR BANGALORE – Free Eye Check up - Dr. Zamindar  Microsurgical Eye Center Bangalore (ECHS Empanelled Hospital) is offering complimentary Eye Check-up to all ESM. The screening is scheduled on 16th August 2021 at  Prema Plaza, Banaswadi, Bangalore between 9.00 AM  to 5.00 PM. The screening will be for Cataract, Glaucoma and Retina with Retinal photo. The hospital is NABH certified, and follows all the covid guidelines for patient safety. 100 appointment slots are available. To register please send  the Name and Age via SMS to Mobile number 8123752250 or fill the form by using the link https://forms.gle/tGNUiC7ukhbsq3PF6 </B>
 <BR><BR>
