@@ -14,6 +14,31 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>FOR ALL INDIA - 04 AUG 2021 - Frequent queries are received about ECHS Polyclinic working Hours, Referral Issuing timings, lunch time closure, et al. Policy letter of Central Organisation, ECHS,  clearly indicates these details, applicable for all Polyclinics across India. The Policy letter is available in this Web Portal and can be accessed by ---  Click the link ECHS POLICY LETTERS above, under the heading POLYCLINIC, click  WORKING HOURS POLYCLINIC. A summary of the working hours is given below for quick reference</B> 
+<table>
+<tr>
+    <th>ACTIVITY DESCRIPTION</th>
+    <th>WORKING HOURS </th> 
+  </tr>
+  <tr>
+    <td><b>POLYCLINIC WORKING HOURS</b></td>
+    <td>0800 to 1600 hrs (8 AM to 4 PM)</td>
+  </tr>
+  <tr>
+    <td><B>LUNCH HOURS</B></td>
+    <td>STAGGERED. No Beneficiary shall be  denied treatment</td>
+   </tr>
+  <tr>
+  	<td><B>ISSUING OF REFERRALS</B></td>
+  	<td>0800 to 1600 Hrs (8 AM to 4 PM) </td>
+  </tr>
+  <tr>
+    <td><B>POLYCLINIC ADMIN HOURS</B></td>
+    <td>1500 TO 1600 Hrs (3 TO 4 pm)</td>
+  </tr>
+</table>
+
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>03 AUG 2021 - FOR BANGALORE – Free Eye Check up - Dr. Zamindar  Microsurgical Eye Center Bangalore (ECHS Empanelled Hospital) is offering complimentary Eye Check-up to all ESM. The screening is scheduled on 16th August 2021 at  Prema Plaza, Banaswadi, Bangalore between 9.00 AM  to 5.00 PM. The screening will be for Cataract, Glaucoma and Retina with Retinal photo. The hospital is NABH certified, and follows all the covid guidelines for patient safety. 100 appointment slots are available. To register please send  the Name and Age via SMS to Mobile number 8123752250 or fill the form by using the link https://forms.gle/tGNUiC7ukhbsq3PF6 </B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>02 AUG 2021 – FOR ALL INDIA – INFORMATION - Many ECHS beneficiaries are asking about the CT Medicines reimbursement extension beyond 31 Jul 2021. I have received a reply from MD, ECHS TODAY, that, only if and when CGHS extends,the ECHS extension will happen</b>
