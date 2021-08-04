@@ -46,15 +46,15 @@
     <td>0800 to 1600 hrs (8 AM to 4 PM)</td>
   </tr>
   <tr>
-    <td>LUNCH HOURS</td>
+    <td><B>LUNCH HOURS</B></td>
     <td>STAGGERED.No One is denied treatment</td>
    </tr>
   <tr>
-  	<td>ISSUING OF REFERRALS</td>
+  	<td><B>ISSUING OF REFERRALS</B></td>
   	<td>0800 to 1600 Hrs (8 AM to 4 PM) </td>
   </tr>
   <tr>
-    <td>POLYCLINIC ADMIN HOURS</td>
+    <td><B>POLYCLINIC ADMIN HOURS</B></td>
     <td>1500 TO 1600 Hrs (3 TO 4 pm)</td>
   </tr>
 </table>
