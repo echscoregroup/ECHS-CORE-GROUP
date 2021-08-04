@@ -42,7 +42,7 @@
     <th>WORKING HOURS </th> 
   </tr>
   <tr>
-    <td>POLYCLINIC WORKING HOURS</td>
+    <td><b>POLYCLINIC WORKING HOURS</b></td>
     <td>0800 to 1600 hrs (8 AM to 4 PM)</td>
   </tr>
   <tr>
