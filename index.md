@@ -17,8 +17,8 @@
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>FOR ALL INDIA - 04 AUG 2021 - Frequent queries are received about ECHS Polyclinic working Hours, Referral Issuing timings, lunch time closure, et al. Policy letter of Central Organisation, ECHS,  clearly indicates these details, applicable for all Polyclinics across India. The Policy letter is available in this Web Portal and can be accessed by ---  Click the link ECHS POLICY LETTERS above, under the heading POLYCLINIC, click  WORKING HOURS POLYCLINIC. A summary of the working hours is given below for quick reference</B> 
 <table>
 <tr>
-    <th>ACTIVITY DESCRIPTION</th>
-    <th>WORKING HOURS </th> 
+    <th><B>ACTIVITY DESCRIPTION</B></th>
+    <th><B>WORKING HOURS</B></th> 
   </tr>
   <tr>
     <td><b>POLYCLINIC WORKING HOURS</b></td>
