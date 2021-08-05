@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>FOR ALL INDIA - 05 JUL 2021 – ? DO YOU KNOW ? – If you want to correct 64kB ECHS Card Application even after your Record Office has Verified it successfully, you can do this by using REVERT APPLICATION option. To know the procedure , click STEP BY STEP PROCEDURES link above , under ECHS CARD heading click the document PROCEDURE USE OF REVERT APPLICATION 64kB CARD</B>
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>FOR ALL INDIA - 04 AUG 2021 - Frequent queries are received about ECHS Polyclinic working Hours, Referral Issuing timings, lunch time closure, et al. Policy letter of Central Organisation, ECHS,  clearly indicates these details, applicable for all Polyclinics across India. The Policy letter is available in this Web Portal and can be accessed by ---  Click the link ECHS POLICY LETTERS above, under the heading POLYCLINIC, click  WORKING HOURS POLYCLINIC. A summary of the working hours is given below for quick reference</B> 
 <table>
 <tr>
