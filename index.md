@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>FOR ALL INDIA – 06 AUG 2021 – IMPORTANT INFORMATION ABOUT ECHS CARD issued vide CO ECHS vide letter dated 03 Aug 2021 -- 16 kB ECHS Card & Offline Temporary slips are NOT VALID to get Medical cover and Referrals from ECHS. If you still have 16 kB card or Offline Temporary slip and if there is a Medical Emergency approach your Polyclinic and apply for 64 kB card immediately. A provision called Guest User is available with OIC Polyclinic to apply for the card and get a Online Temporary Slip</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>FOR ALL INDIA – 05 AUG 2021 – A STEP -BY-STEP Procedure for  Use of Empanelled Hospital facilities under Routine Referral has been updated today with important changes & is shared in this web portal. To read this Procedure – click STEP BY STEP PROCEDURES link above, under EMPANELLED HOSPITALS heading click PROCEDURE USE OF EMPANELLED HOSPITAL FACILITIES ROUTINE REFERRAL</B>
 <BR><BR>
