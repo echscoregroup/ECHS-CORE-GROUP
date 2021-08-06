@@ -9,8 +9,8 @@
 <table>
 <tr><th colspan=2>Useful External Web sites:-</th></tr>
 <tr><td><B>Central Orgn ECHS, New Delhi</B></td><td><a href="https://echs.gov.in/">https://echs.gov.in/</a></td></tr>
-<tr><td><B>Command Hospital AF (CHAFB)</B></td><td><a href="https://www.chaf-b.org/">https://www.chaf-b.org/</a></td></tr>
 <tr><td><B>64kB Online Card Application</B> </td><td><a href="https://echs.sourceinfosys.com/">https://echs.sourceinfosys.com/</a></td></tr>
+<tr><td><B>Command Hospital Air Force, Bangalore (CHAFB)</B></td><td><a href="https://www.chaf-b.org/">https://www.chaf-b.org/</a></td></tr>
 </table>
 # Important Messages
 <hr>
