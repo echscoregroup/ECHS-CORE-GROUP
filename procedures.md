@@ -30,7 +30,7 @@ title: "HELPING HANDS FOR ECHS"
 #	POCKET GUIDE  
 -----------
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/PROCEDURES/POCKET%20GUIDE%20FOR%20ECHS%20CARD.pdf">POCKET GUIDE FOR ECHS CARD</a></li></h5>
-
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/PROCEDURES/POCKET%20GUIDE%20MANAGING%20MEDICAL%20CONDITIONS.pdf">POCKET GUIDE MANAGING MEDICAL CONDITIONS</a></li></h5>
 <br>
 
 #	MEMBERSHIP ELIGIBILITY  
