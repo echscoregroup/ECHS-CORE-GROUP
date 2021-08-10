@@ -39,7 +39,6 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	HELPLINE 
 -----------
-<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/POCKET%20GUIDE%20MANAGING%20MEDICAL%20CONDITIONS.pdf">POCKET GUIDE MANAGING MEDICAL CONDITIONS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/HOW%20TO%20FIND%20ECHS%20CONTACT%20DETAILS.pdf">HOW TO FIND ECHS CONTACT DETAILS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/REFERRAL%20CELL%20CHAFB%20CONTACT%20DETAILS.pdf">REFERRAL CELL CHAFB CONTACT DETAILS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/ECHS%20CENTRAL%20ORG%20CONTACTS.pdf">ECHS CENTRAL ORG CONTACTS</a></li></h5>
