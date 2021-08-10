@@ -1,30 +1,65 @@
-#	<center>STEP - BY - STEP PROCEDURES </center>
-![alt text](https://github.com/echscoregroup/images/blob/main/Screenshot%202021-05-31%20092723.jpg?raw=true) 
+---
+title: "HELPING HANDS FOR ECHS"
+---
+<table>
+  <tr><td><img src="https://github.com/echscoregroup/images/blob/main/Screenshot%202021-05-31%20092723.jpg?raw=true" width="100" height="100"></td>
+    <td><h2>STEP - BY - STEP PROCEDURES</h2></td></tr>
+ </table>
 
 #	EMPANELLED HOSPITALS
 -----------
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/HOW%20TO%20FIND%20LIST%20OF%20EMPANELLED%20HOSPITAL.pdf">HOW TO FIND LIST OF EMPANELLED HOSPITAL</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/REFERRAL%20CELL%20CHAFB%20CONTACT%20DETAILS.pdf">REFERRAL CELL CHAFB CONTACT DETAILS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/PROCEDURE%20USE%20OF%20EMPANELLED%20HOSPITAL%20FACILITIES%20EMERGENCY%20MEDICAL%20CONDITION.pdf">PROCEDURE USE OF EMPANELLED HOSPITAL FACILITIES EMERGENCY MEDICAL CONDITION</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/PROCEDURE%20USE%20OF%20EMPANELLED%20HOSPITAL%20FACILITIES%20ROUTINE%20REFERRAL.pdf">PROCEDURE USE OF EMPANELLED HOSPITAL FACILITIES ROUTINE REFERRAL</a></li></h5>
+<br>
 #	NON - EMPANELLED HOSPITALS
 -----------
-#	ECHS CARD  
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/REFERRAL%20CELL%20CHAFB%20CONTACT%20DETAILS.pdf">REFERRAL CELL CHAFB CONTACT DETAILS</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/PROCEDURE%20USE%20OF%20NON%20EMPANELLED%20HOSPITAL%20&%20REIMBURSEMENT.pdf">PROCEDURE USE OF NON EMPANELLED HOSPITAL & REIMBURSEMENT</a></li></h5>
+<br>
+#	ECHS CARD
 -----------
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/PROCEDURE%20USE%20OF%20REVERT%20APPLICATION%2064kB%20CARD.pdf">PROCEDURE USE OF REVERT APPLICATION 64kB CARD</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/PROCEDURE%20STORAGE%20OF%20ECHS%20CARD%20IN%20DIGILOCKER.pdf">PROCEDURE STORAGE OF ECHS CARD IN DIGILOCKER</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/PROCEDURE%2064%20kB%20CARD%20CHANGE%20MOBILE%20NUMBER%20&%20POLYCLINIC.pdf">PROCEDURE 64 kB CARD CHANGE MOBILE NUMBER & POLYCLINIC</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/PROCEDURE%20HOW%20TO%20USE%2064%20kB%20ECHS%20SMART%20CARD%20AT%20POLYCLINIC%20KIOSK.pdf">PROCEDURE HOW TO USE 64 kB ECHS SMART CARD AT POLYCLINIC KIOSK</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/A%20POCKET%20GUIDE%20FOR%20ECHS%20BENEFICIARIES%20SMART%20CARD.pdf">A POCKET GUIDE FOR ECHS BENEFICIARIES SMART CARD</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/FAMILY%20PENSIONER%20PROCEDURE%20TO%20APPLY%20FOR%2064%20KB%20ECHS%20CARD.pdf">FAMILY PENSIONER PROCEDURE TO APPLY FOR 64 KB ECHS CARD</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/ESM%20ALIVE%20CASES%20PROCEDURE%20TO%20APPLY%20FOR%2064%20KB%20ECHS%20CARD.pdf">ESM ALIVE CASES PROCEDURE TO APPLY FOR 64 KB ECHS CARD</a></li></h5>
-
+<br>
 # POCKET GUIDE
--------------
-
+--------------
+<BR>
 #	MEMBERSHIP ELIGIBILITY  
 -----------
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/ELIGIBILITY%20FOR%20ECHS%20MEMBERSHIP%20DEPENDENTS%20&%20SPECIAL%20CATEGORIES.pdf">ELIGIBILITY FOR ECHS MEMBERSHIP DEPENDENTS & SPECIAL CATEGORIES</a></li></h5>
+<br>
 #	HELPLINE 
 -----------
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/POCKET%20GUIDE%20MANAGING%20MEDICAL%20CONDITIONS.pdf">POCKET GUIDE MANAGING MEDICAL CONDITIONS</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/HOW%20TO%20FIND%20ECHS%20CONTACT%20DETAILS.pdf">HOW TO FIND ECHS CONTACT DETAILS</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/REFERRAL%20CELL%20CHAFB%20CONTACT%20DETAILS.pdf">REFERRAL CELL CHAFB CONTACT DETAILS</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/ECHS%20CENTRAL%20ORG%20CONTACTS.pdf">ECHS CENTRAL ORG CONTACTS</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/OXYGEN%20CONCENTRATOR%20FOR%20VETERANS.pdf">OXYGEN CONCENTRATOR FOR VETERANS</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/AFROWA%20AMBULANCE%20FOR%20VETERANS.pdf">AFROWA AMBULANCE FOR VETERANS</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/24%20X%207%20MEDICAL%20HELPLINES.pdf">24 X 7 MEDICAL HELPLINES</a></li></h5>
+
+<br>
 #	REIMBURSEMENT 
 -----------
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/VERIFY%20STATUS%20REIMBURSEMENT%20CLAIMS.pdf">VERIFY STATUS REIMBURSEMENT CLAIMS</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/CONTINGENT%20BILL%20FORMAT.pdf">CONTINGENT BILL FORMAT</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/PROCEDURE%20TO%20CLAIM%20REIMBURSEMENT%20OF%20CT%20MEDICINES.pdf">PROCEDURE TO CLAIM REIMBURSEMENT OF CT MEDICINES</a></li></h5>
+<br>
 #	PRIORITY TREATMENT 
 -----------
-#	COVID ADVISORY 
+<h5><li><a href="https://github.com/echscoregroup/ECHS-CORE-GROUP/raw/main/PROCEDURES/ECHS%20BENEFICIARIES%20PRIORITY%20TREATMENT%20DIRECT%20OPD%20AND%20SPECIAL%20CATEGORY.pdf">ECHS BENEFICIARIES PRIORITY TREATMENT DIRECT OPD AND SPECIAL CATEGORY</a></li></h5>
+<br>
+#	ECHS MOBILE APP 
 -----------
-#	SERVICE HOSPITAL 
------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/PROCEDURES/PROCEDURE%20%20TO%20USE%20ECHS%20MOBILE%20APP.pdf">PROCEDURE TO USE ECHS MOBILE APP</a></li></h5>
 
- <h4><a href="https://echscoregroup.github.io/ECHS-CORE-GROUP/">Home</a></h4><br>
+<br>
+
+ <h4><a href="https://echscoregroup.github.io/Helping-Hands-For-ECHS/">Home</a></h4><br>
