@@ -35,19 +35,15 @@ title: "HELPING HANDS FOR ECHS"
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSEMENT%20CT%20MEDICINES.pdf">REIMBURSEMENT CT MEDICINES</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSMENT%20COVID%20HOME%20ISOLATION.pdf">REIMBURSMENT COVID HOME ISOLATION</a></li></h5>
 <br>
-
-<br>
 #	COVID ADVISORY 
 ----------------
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/DENTAL%20TREATMENT%20COVID%20SAFETY.pdf">DENTAL TREATMENT COVID SAFETY</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ADMINISTRATION%20OF%20COVID%20VACCINE%20AT%20POLYCLINICS%20.pdf">ADMINISTRATION OF COVID VACCINE AT POLYCLINICS </a></li></h5>
-
 <br>
 #	SERVICE HOSPITAL 
 ----------------
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/TREATMENT%20AT%20SERVICE%20HOSPITALS%20ELIGIBILTY.pdf">TREATMENT AT SERVICE HOSPITALS ELIGIBILTY</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/NO%20REFERRAL%20TO%20SERVICE%20HOSPITALS%2075%20YRS%20&%20ABOVE.pdf">NO REFERRAL TO SERVICE HOSPITALS 75 YRS & ABOVE</a></li></h5>
-
 <BR>
 #   POLYCLINIC 
 --------------
