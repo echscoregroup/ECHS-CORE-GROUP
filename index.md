@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>ALL INDIA - 17 AUG  2021 – IMPORTANT INFORMATION Reimbursement of Cost of Medicines due to COVID for ECHS Beneficiaries is now extended up to 31 Oct 2021. MoD letter dated 17 Aug 21 is issued and ECHS letter will follow</B> 
+<R><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>16 AUG 2021 - For BANGALORE. COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO) at Polyclinic (URBAN) for the week 15 to 21 Aug 2021  is Maj (Dr) Piyush Bali (Retd) , Mobile #  8289016484. A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>14 AUG 2021 – FOR ALL INDIA - DID YOU KNOW ? You can find on your own Contact details of ECHS Polyclinics & Regional Centre functionaries in any State or City in India. Just click STEP BY STEP  PROCEDURES link above, under the heading HELPLINE, click on the document HOW TO FIND ECHS CONTACT DETAILS</B>
