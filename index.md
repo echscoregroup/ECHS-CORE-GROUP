@@ -14,11 +14,13 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>22 AUG 2021 - For BANGALORE. COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO) at Polyclinic (URBAN) for the week 22 Aug  to 28 Aug 2021  is Dr H S Roopa , Mobile #  9599829300 / 9731449694.  A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>21 AUG 2021 - DID YOU KNOW ? - ALL INDIA - ECHS Beneficiaries who are 75 Years and Above can directly go to any Empanelled Hospital for CASHLESS OPD Consultation WITHOUT REFERRAL from your Polyclinic</b>
 <BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>18 AUG 2021 – ECHS Polyclinic is closed on 20 Aug 2021, a Public Holiday for Muhurram</B>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>18 AUG 2021 – ECHS Polyclinic is closed on 20 Aug 2021, a Public Holiday for Muhurram</B>
 <BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>ALL INDIA - 17 AUG  2021 – IMPORTANT INFORMATION Reimbursement of Cost of Medicines due to COVID for ECHS Beneficiaries is now extended up to 31 Oct 2021. MoD letter dated 17 Aug 21 is issued and ECHS letter will follow</B> 
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>ALL INDIA - 17 AUG  2021 – IMPORTANT INFORMATION Reimbursement of Cost of Medicines due to COVID for ECHS Beneficiaries is now extended up to 31 Oct 2021. MoD letter dated 17 Aug 21 is issued and ECHS letter will follow</B> 
 <bR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><B>16 AUG 2021 - For BANGALORE. COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO) at Polyclinic (URBAN) for the week 15 to 21 Aug 2021  is Maj (Dr) Piyush Bali (Retd) , Mobile #  8289016484. A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
 <BR><BR>
