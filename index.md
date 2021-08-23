@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>23 AUG  2021 – ALL INDIA - IMPORTANT INFORMATION REIMBURSEMENT OF COST OF CT MEDICINES EXTENDED FROM 01 AUG 2021 TO  TO 31 OCT 2021- Reimbursement of Cost of Medicines due to COVID for ECHS Beneficiaries is now extended up to 31 Oct 2021. CO ECHS letter dated 17 Aug 2021 has been issued. To access this letter click on ECHS POLICY LETTERS link above , under REIMBURSEMENT Heading, click on REIMBURSEMENT CT MEDICINES to read the Policy letter</B>   
+<br><br>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>22 AUG 2021 - For BANGALORE. COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO) at Polyclinic (URBAN) for the week 22 Aug  to 28 Aug 2021  is Dr H S Roopa , Mobile #  9599829300 / 9731449694.  A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>21 AUG 2021 - DID YOU KNOW ? - ALL INDIA - ECHS Beneficiaries who are 75 Years and Above can directly go to any Empanelled Hospital for CASHLESS OPD Consultation WITHOUT REFERRAL from your Polyclinic</b>
