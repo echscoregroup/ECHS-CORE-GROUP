@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>08 SEP 2021 - DID YOU KNOW? FOR ALL INDIA  - Making a DUPLICATE ECHS Card & using it for any purposes is a FORGERY. Such cases will result in BLOCKING of the ECHS Card. Central Orgn ECHS letter dated 10 Sep 2020 refers</b>
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>05 SEP 2021 - FOR BANGALORE. COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO) at Polyclinic (URBAN) for the week 05 SEP to 11 SEP 2021  is  Gp Capt (Dr) Sunil Baveja (Retd) , Mobile #  8130075180.  A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>05 SEP 2021 -  DID YOU KNOW? FOR ALL INDIA  – 16 kB ECHS Card & Offline Temporary slips are NOT VALID to get Medical cover and Referrals from ECHS. Apply for 64 kB card Immediately. Use the detailed Procedure available in this Web Portal</B> 
