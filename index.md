@@ -16,7 +16,7 @@
 <hr>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>12 SEP 2021 – FOR BANGALORE – COMMAND HOSPITAL AIR FORCE BANGALORE OPD DAYS & TIME is published for your use</b> 
 <BR>
-<img src="{{ "/assets/tipuesearch/CHAF BANGALORE OPD.jpeg" | relative_url }}">
+<img src="{{ "/assets/tipuesearch/CHAF BANGALORE OPD.jpg" | relative_url }}">
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>12 SEP 2021 - FOR BANGALORE. COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO) at Polyclinic (URBAN) for the week 11 SEP to 18 SEP 2021  is  Gp Capt (Dr) P C Ghosh (Retd) , Mobile #  9448119581.  A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
 <BR><BR>
