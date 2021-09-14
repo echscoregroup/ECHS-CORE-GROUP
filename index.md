@@ -16,7 +16,7 @@
 <hr>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>14 SEP 2021 – ALL INDIA - IMPORTANT INFORMATION – 64 kB ECHS Card STOPS WORKING – When you collect the card from Polyclinic or Station HQ office, it is to be digitally activated by the Office by entering the OTP received by you. In case the OTP has not been entered while handing over the card, your 64 kB card will NOT work now when you use it in the Polyclinics. An error message will be displayed stating that your card is not activated. In such cases, you need to visit the office that issued the card so that the OTP is entered in the system. Three Options are possible – OPTION 1 -  If you have received the OTP earlier, the same OTP can be entered in the System. OPTION 2 - The concerned Polyclinic / Stn HQ Office can request for a OTP from Regional Centre, enter the same in the System. OPTION 3 -  You can download the Temporary Slip from the site , get it signed by OIC Polyclinic & use it  till you get the OTP entered in the system</B>
 <BR><BR>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>12 SEP 2021 – FOR BANGALORE – COMMAND HOSPITAL AIR FORCE BANGALORE OPD DAYS & TIME is published for your use</b> 
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><B>12 SEP 2021 – FOR BANGALORE – COMMAND HOSPITAL AIR FORCE BANGALORE OPD DAYS & TIME is published for your use</b> 
 <BR>
 <img src="{{ "/assets/tipuesearch/CHAF BANGALORE OPD.jpg" | relative_url }}">
 <BR><BR>
