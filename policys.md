@@ -17,6 +17,7 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	ECHS CARD 
 ----------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/HANDING%20OVER%20OF%2064%20kB%20CARDS.pdf">HANDING OVER OF 64 kB CARDS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/BLOCKING%20OF%20CARDS%20INELIGIBILITY%20DEMISE%20DISCIPLINARY%20REASONS.pdf">BLOCKING OF CARDS INELIGIBILITY DEMISE DISCIPLINARY REASONS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/VALIDITY%20DATE%20ONLINE%20TEMPORARY%20SLIP.pdf">VALIDITY DATE ONLINE TEMPORARY SLIP</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ECHS%20FAULTY%20CARD%20MANAGEMENT.pdf">ECHS FAULTY CARD MANAGEMENT</a></li></h5>
