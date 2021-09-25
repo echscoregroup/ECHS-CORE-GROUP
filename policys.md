@@ -8,6 +8,7 @@ title: "HELPING HANDS FOR ECHS"
 
 #	EMPANELLED & NON-EMPANELLED HOSPITALS 
 ---------------- 
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REFERRAL%20PROCEDURE%20TO%20EMPANELLED%20HOSPITALS.pdf">REFERRAL PROCEDURE TO EMPANELLED HOSPITALS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/NO%20CHARGES%20FOR%20PPE%20KITS%20IN%20EMP%20HOSPITAL.pdf">NO CHARGES FOR PPE KITS IN EMP HOSPITAL</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REFERRAL%20NO%20NAME%20OF%20EMPANELLED%20HOSPITAL.pdf">REFERRAL NO NAME OF EMPANELLED HOSPITAL</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/AYUSH%20TREATMENT.pdf">AYUSH TREATMENT</a></li></h5>
@@ -16,7 +17,8 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	ECHS CARD 
 ----------------
-
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/BLOCKING%20OF%20CARDS%20INELIGIBILITY%20DEMISE%20DISCIPLINARY%20REASONS.pdf">BLOCKING OF CARDS INELIGIBILITY DEMISE DISCIPLINARY REASONS</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/VALIDITY%20DATE%20ONLINE%20TEMPORARY%20SLIP.pdf">VALIDITY DATE ONLINE TEMPORARY SLIP</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ECHS%20FAULTY%20CARD%20MANAGEMENT.pdf">ECHS FAULTY CARD MANAGEMENT</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/TRANSFER%20OF%20ECHS%20CARDS%20BETWEEN%20POLYCLINICS.pdf">TRANSFER OF ECHS CARDS BETWEEN POLYCLINICS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/SPECIAL%20SANCTION%2064%20KB%20WHITE%20CARD.pdf">SPECIAL SANCTION 64 KB WHITE CARD</a></li></h5>
@@ -28,24 +30,22 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	REIMBURSEMENT 
 ----------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/LETTER%20REIMBURSEMENT%20MODULE%20SELF%20LOGIN%20UPLOAD.pdf">LETTER REIMBURSEMENT MODULE SELF LOGIN UPLOAD</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/INSTRUCTION%20MANUAL%20REIMBURSEMENT%20MODULE%20SELF%20LOGIN%20UPLOAD.pdf">INSTRUCTION MANUAL REIMBURSEMENT MODULE SELF LOGIN UPLOAD</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSEMENT%20CLAIM%20QUERY%20STATUS.pdf">REIMBURSEMENT CLAIM QUERY STATUS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSEMENT%20OF%20HOSPITAL%20CHARGES%20HIGH%20POWER%20COMMITTEE.pdf">REIMBURSEMENT OF HOSPITAL CHARGES HIGH POWER COMMITTEE</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSEMENT%20CT%20MEDICINES.pdf">REIMBURSEMENT CT MEDICINES</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSMENT%20COVID%20HOME%20ISOLATION.pdf">REIMBURSMENT COVID HOME ISOLATION</a></li></h5>
 <br>
-
-<br>
 #	COVID ADVISORY 
 ----------------
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/DENTAL%20TREATMENT%20COVID%20SAFETY.pdf">DENTAL TREATMENT COVID SAFETY</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ADMINISTRATION%20OF%20COVID%20VACCINE%20AT%20POLYCLINICS%20.pdf">ADMINISTRATION OF COVID VACCINE AT POLYCLINICS </a></li></h5>
-
 <br>
 #	SERVICE HOSPITAL 
 ----------------
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/TREATMENT%20AT%20SERVICE%20HOSPITALS%20ELIGIBILTY.pdf">TREATMENT AT SERVICE HOSPITALS ELIGIBILTY</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/NO%20REFERRAL%20TO%20SERVICE%20HOSPITALS%2075%20YRS%20&%20ABOVE.pdf">NO REFERRAL TO SERVICE HOSPITALS 75 YRS & ABOVE</a></li></h5>
-
 <BR>
 #   POLYCLINIC 
 --------------
