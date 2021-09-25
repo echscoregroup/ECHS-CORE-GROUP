@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>26 SEP 2021 – REFERRAL PROCEDURE TO EMPANELLED HOSPITALS – Comprehensive information vide letters from Central Org , ECHS dated 15 Jul 2021, 27 Jul 2021 & 23 SEP 2021 have been issued and is published here.  A very useful read.   To access this Policy Letters , click on ECHS POLICY LETTERS link above, under EMPANELLED & NON-EMPANELLED HOSPITALS, click REFERRAL PROCEDURE TO EMPANELLED HOSPITALS</B>
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>25 SEP 2021- FOR BANGALORE – A free Service from an Empanelled Eye Hospital for ECHS Beneficiaries – SAVE A DIABETIC EYE is given below. Once registered review will be carried out every 6 months</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/SAVE AN EYE_BY EMPANELLED HOSPITAL.jpg" | relative_url }}">
