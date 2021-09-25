@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>25 SEP 2021- FOR BANGALORE – A free Service from an Empanelled Eye Hospital for ECHS Beneficiaries – SAVE A DIABETIC EYE is given below</B>
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>25 SEP 2021- FOR BANGALORE – A free Service from an Empanelled Eye Hospital for ECHS Beneficiaries – SAVE A DIABETIC EYE is given below. Once registered review will be carried out every 6 months</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/SAVE AN EYE_BY EMPANELLED HOSPITAL.jpg" | relative_url }}">
 <br><br>
