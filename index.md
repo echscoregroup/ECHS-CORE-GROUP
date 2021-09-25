@@ -14,7 +14,9 @@
 </table>
 # Important Messages
 <hr>
-<img src="{{ "/assets/tipuesearch/SAVE AN EYE_BY EMPANELLED HOSPITAL.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>25 SEP 2021- FOR BANGALORE – A free Service from an Empanelled Eye Hospital for ECHS Beneficiaries – SAVE A DIABETIC EYE is given below</B>
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>25 SEP 2021- FOR BANGALORE – A free Service from an Empanelled Eye Hospital for ECHS Beneficiaries – SAVE A DIABETIC EYE is given below</B>
+<BR><BR>
+<img src="{{ "/assets/tipuesearch/SAVE AN EYE_BY EMPANELLED HOSPITAL.jpg" | relative_url }}">
 <br><br>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>18 SEP 2021 – ALL INDIA – IMPORTANT DOCUMENT – FROM ADMINISTRATOR CDR SANTHANAM - An Updated “POCKET GUIDE FOR ECHS CARD” has been prepared and is now available in this Web Portal. I have addressed 18 possible Questions & Answers on ECHS Card. To read this, click on STEP - BY - STEP PROCEDURES link above, under heading POCKET GUIDE click   POCKET GUIDE FOR ECHS CARD. If you have any additional Questions, send it by WhatsApp to me and I will include them in this Pocket Guide. To Help may Veterans across India , you may share this Web Portal link to as many Veterans & Families as feasible. JAI HIND</B>
 <br><br>
