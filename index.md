@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>26 SEP 2021 – DID YOU KNOW ? FOR ALL INDIA  - INTERESTING FACT - There are 107 ECHS Military Polyclinics (MIL - PC) as on date. To know details in your City, click ECHS POLICY LETTERS link above, under EMPANELLED & NON-EMPANELLED HOSPITALS, click REFERRAL PROCEDURE TO EMPANELLED HOSPITALS (Appendix A)</B>
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>26 SEP  2021 FOR BANGALORE - COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 26 SEP 2021 to 02 OCT 2021 is Maj (Dr) Rukmani  Mobile # 9880258426. A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>26 SEP 2021 – FOR ALL INDIA - REFERRAL PROCEDURE TO EMPANELLED HOSPITALS – Comprehensive information vide letters from Central Org , ECHS dated 15 Jul 2021, 27 Jul 2021 & 23 SEP 2021 have been issued and is published here.  A very useful read.   To access this Policy Letters , click on ECHS POLICY LETTERS link above, under EMPANELLED & NON-EMPANELLED HOSPITALS, click REFERRAL PROCEDURE TO EMPANELLED HOSPITALS</B>
