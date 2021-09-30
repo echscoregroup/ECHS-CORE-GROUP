@@ -14,6 +14,12 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>98.	30 SEP 2021 – IMPORTANT INITIATIVE BY ARMED FORCES RETIRED OFFICERS WELFARE ASSOCIATION (AFROWA) at BANGALORE – A long felt need of the Veterans & families who do not have vehicle but require  to travel from  Polyclinic (Urban) to Command Hospital Air Force , Bangalore & return is fulfilled TODAY. A  7 seater vehicle , a free shuttle service is provided by AFROWA launched by the Comdt, CHAFB today. This vehicle was donated by an Air Force Veteran Officer.  Details of the service are given below & is also displayed in the Polyclinic (Urban)</B>
+<BR><BR>
+ <img src="{{ "/assets/tipuesearch/AFROWA FREE SHUTTLE PC(U) TO CHAFB.jpg" | relative_url }}">
+<BR><BR>
+<img src="{{ "/assets/tipuesearch/AFROWA FREE SHUTTLE.jpg" | relative_url }}">
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>29 SEP  2021 – DID YOU KNOW? ALL INDIA – 64 kB ECHS Card activation is in TWO (02) stages. STAGE  1 – OTP is entered by the Office during collection by the Beneficiary. STAGE 2 – After collecting the card , you must activate this card. This can be done in ANY POLYCLINIC KIOSK</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>29 SEP 2021 – DID YOU KNOW? FOR BANGALORE – Ambulance for Veterans is available to reach any Hospital from your Home (within Bangalore city limits). The Ambulance service is provided by Armed Forces Retired Officers Welfare Association. To know more ,  click on link above STEP – BY – STEP PROCEDURES, under HELPLINE heading click AFROWA AMBULANCE FOR VETERANS BANGALORE</B>
