@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>30 SEP 2021 – IMPORTANT INITIATIVE BY ARMED FORCES RETIRED OFFICERS WELFARE ASSOCIATION (AFROWA) at BANGALORE – A long felt need of the Veterans & families who do not have vehicle but require  to travel from  Polyclinic (Urban) to Command Hospital Air Force , Bangalore & return is fulfilled TODAY. A  7 seater vehicle , a free shuttle service is provided by AFROWA launched by the Comdt, CHAFB today. This vehicle was donated by an Air Force Veteran Officer.  Details of the service are given below & is also displayed in the Polyclinic (Urban)</B>
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>30 SEP 2021 – FOR BANGALORE - IMPORTANT INITIATIVE BY ARMED FORCES RETIRED OFFICERS WELFARE ASSOCIATION (AFROWA) at BANGALORE – A long felt need of the Veterans & families who do not have vehicle but require  to travel from  Polyclinic (Urban) to Command Hospital Air Force , Bangalore & return is fulfilled TODAY. A  7 seater vehicle , a free shuttle service is provided by AFROWA launched by the Comdt, CHAFB today. This vehicle was donated by an Air Force Veteran Officer.  Details of the service are given below & is also displayed in the Polyclinic (Urban)</B>
 <BR><BR>
  <img src="{{ "/assets/tipuesearch/AFROWA FREE SHUTTLE PC(U) TO CHAFB.jpg" | relative_url }}">
 <BR><BR>
