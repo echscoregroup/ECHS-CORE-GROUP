@@ -20,9 +20,9 @@
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/AFROWA FREE SHUTTLE.jpg" | relative_url }}">
 <BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>29 SEP  2021 – DID YOU KNOW? ALL INDIA – 64 kB ECHS Card activation is in TWO (02) stages. STAGE  1 – OTP is entered by the Office during collection by the Beneficiary. STAGE 2 – After collecting the card , you must activate this card. This can be done in ANY POLYCLINIC KIOSK</B>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>29 SEP  2021 – DID YOU KNOW? ALL INDIA – 64 kB ECHS Card activation is in TWO (02) stages. STAGE  1 – OTP is entered by the Office during collection by the Beneficiary. STAGE 2 – After collecting the card , you must activate this card. This can be done in ANY POLYCLINIC KIOSK</B>
 <BR><BR>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>29 SEP 2021 – DID YOU KNOW? FOR BANGALORE – Ambulance for Veterans is available to reach any Hospital from your Home (within Bangalore city limits). The Ambulance service is provided by Armed Forces Retired Officers Welfare Association. To know more ,  click on link above STEP – BY – STEP PROCEDURES, under HELPLINE heading click AFROWA AMBULANCE FOR VETERANS BANGALORE</B>
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><B>29 SEP 2021 – DID YOU KNOW? FOR BANGALORE – Ambulance for Veterans is available to reach any Hospital from your Home (within Bangalore city limits). The Ambulance service is provided by Armed Forces Retired Officers Welfare Association. To know more ,  click on link above STEP – BY – STEP PROCEDURES, under HELPLINE heading click AFROWA AMBULANCE FOR VETERANS BANGALORE</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>28 SEP 2021 – DID YOU KNOW? FOR ALL INDIA  - You can take a planned Referral to any Military or Empanelled Hospital outside your Parent Polyclinic area . This is done online from  your Parent Polyclinic</B>
 <BR><BR>
