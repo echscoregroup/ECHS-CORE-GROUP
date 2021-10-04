@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>04 OCT 2021 - FOR BANGALORE - IMPORTANT MESSAGE - due to heavy rain last night , Polyclinic (Urban) is flooded and closed today.</B>
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>04 OCT 2021 - FOR BANGALORE - IMPORTANT MESSAGE - due to heavy rain last night , Polyclinic (Urban) is flooded and closed today. UPDATE- THROUGH CONCERETD EFFORST BY THE CLINIC TEAM , THE POLYCLINIC IS NOW OPEN FOR PATIENTS </B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>03 OCT 2021 - FOR BANGALORE - COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 03 OCT 2021 to 09 OCT 2021 Is Dr Ashima Talwar Mobile # 8826849555. A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
 <BR><BR>
