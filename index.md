@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>06 OCT 2021 – DID YOU KNOW? - ALL INDIA – PRIORITY  TREATMENT from “RECEPTION TO MEDICINE DISTRIBUTION” is provided at ECHS Polyclinics for certain Category of ECHS Beneficiaries. For details click on above link STEP BY STEP PROCEDURES and under Heading ECHS BENEFICIARIES PRIORITY TREATMENT click PRIORITY TREATMENT DIRECT OPD AND SPECIAL CATEGORY</B>
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>05 OCT 2021 – FOR ALL INDIA – HOW TO WITHDRAW 64 kB CARD APPLICATION – Under few conditions this is now possible. Details are contained in Central Orgn letter dated 04 Oct 2021. To read the letter click on POLICY LETTERS link above , under Heading ECHS CARD click WITHDRAWAL OF 64KB CARD APPLICATION</B> 
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><B>04 OCT 2021 - FOR BANGALORE - IMPORTANT MESSAGE - due to heavy rain last night , Polyclinic (Urban) is flooded and closed today. UPDATE- THROUGH CONCERETD EFFORST BY THE CLINIC TEAM , THE POLYCLINIC IS NOW OPEN FOR PATIENTS </B>
