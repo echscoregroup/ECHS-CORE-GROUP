@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>08 OCT 2021 – ALL INDIA – POCKET GUIDE ECHS CARD - In view of important policy changes received from CO ECHS in Sep & Oct 2021, the POCKET Guide has been modified and is published here. This document will answer almost all queries you may have about ECHS Card. To access the Pocket Guide , click on link above STEP – BY – STEP PROCEDURES , under the Heading POCKET GUIDE click on  the document POCKET GUIDE FOR ECHS CARD</B>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">[alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>08 OCT 2021 – ALL INDIA – POCKET GUIDE ECHS CARD - In view of important policy changes received from CO ECHS in Sep & Oct 2021, the POCKET Guide has been modified and is published here. This document will answer almost all queries you may have about ECHS Card. To access the Pocket Guide , click on link above STEP – BY – STEP PROCEDURES , under the Heading POCKET GUIDE click on  the document POCKET GUIDE FOR ECHS CARD</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>08 OCT 2021 – DID YOU KNOW? ALL INDIA – You can get  the List of Empanelled Hospitals in your City “ANY TIME – ANY WHERE - ANY ONE”  using a Computer or Mobile device. A simple procedure is available in this Portal. Click on STEP  BY STEP PROCEDURES link above, under  Heading EMPANELLED HOSPITALS , click HOW TO FIND LIST OF EMPANELLED HOSPITAL</B>
 <BR><BR>
