@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>11 OCT 2021 – DID YOU KNOW? ALL INDIA – War Disabled Veteran and  Battle Casualty Veteran & their Spouse can take Specialists Consultation at OPD of  Military Hospitals on OPD days without a Referral from ECHS .Polyclinic. For Routine Illness they should avail services from their Polyclinics</B>
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>10 OCT 2021 - FOR BANGALORE - COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 10  OCT 2021 to 16 OCT 2021 Is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>08 OCT 2021 – ALL INDIA – POCKET GUIDE ECHS CARD - In view of important policy changes received from CO ECHS in Sep & Oct 2021, the POCKET Guide has been modified and is published here. This document will answer almost all queries you may have about ECHS Card. To access the Pocket Guide , click on link above STEP – BY – STEP PROCEDURES , under the Heading POCKET GUIDE click on  the document POCKET GUIDE FOR ECHS CARD</B>
