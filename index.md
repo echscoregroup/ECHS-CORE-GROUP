@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>15 OCT 2021 - DID YOU KNOW? - ALL INDIA -  ECHS Beneficiaries who are 75 Years and Above , can directly go to any Empanelled Hospital for CASHLESS OPD Consultation WITHOUT REFERRAL from your Polyclinic</B>
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>12 OCT 2021 – ALL INDIA – IMPORTANT & USEFUL PROCEDURES ON ECHS CARD ADDED – Once you have 64 kB Card , you can change the Registered Mobile Number & Parent Polyclinic Online. STEP BY STEP PROCEDURE for these have been developed and now available for your read in this Web Portal. To access the Procedures, click on STEP - BY - STEP PROCEDURES link above, under Heading ECHS CARD click 64 kB CARD PROCEDURE TO CHANGE PARENT POLYCLINIC or 64 kB CARD PROCEDURE TO CHANGE REGISTERED MOBILE NUMBER. JAI HIND</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>11 OCT 2021 – DID YOU KNOW? ALL INDIA – War Disabled Veteran and  Battle Casualty Veteran & their Spouse can take Specialists Consultation at OPD of  Military Hospitals on OPD days without a Referral from ECHS .Polyclinic. For Routine Illness they should avail services from their Polyclinics</B>
