@@ -14,6 +14,32 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>114.	22 OCT 2021 – FOR ALL INDIA - Frequent queries are received about ECHS Polyclinic working Hours, Referral Issuing timings, lunch time closure, et al. Policy letter of Central Organisation, ECHS,  clearly indicates these details, applicable for all Polyclinics across India.  The Policy letter is available in this Web Portal and can be accessed by ---  Click the link ECHS POLICY LETTERS above, under the heading POLYCLINIC, click  WORKING HOURS POLYCLINIC.  A summary of the working hours is given below for quick reference</B>
+<BR><BR>
+<table>
+<tr>
+    <th>ACTIVITY DESCRIPTION</th>
+    <th>WORKING HOURS </th> 
+  </tr>
+  <tr>
+    <td><b>POLYCLINIC WORKING HOURS</b></td>
+    <td>0800 to 1600 hrs (8 AM to 4 PM)</td>
+  </tr>
+  <tr>
+    <td><B>LUNCH HOURS</B></td>
+    <td>STAGGERED. No Beneficiary shall be  denied treatment</td>
+   </tr>
+  <tr>
+  	<td><B>ISSUING OF REFERRALS</B></td>
+  	<td>0800 to 1600 Hrs (8 AM to 4 PM) </td>
+  </tr>
+  <tr>
+    <td><B>POLYCLINIC ADMIN HOURS</B></td>
+    <td>1500 TO 1600 Hrs (3 TO 4 pm)</td>
+  </tr>
+</table>
+
+<BR<BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>18 OCT 2021-ALL INDIA - From the Desk of the Helping Hands For ECHS Web Portal Administrator - Typically I receive  queries , for which the answer (s) is readily available in the STEP – BY – STEP -PROCEDURES link above.In fact, I have arranged the Procedure documents logically under Categories (Headings), for example, Empanelled Hospitals, ECHS Card, Helpline, et al. To name few Procedure documents – Pocket Book to manage Medical conditions, How to use Empanelled Hospitals, etc. If Beneficiaries take little effort to browse the information available in this Web Portal, you  will be able to get information in a Jiffy. You do not have to depend on anyone for getting important ECHS information. I encourage you all to try to get a feel of this  Web Portal – Helping Hands For ECHS. If you need Help, do not hesitate to send me a message and I will be happy to provide answers</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>17 OCT 2021 – FOR BANGALORE ECHS BENEFICIARIES – Armed Forces Retired Officers Welfare Association (AFROWA) & ECHS Core Committee provides very Useful & Life Saving Services for ECHS Patients / Beneficiaries – (I)Ambulance from Home to Hospital – Contact # 809 503 7171 including COVID patients. (II)Shuttle Service from Polyclinic Urban to Command Hospital Air Force Contact # 809 503 7171. (III)Helping Hands For ECHS Web Portal & Tele support providing guidance to utilise various ECHS facilities. These are “ONE  OF KIND” in India for ECHS Beneficiaries</B>
