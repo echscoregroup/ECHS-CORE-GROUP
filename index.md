@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>24 OCT 2021 - FOR BANGALORE - COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 24 Oct 2021 to 30 Oct 2021 is Dr  Roopa , Mobile # 9599829300 . A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>22 OCT 2021 – FOR ALL INDIA - Frequent queries are received about ECHS Polyclinic working Hours, Referral Issuing timings, lunch time closure, et al. Policy letter of Central Organisation, ECHS,  clearly indicates these details, applicable for all Polyclinics across India.  The Policy letter is available in this Web Portal and can be accessed by ---  Click the link ECHS POLICY LETTERS above, under the heading POLYCLINIC, click  WORKING HOURS POLYCLINIC.  A summary of the working hours is given below for quick reference</B>
 <BR><BR>
 <table>
@@ -38,7 +40,7 @@
     <td>1500 TO 1600 Hrs (3 TO 4 pm)</td>
   </tr>
 </table>
-
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>
 <BR<BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>18 OCT 2021-ALL INDIA - From the Desk of the Helping Hands For ECHS Web Portal Administrator - Typically I receive  queries , for which the answer (s) is readily available in the STEP – BY – STEP -PROCEDURES link above.In fact, I have arranged the Procedure documents logically under Categories (Headings), for example, Empanelled Hospitals, ECHS Card, Helpline, et al. To name few Procedure documents – Pocket Book to manage Medical conditions, How to use Empanelled Hospitals, etc. If Beneficiaries take little effort to browse the information available in this Web Portal, you  will be able to get information in a Jiffy. You do not have to depend on anyone for getting important ECHS information. I encourage you all to try to get a feel of this  Web Portal – Helping Hands For ECHS. If you need Help, do not hesitate to send me a message and I will be happy to provide answers</B>
 <BR><BR>
