@@ -26,11 +26,11 @@
     <td><B>AT MILITARY HOSPITALS – SELF & SPOUSE – NO AGE LIMIT</B></td>
   </tr>
   <tr>
-    <td><B>ECHS MEMBERS & DEPENDENTS</B></td>
+    <td><B>ECHS MEMBER & DEPENDENTS</B></td>
     <td><B>75 YEARS & ABOVE FOR SPECIALISTS OPD AT MILITARY HOSPITALS</B></td>
    </tr>
    <tr>
-    <td><B>ECHS MEMBERS & DEPENDENTS</B></td>
+    <td><B>ECHS MEMBER & DEPENDENTS</B></td>
     <td><B>75 YEARS & ABOVE FOR SPECIALISTS OPD AT EMPANELLED HOSPITALS</B></td>
    </tr>
   <tr>
