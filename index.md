@@ -18,7 +18,7 @@
 <BR><BR>
 <table>
 <tr>
-    <th>ACTIVITY DESCRIPTION</th>
+    <th>FOR WHOM</th>
     <th>DIRECT OPD WITHOUT REFERRAL</th> 
   </tr>
   <tr>
