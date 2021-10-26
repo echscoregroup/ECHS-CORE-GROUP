@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>26 OCT 2021 – DID YOU KNOW? – ALL INDIA – In a Life-Threatening Medical Condition called as EMERGENCY, ECHS Beneficiary can reach the nearest Empanelled Hospital for treatment. There are about 19 Medical conditions that are defined as EMERGENCY in ECHS. To know the details, click on link above  STEP-BY-STEP PROCEDURES, under Heading EMPANELLED HOSPITALS click PROCEDURE USE OF EMPANELLED HOSPITAL FACILITIES EMERGENCY MEDICAL CONDITION. Similar Procedure is also available under NON – EMPANELLED HOSPITAL Heading</B>
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>25 OCT 2021 – DID YOU KNOW? ALL INDIA – IMPORTANT FACILITIES  FOR  ECHS MEMBERS & DEPENDENTS –The below facilities are available for ECHS Members & Dependents as per the existing Policies issued by the ECHS Central Organisation</B>
 <BR><BR>
 <table>
@@ -43,7 +45,7 @@
 </tr>
 </table>
 <BR><BR>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>24 OCT 2021 - FOR BANGALORE - COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 24 Oct 2021 to 30 Oct 2021 is Dr  Roopa , Mobile # 9599829300 . A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>24 OCT 2021 - FOR BANGALORE - COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 24 Oct 2021 to 30 Oct 2021 is Dr  Roopa , Mobile # 9599829300 . A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>22 OCT 2021 – FOR ALL INDIA - Frequent queries are received about ECHS Polyclinic working Hours, Referral Issuing timings, lunch time closure, et al. Policy letter of Central Organisation, ECHS,  clearly indicates these details, applicable for all Polyclinics across India.  The Policy letter is available in this Web Portal and can be accessed by ---  Click the link ECHS POLICY LETTERS above, under the heading POLYCLINIC, click  WORKING HOURS POLYCLINIC.  A summary of the working hours is given below for quick reference</B>
 <BR><BR>
