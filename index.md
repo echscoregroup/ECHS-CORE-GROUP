@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>28 OCT 2021 – DID YOU KNOW? – ALL INDIA – Your Medical Data including medicines issued (last 10 transactions) can be downloaded into your ECHS Card using the Kiosk at the Parent Polyclinic. This action will be very useful whenever you change your Parent Polyclinic</B>
+<BR><BR<
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>26 OCT 2021 – DID YOU KNOW? – ALL INDIA – In a Life-Threatening Medical Condition called as EMERGENCY, ECHS Beneficiary can reach the nearest Empanelled Hospital for treatment. There are about 19 Medical conditions that are defined as EMERGENCY in ECHS. To know the details, click on link above  STEP-BY-STEP PROCEDURES, under Heading EMPANELLED HOSPITALS click PROCEDURE USE OF EMPANELLED HOSPITAL FACILITIES EMERGENCY MEDICAL CONDITION. Similar Procedure is also available under NON – EMPANELLED HOSPITAL Heading</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>25 OCT 2021 – DID YOU KNOW? ALL INDIA – IMPORTANT FACILITIES  FOR  ECHS MEMBERS & DEPENDENTS –The below facilities are available for ECHS Members & Dependents as per the existing Policies issued by the ECHS Central Organisation</B>
