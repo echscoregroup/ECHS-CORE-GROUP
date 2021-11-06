@@ -165,70 +165,7 @@
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><B>01 SEP 2021 - FOR BANGALORE. COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO) at Polyclinic (URBAN) for the week 29 Aug  to 04 SEP 2021  is Wg Cdr (Dr) Priti Kalani (Retd), Mobile #  9654300384.  A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
 <BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>27 AUG 2021 DID YOU KNOW? ALL INDIA - If you have applied for 64 kB Card in one location (STATE OR CITY OR DISTRICT) and due to personal reasons you have shifted your residence to another location , your cards when received at the original location can be transferred to your new location for you to collect. The procedure is described in the CO ECHS letter TRANSFER OF ECHS CARDS BETWEEN POLYCLINICS dated 28 Jun 2021. To read this Policy letter click on ECHS POLICY LETTERS link above, under ECHS CARD heading, click  TRANSFER OF ECHS CARDS BETWEEN POLYCLINICS</b>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>26 AUG 2021 - DID YOU KNOW?  ALL INDIA – Once you apply for  ECHS 64 kB Card, the ONLINE TEMPORARY SLIP downloaded from site is valid till 31 Oct 2021</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>23 AUG 2021 – ALL INDIA – VERY IMPORTANT FACILITY FOR SUBMITTING CLAIMS ONLINE BY YOURSELF – ECHS Beneficiaries can upload their claims such as IPD, OPD & Pharmacy  directly on the website echsbpa.utiitsl.com. Each Beneficiary claim will be uploaded separately and will be linked to the respective ECHS Card. Once you upload the claim with all necessary documents, you will be required to submit Hardcopy of the documents uploaded and a signed copy of Contingent Bill to your Parent Polyclinic within 15 days. Your claim will be processed by the Polyclinic ONLY on receipt of the hardcopies & contingent Bill. To access more details click on link ECHS POLICY LETTERS above , under REIMBURSEMENT heading click on the documents  LETTER REIMBURSEMENT MODULE SELF LOGIN UPLOAD & INSTRUCTION MANUAL REIMBURSEMENT MODULE SELF LOGIN UPLOAD</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>23 AUG  2021 – ALL INDIA - IMPORTANT INFORMATION REIMBURSEMENT OF COST OF CT MEDICINES EXTENDED FROM 01 AUG 2021 TO  TO 31 OCT 2021- Reimbursement of Cost of Medicines due to COVID for ECHS Beneficiaries is now extended up to 31 Oct 2021. CO ECHS letter dated 17 Aug 2021 has been issued. To access this letter click on ECHS POLICY LETTERS link above , under REIMBURSEMENT Heading, click on REIMBURSEMENT CT MEDICINES to read the Policy letter</B>   
-<br><br>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><B>22 AUG 2021 - For BANGALORE. COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO) at Polyclinic (URBAN) for the week 22 Aug  to 28 Aug 2021  is Dr H S Roopa , Mobile #  9599829300 / 9731449694.  A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>21 AUG 2021 - DID YOU KNOW ? - ALL INDIA - ECHS Beneficiaries who are 75 Years and Above can directly go to any Empanelled Hospital for CASHLESS OPD Consultation WITHOUT REFERRAL from your Polyclinic</b>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>18 AUG 2021 – ECHS Polyclinic is closed on 20 Aug 2021, a Public Holiday for Muhurram</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>ALL INDIA - 17 AUG  2021 – IMPORTANT INFORMATION Reimbursement of Cost of Medicines due to COVID for ECHS Beneficiaries is now extended up to 31 Oct 2021. MoD letter dated 17 Aug 21 is issued and ECHS letter will follow</B> 
-<bR><BR>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><B>16 AUG 2021 - For BANGALORE. COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO) at Polyclinic (URBAN) for the week 15 to 21 Aug 2021  is Maj (Dr) Piyush Bali (Retd) , Mobile #  8289016484. A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>14 AUG 2021 – FOR ALL INDIA - DID YOU KNOW ? You can find on your own Contact details of ECHS Polyclinics & Regional Centre functionaries in any State or City in India. Just click STEP BY STEP  PROCEDURES link above, under the heading HELPLINE, click on the document HOW TO FIND ECHS CONTACT DETAILS</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><B>14 AUG 2021 – FOR BANGALORE - AMBULANCE & OXYGEN CONCENTRATOR SERVICES FROM AFROWA - 24 X 7 Ambulance launched in Oct 2020 is available for all patients including COVID patients  to reach Hospitals or ECHS Polyclinic. Call Mobile # 80950 37171 Direct Number to Ambulance Driver. If any Veteran need Oxygen Concentrator, it is delivered at Home. Call 8660409309,9448388626,9740072879, 9886987997,9964551898</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>FOR KERALA, KARNATAKA & TAMILNADU – 10 AUG 2021 - ECHS Referral Cell at Command Hospital Air Force Bangalore (CHAFB) – Approval for Unlisted Procedure from Empanelled Hospitals are received and necessary Approvals from CHAFB Specialists are obtained by this Office. This ensures that the Next Of Kin do not run around to get approvals. Office Location - The ECHS Referral Cell is located inside CHAFB (opposite road to Unit Canteen). Contact Details - Medical Officer – In – Charge – Maj  Jyotsana Bhatnagar (Retd) , Mobile # 7875674990, Email ID - echscellchafb@gmail.com. Office Clerk – Mrs Charisma, Mobile # - 6005152464. Office Assistant – Mr Kinkar Mobile # 9066154514. ECHS Beneficiaries can contact the above personnel to find out about the Unlisted Procedures approval status / matters related to it</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><B>08 AUG 2021 - For BANGALORE - COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO) at Polyclinic (URBAN) for the week 08  Aug 2021 to 14 Aug 2021 is Gp Capt (Dr) K Pooniwala (Retd), Mobile # 7002513995.The Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>DID YOU KNOW ? FOR ALL INDIA – 08 AUG 2021 – VALIDITY OF ONLINE TEMPORARY SLIP is now extended up to 31 Oct 2021 – Due to COVID pandemic, the Validity of On-Line Temporary Slips that were downloaded after applying for 64kB card   is extended to 31 Oct 2021. To access the CO ECHS letter dated 15 Jul 2021, click on ECHS POLICY LETTERS link above, under ECHS CARD, click VALIDITY DATE ONLINE TEMPORARY SLIP</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>FOR ALL INDIA – 06 AUG 2021 – IMPORTANT INFORMATION ABOUT ECHS CARD issued vide CO ECHS letter dated 03 Aug 2021 -- 16 kB ECHS Card & Offline Temporary slips are NOT VALID to get Medical cover and Referrals from ECHS. If you still have 16 kB card or Offline Temporary slip and if there is a Medical Emergency approach your Polyclinic and apply for 64 kB card immediately. A provision called Guest User is available with OIC Polyclinic to apply for the card and get a Online Temporary Slip</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>FOR ALL INDIA – 05 AUG 2021 – A STEP -BY-STEP Procedure for  Use of Empanelled Hospital facilities under Routine Referral has been updated today with important changes & is shared in this web portal. To read this Procedure – click STEP BY STEP PROCEDURES link above, under EMPANELLED HOSPITALS heading click PROCEDURE USE OF EMPANELLED HOSPITAL FACILITIES ROUTINE REFERRAL</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>FOR ALL INDIA - 05 JUL 2021 – ? DID YOU KNOW ? – If you want to correct 64kB ECHS Card Application even after your Record Office has Verified it successfully, you can do this by using REVERT APPLICATION option. To know the procedure , click STEP BY STEP PROCEDURES link above , under ECHS CARD heading click the document PROCEDURE USE OF REVERT APPLICATION 64kB CARD</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>FOR ALL INDIA - 04 AUG 2021 - Frequent queries are received about ECHS Polyclinic working Hours, Referral Issuing timings, lunch time closure, et al. Policy letter of Central Organisation, ECHS,  clearly indicates these details, applicable for all Polyclinics across India. The Policy letter is available in this Web Portal and can be accessed by ---  Click the link ECHS POLICY LETTERS above, under the heading POLYCLINIC, click  WORKING HOURS POLYCLINIC. A summary of the working hours is given below for quick reference</B> 
-<table>
-<tr>
-    <th><B>ACTIVITY DESCRIPTION</B></th>
-    <th><B>WORKING HOURS</B></th> 
-  </tr>
-  <tr>
-    <td><b>POLYCLINIC WORKING HOURS</b></td>
-    <td>0800 to 1600 hrs (8 AM to 4 PM)</td>
-  </tr>
-  <tr>
-    <td><B>LUNCH HOURS</B></td>
-    <td>STAGGERED. No Beneficiary shall be  denied treatment</td>
-   </tr>
-  <tr>
-  	<td><B>ISSUING OF REFERRALS</B></td>
-  	<td>0800 to 1600 Hrs (8 AM to 4 PM) </td>
-  </tr>
-  <tr>
-    <td><B>POLYCLINIC ADMIN HOURS</B></td>
-    <td>1500 TO 1600 Hrs (3 TO 4 pm)</td>
-  </tr>
-</table>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><B>03 AUG 2021 - FOR BANGALORE – Free Eye Check up - Dr. Zamindar  Microsurgical Eye Center Bangalore (ECHS Empanelled Hospital) is offering complimentary Eye Check-up to all ESM. The screening is scheduled on 16th August 2021 at  Prema Plaza, Banaswadi, Bangalore between 9.00 AM  to 5.00 PM. The screening will be for Cataract, Glaucoma and Retina with Retinal photo. The hospital is NABH certified, and follows all the covid guidelines for patient safety. 100 appointment slots are available. To register please send  the Name and Age via SMS to Mobile number 8123752250 or fill the form by using the link https://forms.gle/tGNUiC7ukhbsq3PF6 </B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>02 AUG 2021 – FOR ALL INDIA – INFORMATION - Many ECHS beneficiaries are asking about the CT Medicines reimbursement extension beyond 31 Jul 2021. I have received a reply from MD, ECHS TODAY, that, only if and when CGHS extends,the ECHS extension will happen</b>
-<br><br>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><B>01 AUG 2021 - For BANGALORE COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO) at Polyclinic (URBAN) for the week 01 Aug 2021 to 07 Aug 2021 is Dr Ashima ,Mobile # 8826849555. A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
-<BR><BR>
+
 
 <BR><BR>
 
