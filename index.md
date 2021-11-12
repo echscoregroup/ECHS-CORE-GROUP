@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>129.	12 NOV 2021 – ALL INDIA – IMPORTANT MESSAGE – HAEMODIALYSIS OF CHRONIC KIDNEY PATIENTS – This is considered as a Life Saving Emergency & hence NO REFERRAL is needed from parent polyclinic to undertake the treatment. This instruction from Central Org, ECHS is valid till 31 Dec 2021</B>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>12 NOV 2021 – ALL INDIA – IMPORTANT MESSAGE – HAEMODIALYSIS OF CHRONIC KIDNEY PATIENTS – This is considered as a Life Saving Emergency & hence NO REFERRAL is needed from parent polyclinic to undertake the treatment. This instruction from Central Org, ECHS is valid till 31 Dec 2021</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>10 NOV 2021 – ALL INDIA – DID YOU KNOW? ECHS Beneficiary, on discharge from an Empanelled Hospital is entitled to get 07 days Medicine or Medicines worth a value of Rs 2000.00, whichever is less. Many Empanelled Hospitals feign ignorance and hence the Beneficiaries are left with no option but to make own purchases / get it from their Polyclinics. You may call Director Regional Centre office before discharge in case of difficulties, as the contract is signed by the Regional Centre</b>
 <br><br>
