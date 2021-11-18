@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>18 NOV 2021 – FOR BANGALORE – Tomorrow the 19 th NOV 2021 , Polyclinic is closed – Guru Nanak’s Birthday</B>
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>18 NOV 2021 – FOR BANGALORE – Tomorrow the 19 th NOV 2021 , Polyclinic is closed – Guru Nanak’s Birthday</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>18 NOV 2021 – ALL INDIA – PRIOR SANCTION FOR TREATMENT IN NON-EMPANELLED HOSPITALS – Important Policy guideline has been issued by Central Org ECHS vide letter dated 12 Nov 2021. The same is available in this Web portal for your reference. To access the Policy letter, click on link above ECHS POLICY LETTERS, under Heading EMPANELLED & NON-EMPANELLED HOSPITALS, click PRIOR SANCTION TREATMENT IN NON EMP HOSPITALS</B>
 <BR><BR>
