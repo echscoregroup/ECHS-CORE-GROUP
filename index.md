@@ -14,9 +14,38 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>142.	25 NOV 2021 – FOR ALL INDIA - FACT NOT FICTION !! FOR YOU - ECHS FACILITIES</B> 
+<BR>
+<table>
+<tr>
+    <th>FOR WHOM</th>
+    <th>DIRECT OPD NO REFERRAL REQUIRED FROM POLYCLINIC</th> 
+  </tr>
+  <tr>
+    <td><b>WAR DISABLED & BATTLE CASUALTY</b></td>
+    <td><B>AT MILITARY HOSPITALS – SELF & SPOUSE – NO AGE LIMIT</B></td>
+  </tr>
+  <tr>
+    <td><B>ECHS MEMBERS & DEPENDENTS</B></td>
+    <td><B>75 YEARS & ABOVE FOR SPECIALISTS DIRECT OPD AT MILITARY HOSPITALS</B></td>
+   </tr>
+<tr>
+    <td><B>ECHS MEMBERS & DEPENDENTS</B></td>
+    <td><B>75 YEARS & ABOVE FOR SPECIALISTS DIRECT OPD AT EMPANELLED HOSPITALS</B></td>
+   </tr>
+  <tr>
+  	<td><B>ECHS MEMBER MALES</B></td>
+  	<td><B>75 YEARS & ABOVE PRIORITY MEDICAL ATTENDANCE AT POLYCLINICS</B></td>
+  </tr>
+  <tr>
+    <td><B>ECHS MEMBERS FEMALES</B></td>
+    <td><B>70 YEARS & ABOVE PRIORITY MEDICAL ATTENDANCE AT POLYCLINICS</B></td>
+</tr>
+</table>
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>23 NOV 2021 – ALL INDIA – IMPORTANT CHANGE POLYCLINICS FUNCTIONING ON STOCK TAKING DAYS – Currently Polyclinics were not kept Open on last working day of the month due to Stock Taking. CO ECHS letter dated 18 Nov 2021 is shared here,  which directs that Polyclinics will operate with reduced staff on the Stock days al so.  To read the letter click on above link ECHS POLICY LETTERS, under Heading POLYCLINIC click POLYCLINIC OPEN ON STOCK TAKING DAYS</B>
 <BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>23 NOV 2021 – ALL INDIA – APPROVAL TO CARRY OUT UNLISTED PROCEDURE BY EMPANELLED HOSPITAL -   Under NON EMERGENCY condition of the patient, the ONUS to get approval is with the Empanelled Hospital (EH). Appendix A form is initiated by the EH and the various steps it takes for Approval is - Initiated by EH  Goes to Polyclinic  Endorsement by OIC PC  Goes to Stn HQ office / SEMO Rep for signature  Goes for Opinion of Service Specialist & Signature   Approval & Signature by SEMO  Received by EH. Refer for more details by clicking link above STEP -BY-STEP PROCEDURES, under Heading EMPANELLED HOSPITALS, click PROCEDURE USE OF EMPANELLED HOSPITAL FACILITIES (Section # 9)</B>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>23 NOV 2021 – ALL INDIA – APPROVAL TO CARRY OUT UNLISTED PROCEDURE BY EMPANELLED HOSPITAL -   Under NON EMERGENCY condition of the patient, the ONUS to get approval is with the Empanelled Hospital (EH). Appendix A form is initiated by the EH and the various steps it takes for Approval is - Initiated by EH  Goes to Polyclinic  Endorsement by OIC PC  Goes to Stn HQ office / SEMO Rep for signature  Goes for Opinion of Service Specialist & Signature   Approval & Signature by SEMO  Received by EH. Refer for more details by clicking link above STEP -BY-STEP PROCEDURES, under Heading EMPANELLED HOSPITALS, click PROCEDURE USE OF EMPANELLED HOSPITAL FACILITIES (Section # 9)</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>22 NOV 2021 – ALL INDIA – DID YOU KNOW ? Your Online Temporary slip after 64 kB card application verification is now extended up to 31 Dec 2021. From 01 Jan 2022, a new policy will be followed. The new  policy for Online Temporary slip for Beneficiaries is published in this Web portal. To read this letter, click on link above ECHS POLICY LETTERS, under Heading ECHS CARD click VALIDITY DATE ONLINE TEMPORARY SLIP</b>
 <BR><BR>
