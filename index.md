@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>142.	25 NOV 2021 – FOR ALL INDIA - FACT NOT FICTION !! FOR YOU - ECHS FACILITIES</B> 
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>25 NOV 2021 – FOR ALL INDIA - FACT NOT FICTION !! FOR YOU - ECHS FACILITIES</B> 
 <BR>
 <table>
 <tr>
