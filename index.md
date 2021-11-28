@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>143.	28 NOV 2021 - FOR BANGALORE - COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 28 NOV 2021 to 04 DEC 2021 Is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>25 NOV 2021 – FOR ALL INDIA - FACT NOT FICTION !! FOR YOU - ECHS FACILITIES</B> 
 <BR>
 <table>
@@ -43,7 +45,7 @@
 </tr>
 </table>
 <BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>23 NOV 2021 – ALL INDIA – IMPORTANT CHANGE POLYCLINICS FUNCTIONING ON STOCK TAKING DAYS – Currently Polyclinics were not kept Open on last working day of the month due to Stock Taking. CO ECHS letter dated 18 Nov 2021 is shared here,  which directs that Polyclinics will operate with reduced staff on the Stock days al so.  To read the letter click on above link ECHS POLICY LETTERS, under Heading POLYCLINIC click POLYCLINIC OPEN ON STOCK TAKING DAYS</B>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>23 NOV 2021 – ALL INDIA – IMPORTANT CHANGE POLYCLINICS FUNCTIONING ON STOCK TAKING DAYS – Currently Polyclinics were not kept Open on last working day of the month due to Stock Taking. CO ECHS letter dated 18 Nov 2021 is shared here,  which directs that Polyclinics will operate with reduced staff on the Stock days al so.  To read the letter click on above link ECHS POLICY LETTERS, under Heading POLYCLINIC click POLYCLINIC OPEN ON STOCK TAKING DAYS</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>23 NOV 2021 – ALL INDIA – APPROVAL TO CARRY OUT UNLISTED PROCEDURE BY EMPANELLED HOSPITAL -   Under NON EMERGENCY condition of the patient, the ONUS to get approval is with the Empanelled Hospital (EH). Appendix A form is initiated by the EH and the various steps it takes for Approval is - Initiated by EH  Goes to Polyclinic  Endorsement by OIC PC  Goes to Stn HQ office / SEMO Rep for signature  Goes for Opinion of Service Specialist & Signature   Approval & Signature by SEMO  Received by EH. Refer for more details by clicking link above STEP -BY-STEP PROCEDURES, under Heading EMPANELLED HOSPITALS, click PROCEDURE USE OF EMPANELLED HOSPITAL FACILITIES (Section # 9)</B>
 <BR><BR>
