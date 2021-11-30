@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>30 NOV 2021 – ALL INDIA – USEFUL LINKS - This Web Portal has provided quick links to launch 03 important external web sites, viz, ECHS Central Organisation website, 64kB Card Application website ans Command Hospital Air Fore Bangalore CHAFB website. Click on the links above to go to these sites</B>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>30 NOV 2021 – ALL INDIA – USEFUL LINKS - This Web Portal has provided quick links to launch 03 important external web sites, viz, ECHS Central Organisation website, 64kB Card Application website ans Command Hospital Air Force Bangalore website. Click on the links above to go to these sites</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>28 NOV 2021 - FOR BANGALORE - COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 28 NOV 2021 to 04 DEC 2021 Is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
 <BR><BR>
