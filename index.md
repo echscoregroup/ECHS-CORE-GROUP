@@ -186,13 +186,7 @@
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><B>02 OCT 2021 – DID YOU KNOW? FOR KERALA, KARNATAKA & TAMILNADU – ECHS Referral Cell at Command Hospital Air Force,Bangalore (CHAFB) – Approval for Unlisted Procedure from Empanelled Hospitals are received and necessary Approvals from CHAFB Specialists are obtained by this Office. This ensures that the Next Of Kin do not run around to get approval. Office Location - The ECHS Referral Cell is located inside CHAFB (opposite road to Unit Canteen). Contact Details - Medical Officer – In – Charge – Maj  Jyotsana Bhatnagar (Retd) , Mobile # 7875674990, Email ID - echscellchafb@gmail.com. Office Clerk – Mrs Charisma, Mobile # - 6005152464. Office Assistant – Mr Kinkar Mobile # 9066154514. ECHS Beneficiaries can contact the above personnel to find out about the Unlisted Procedures approval status / matters related to it</B>
 <BR><BR>
-
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><B>01 SEP 2021 - FOR BANGALORE. COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO) at Polyclinic (URBAN) for the week 29 Aug  to 04 SEP 2021  is Wg Cdr (Dr) Priti Kalani (Retd), Mobile #  9654300384.  A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
 <BR><BR>
-
-
-<BR><BR>
-
 
  <br><br>
 9 JUN 21 – Helping-Hands-for-ECHS Web Portal is now visible in Google Search also!
