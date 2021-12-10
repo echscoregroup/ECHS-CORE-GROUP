@@ -8,7 +8,6 @@ title: "HELPING HANDS FOR ECHS"
 
 #	EMPANELLED & NON-EMPANELLED HOSPITALS 
 ---------------- 
-<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/REVISED%20PROCEDURE%20FOR%20APPROVAL%20OF%20UNLISTED%20PROCEDURE%20APPX%20A.pdf">REVISED PROCEDURE FOR APPROVAL OF UNLISTED PROCEDURE APPX A</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/PRIOR%20SANCTION%20TREATMENT%20IN%20NON%20EMP%20HOSPITALS.pdf">PRIOR SANCTION TREATMENT IN NON EMP HOSPITALS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REFERRAL%20PROCEDURE%20TO%20EMPANELLED%20HOSPITALS.pdf">REFERRAL PROCEDURE TO EMPANELLED HOSPITALS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/NO%20CHARGES%20FOR%20PPE%20KITS%20IN%20EMP%20HOSPITAL.pdf">NO CHARGES FOR PPE KITS IN EMP HOSPITAL</a></li></h5>
