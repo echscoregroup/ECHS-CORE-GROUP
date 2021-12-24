@@ -55,6 +55,7 @@ title: "HELPING HANDS FOR ECHS"
 <BR>
 #   POLYCLINIC 
 --------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ISSUE%20OF%20MEDICINE%20FOR%20LONGER%20DURATION%20BY%20POLYCLINIC.pdf">ISSUE OF MEDICINE FOR LONGER DURATION BY POLYCLINIC</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/POLYCLINIC%20OPEN%20ON%20STOCK%20TAKING%20DAYS ">POLYCLINIC OPEN ON STOCK TAKING DAYS </a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REFERRAL%20TIMINGS%20AT%20POLYCLINICS.pdf">REFERRAL TIMINGS AT POLYCLINICS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/WORKING%20HOURS%20POLYCLINICS.pdf">WORKING HOURS POLYCLINICS</a></li></h5>
