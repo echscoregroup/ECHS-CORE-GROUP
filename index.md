@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>07 JAN 2022 – ALL INDIA – HAEMODIALYSIS OF CHRONIC KIDNEY PATIENTS – CO ECHS letter of 06 Jan 2022 – Due to present surge in COVID cases, Haemodialysis is considered as a  Life Saving Emergency & hence NO REFERRAL is needed from Parent Polyclinic. Patients can take treatment without Referral till 31 MAR 2022 from Empanelled Hospital / Service Hospital / Non Empanelled Hospital / Govt Hospital / Medical College</B>
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>06 JAN 2022 – FOR BANGALORE – VERY IMPORTANT INFO FROM CHAFB – CHAFB Letter dated 06 Jan 2022 indicating that due to increasing COVID cases at CHAFB, OPD of Super Specialities are suspended and ECHS Polyclinic are to directly refer Beneficiaries to Empanelled Hospitals. To read the letter click on ECHS POLICY LETTERS link above, under Heading POLYCLINIC click on OPDs FOR EX SERVIVEMEN AT CHAFB 06 JAN 22</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>04 JAN 2022 – FOR BANGALORE – SO/OIC Stn HQ , ECHS – Lt Col Ravi Patcharu has taken over this function wef 03 Jan 2022. His contact details are – Mobile 9717587671 & AFNET – 41257780</B>
