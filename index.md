@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>166.	09 JAN 2022 – ALL INDIA – TWO (02) useful POCKET GUIDES are available in this Web Portal for ECHS Card & Medical Conditions Management. These are quick reference guides. To Read these, Click on STEP-BY-STEP PROCEDURES link above, under the Heading POCKET GUIDE click on the document</B>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>09 JAN 2022 – ALL INDIA – TWO (02) useful POCKET GUIDES are available in this Web Portal for ECHS Card & Medical Conditions Management. These are quick reference guides. To Read these, Click on STEP-BY-STEP PROCEDURES link above, under the Heading POCKET GUIDE click on the document</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>08 JAN 2022 – FOR BANGALORE – DID YOU KNOW? 24 X 7 HELPLINE AVAILABLE IN BANGALORE for Veterans & Families are – Medical Helpline -  (1) K&K Sub Area Duty M O (2) DMO @ CHAFB (3) DMO at Polyclinic (Urban) ; Non-Medical Helpline - (1)  Duty Staff @ ECHS Regional centre, Bangalore (2) Helping Hands For ECHS Administrators. Contact Number are readily available in this Web Portal Helping Hands For ECHS</B>
 <BR><BR>
