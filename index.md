@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>11 JAN 2022 – FOR BANGALORE - REFERRAL FROM MIL POLYCLINICS DIRECT TO EMP HOSPITAL – CO ECHS LETTER OF 11 JAN 22 is shared in this Web Portal. PC (Urban) is a MIL – PC and CHAFB is a COVID designated Hospital</B>
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>10 JAN 2022 – VERY IMPORTANT MESSAGE FROM MANIPAL HOSPITAL , AN EMPANELLED HOSPITAL -  Due to COVID directives from Govt of Karnataka, the hospital has intimated the Regional Centre ECHS Bangalore that they will accommodate only Emergency cases. Planned cases will be deferred</B>
 <BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>10 JAN 2022 – FOR BANGALORE – On 06 JAN 2022 –   VERY IMPORTANT MESSAGE FROM CHAFB – CHAFB Letter dated 06 Jan 2022 indicating that due to increasing COVID cases at CHAFB, OPD of Super Specialities are suspended and ECHS Polyclinic are to directly refer Beneficiaries to Empanelled Hospitals. To read the letter click on ECHS POLICY LETTERS link above, under Heading POLYCLINIC click on OPDs FOR EX SERVIVEMEN AT CHAFB 06 JAN 22</B>
