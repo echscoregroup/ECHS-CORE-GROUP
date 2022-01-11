@@ -50,6 +50,7 @@ title: "HELPING HANDS FOR ECHS"
 <BR>
 #   POLYCLINIC 
 --------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REFERRAL%20FROM%20MIL%20PC%20NON%20COVID%20TO%20EH.pdf">REFERRAL FROM MIL PC NON COVID TO EH</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REFERRAL%20TIMINGS%20AT%20POLYCLINICS.pdf">REFERRAL TIMINGS AT POLYCLINICS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/WORKING%20HOURS%20POLYCLINICS.pdf">WORKING HOURS POLYCLINICS</a></li></h5>
 <br>
