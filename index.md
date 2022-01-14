@@ -14,7 +14,7 @@
 </table>
 # Important Messages
 <hr>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>14 Jan 2022 – ALL INDIA - IMPORTANT INFORMATION REIMBURSEMENT OF COST OF CT MEDICINES is Approved wef 14 Jan 2022  to 30 Apr 2022.. CO ECHS letter dated 14 Jan 2022 is shared in this Web Portal. has been issued. To access this letter click on ECHS POLICY LETTERS link above , under REIMBURSEMENT Heading, click on REIMBURSEMENT CT MEDICINES</B>     
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>14 Jan 2022 – ALL INDIA - IMPORTANT INFORMATION REIMBURSEMENT OF COST OF CT MEDICINES is Approved wef 14 Jan 2022  to 30 Apr 2022.. CO ECHS letter dated 14 Jan 2022 is shared in this Web Portal.To access this letter click on ECHS POLICY LETTERS link above , under REIMBURSEMENT Heading, click on REIMBURSEMENT CT MEDICINES</B>     
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>11 JAN 2022 – FOR BANGALORE - REFERRAL FROM MIL POLYCLINICS DIRECT TO EMP HOSPITAL – CO ECHS LETTER OF 11 JAN 22 is shared in this Web Portal. PC (Urban) is a MIL – PC and CHAFB is a COVID designated Hospital. To read the letter click on ECHS POLICY LETTERS link above, under Heading POLYCLINIC click on REFERRAL FROM MIL PC NON COVID TO EH</B>
 <BR><BR>
