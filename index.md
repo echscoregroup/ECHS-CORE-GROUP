@@ -14,6 +14,8 @@
 </table>
 # Important Messages
 <hr>
+<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>22 JAN 2022 – ALL INDIA – CO ECHS Policy letter dated 14 Jan 2022 about COVID 19 Vaccination for Children between 15 to 18 years and persons 60 + years with co-morbidities is shared in this Web Portal. To read the letter click on POLICY LETTERS link above and under Heading click on COVID VACCINE CHILDREN AND 60 PLUS</B>
+<BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>21 JAN 2022 – ALL INDIA – DID YOU KNOW ? Vaccines such as Hepatitis B , Influenza & Leprovac Vaccines for ECHS Beneficiaries can be prescribed by Medical Officer / Medical Specialist of ECHS. If the Vaccines are NA at ECHS Dispensary, O IC ECHS can procure through ALC. Alternatively NA can be given on Prescription and Beneficiaries can procure and claim Reimbursement. Reference - Policy letter of CO ECHS dated 18 Jan 2022</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>17 JAN 2022 – ALL INDIA – IMPORTANT REIMBURSEMENT FACILITY DURING COVID – Home Isolation package for ECHS Beneficiaries is once again approved. Refer CO ECHS letter 14 Jan 2022 shared here. To read the letter click on POLICY LETTERS , under Heading REIMBURSEMENT click REIMBURSEMENT COVID HOME ISOLATION 14 JAN 2022</B>
