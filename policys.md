@@ -45,6 +45,7 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	COVID ADVISORY 
 ----------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/COVID%20VACCINE%20CHILDRE%2015%20TO%2018%20AND%2060%20PLUS.pdf">COVID VACCINE CHILDREN 15 TO 18 AND 60 PLUS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/DENTAL%20TREATMENT%20COVID%20SAFETY.pdf">DENTAL TREATMENT COVID SAFETY</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ADMINISTRATION%20OF%20COVID%20VACCINE%20AT%20POLYCLINICS%20.pdf">ADMINISTRATION OF COVID VACCINE AT POLYCLINICS </a></li></h5>
 <br>
