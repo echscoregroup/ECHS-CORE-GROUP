@@ -58,6 +58,7 @@ title: "HELPING HANDS FOR ECHS"
 <BR>
 #   POLYCLINIC 
 --------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/SeHAT%20HELP%20REGISTRATION.pdf">SeHAT HELP REGISTRATION</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/OPD%20CONSULTATION%20SeHAT.pdf">OPD CONSULTATION SeHAT</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REFERRAL%20FROM%20MIL%20PC%20NON%20COVID%20TO%20EH.pdf">REFERRAL FROM MIL PC NON COVID TO EH</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/OPD%20FOR%20EX%20SERVIVEMEN%20AT%20CHAFB%2006%20JAN%2022.pdf">OPD FOR EX SERVIVEMEN AT CHAFB 06 JAN 22</a></li></h5>
