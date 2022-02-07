@@ -24,9 +24,9 @@
 	<p></p>
   </div>
   <div id="tabs-2">
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>07 FEB 2022 - FOR BANGALORE – IMPORTANT MEDICAL  INFORMATION – Specialists OPD at Command Hospital , Air Force , Bangalore (CHAFB)  will recommence from 14 Feb 2022. On Line Appointments may start at a later date</B> 
+  <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>07 FEB 2022 - FOR BANGALORE – IMPORTANT MEDICAL  INFORMATION – Specialists OPD at Command Hospital , Air Force , Bangalore (CHAFB)  will recommence from 14 Feb 2022. On Line Appointments may start at a later date</B> 
 <BR><BR>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>06 FEB 2022 - FOR BANGALORE - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  06 FEB 2022 to 12 FEB 2022 is   Dr Soalvell,  Mobile #  9495095851. A Nodal Medical Officer is also available at ECHS Polyclinic (Urban). Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The  Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help</B>  
+  <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>06 FEB 2022 - FOR BANGALORE - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  06 FEB 2022 to 12 FEB 2022 is   Dr Soalvell,  Mobile #  9495095851. A Nodal Medical Officer is also available at ECHS Polyclinic (Urban). Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The  Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help</B>  
 <BR><BR>
 </div>
 </div>
