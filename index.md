@@ -119,72 +119,7 @@
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>02 DEC 2021 – ALL INDIA – VERY IMPORTANT FACILITY FOR SUBMITTING CLAIMS ONLINE BY YOURSELF – ECHS Beneficiaries can upload their claims such as IPD, OPD & Pharmacy directly on the website echsbpa.utiitsl.com. Each Beneficiary claim will be uploaded separately and will be linked to the respective ECHS Card. Once you upload the claim with all necessary documents, you will be required to submit Hardcopy of the documents uploaded and a signed copy of Contingent Bill to your Parent Polyclinic within 15 days. Your claim will be processed by the Polyclinic , ONLY on receipt of the hardcopies & contingent Bill. To access more details click link above ECHS POLICY LETTERS, under REIMBURSEMENT heading click on the document LETTER REIMBURSEMENT MODULE SELF LOGIN UPLOAD. Instruction Manual is also shared – click INSTRUCTION MANUAL REIMBURSEMENT MODULE SELF LOGIN UPLOAD</B>
 <BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>30 NOV 2021 – ALL INDIA – USEFUL LINKS - This Web Portal has provided quick links to launch 03 important external web sites, viz, ECHS Central Organisation website, 64kB Card Application website ans Command Hospital Air Force Bangalore website. Click on the links above to go to these sites</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>28 NOV 2021 - FOR BANGALORE - COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 28 NOV 2021 to 04 DEC 2021 Is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>25 NOV 2021 – FOR ALL INDIA - FACT NOT FICTION !! FOR YOU - ECHS FACILITIES</B> 
-<BR>
-<table>
-<tr>
-    <th>FOR WHOM</th>
-    <th>DIRECT OPD NO REFERRAL REQUIRED FROM POLYCLINIC</th> 
-  </tr>
-  <tr>
-    <td><b>WAR DISABLED & BATTLE CASUALTY</b></td>
-    <td><B>AT MILITARY HOSPITALS – SELF & SPOUSE – NO AGE LIMIT</B></td>
-  </tr>
-  <tr>
-    <td><B>ECHS MEMBERS & DEPENDENTS</B></td>
-    <td><B>75 YEARS & ABOVE FOR SPECIALISTS DIRECT OPD AT MILITARY HOSPITALS</B></td>
-   </tr>
-<tr>
-    <td><B>ECHS MEMBERS & DEPENDENTS</B></td>
-    <td><B>75 YEARS & ABOVE FOR SPECIALISTS DIRECT OPD AT EMPANELLED HOSPITALS</B></td>
-   </tr>
-  <tr>
-  	<td><B>ECHS MEMBER MALES</B></td>
-  	<td><B>75 YEARS & ABOVE PRIORITY MEDICAL ATTENDANCE AT POLYCLINICS</B></td>
-  </tr>
-  <tr>
-    <td><B>ECHS MEMBERS FEMALES</B></td>
-    <td><B>70 YEARS & ABOVE PRIORITY MEDICAL ATTENDANCE AT POLYCLINICS</B></td>
-</tr>
-</table>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>23 NOV 2021 – ALL INDIA – IMPORTANT CHANGE POLYCLINICS FUNCTIONING ON STOCK TAKING DAYS – Currently Polyclinics were not kept Open on last working day of the month due to Stock Taking. CO ECHS letter dated 18 Nov 2021 is shared here,  which directs that Polyclinics will operate with reduced staff on the Stock days al so.  To read the letter click on above link ECHS POLICY LETTERS, under Heading POLYCLINIC click POLYCLINIC OPEN ON STOCK TAKING DAYS</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>23 NOV 2021 – ALL INDIA – APPROVAL TO CARRY OUT UNLISTED PROCEDURE BY EMPANELLED HOSPITAL -   Under NON EMERGENCY condition of the patient, the ONUS to get approval is with the Empanelled Hospital (EH). Appendix A form is initiated by the EH and the various steps it takes for Approval is - Initiated by EH  Goes to Polyclinic  Endorsement by OIC PC  Goes to Stn HQ office / SEMO Rep for signature  Goes for Opinion of Service Specialist & Signature   Approval & Signature by SEMO  Received by EH. Refer for more details by clicking link above STEP -BY-STEP PROCEDURES, under Heading EMPANELLED HOSPITALS, click PROCEDURE USE OF EMPANELLED HOSPITAL FACILITIES (Section # 9)</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>22 NOV 2021 – ALL INDIA – DID YOU KNOW ? Your Online Temporary slip after 64 kB card application verification is now extended up to 31 Dec 2021. From 01 Jan 2022, a new policy will be followed. The new  policy for Online Temporary slip for Beneficiaries is published in this Web portal. To read this letter, click on link above ECHS POLICY LETTERS, under Heading ECHS CARD click VALIDITY DATE ONLINE TEMPORARY SLIP</b>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>21 NOV 2021 - FOR BANGALORE - COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 21 NOV 2021 to 27 NOV 2021 Is Dr Ashima Talwar. Mobile # 8826849555. A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>18 NOV 2021 – FOR BANGALORE – Tomorrow the 19 th NOV 2021 , Polyclinic is closed – Guru Nanak’s Birthday</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>18 NOV 2021 – ALL INDIA – PRIOR SANCTION FOR TREATMENT IN NON-EMPANELLED HOSPITALS – Important Policy guideline has been issued by Central Org ECHS vide letter dated 12 Nov 2021. The same is available in this Web portal for your reference. To access the Policy letter, click on link above ECHS POLICY LETTERS, under Heading EMPANELLED & NON-EMPANELLED HOSPITALS, click PRIOR SANCTION TREATMENT IN NON EMP HOSPITALS</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>17 NOV 2021 – DID YOU KNOW? ALL INDIA – 64 kB ECHS Card activation has TWO STEPS. STEP 1 – OTP is entered by the Office when you collect the Card.  STEP 2 – After collecting the card, you must activate this card. This can be done in ANY POLYCLINIC KIOSK</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>15 NOV 2021 – FOR BANGALORE – IMPORTANT MESSAGE FROM COMMANDANT AFIDS BANGALORE - AFIDS Bangalore is a tertiary care Premier Dental Centre of IAF, with a large number of dependant troops and families from Tri-Services. It is also a Referral centre for ECHS Polyclinics for specialist opinion and Referral to Empanelled clinics. All veterans can register for specialist opinion at AFIDS after Referral from ECHS clinic on the same day. Treatment at AFIDS will depend on availability of scheduled appointments of specialist Dental Officers for ECHS Authorised procedures. For any queries, Veterans may please contact on 080-25368782 / AFNET 7610 (through AF Exchange) or meet Comdt / Dy Comdt on request</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>15 NOV 2021 – ALL INDIA - PLANNED PROCEDURE/INVESTIGATION – NEED FOR PRIOR APPROVAL – For a  Beneficiary whose Parent Polyclinic is a MIL – PC , it is important to be aware that any Procedures that are Planned (Non-Emergency ) to be carried out by an Empanelled Hospital needs the Military Hospital Specialists PRIOR approval. The Empanelled Hospital will be required to initiate the Request with all details as  per the existing Procedure and obtain approval. The Exception to this is if there is a Medical Emergency, wherein, the prior approval is not needed</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>14 NOV 2021 - FOR BANGALORE - COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 14 NOV 2021 to 20 NOV 2021 is Maj (Dr) Rukmani  Mobile # 9880258426. A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>12 NOV 2021 – ALL INDIA - IMPORTANT INFORMATION – 64 kB ECHS Card STOPS WORKING – Originally Published on 14 Sep 21. When you collect the card from Polyclinic or Station HQ office, it is to be digitally activated by the Office by entering the OTP received by you. In case the OTP has not been entered while handing over the card, your 64 kB card will NOT work NOW when you use it in the Polyclinics. An error message will be displayed stating that your card is not activated. In such cases, you need to visit the office that issued the card so that the OTP is entered in the system. Three Options are possible – OPTION 1 - If you have received the OTP earlier, the same OTP can be entered in the System. OPTION 2 - The concerned Polyclinic / Stn HQ Office can request for a OTP from Regional Centre, enter the same in the System. OPTION 3 - You can download the Temporary Slip from the site , get it signed by OIC Polyclinic & use it till you get the OTP entered in the system. It takes 24 Hrs from OTP entry ,  for the card to get activated</b>
-<br><br>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>12 NOV 2021 – ALL INDIA – IMPORTANT MESSAGE – HAEMODIALYSIS OF CHRONIC KIDNEY PATIENTS – This is considered as a Life Saving Emergency & hence NO REFERRAL is needed from parent polyclinic to undertake the treatment. This instruction from Central Org, ECHS is valid till 31 Dec 2021</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>10 NOV 2021 – ALL INDIA – DID YOU KNOW? ECHS Beneficiary, on discharge from an Empanelled Hospital is entitled to get 07 days Medicine or Medicines worth a value of Rs 2000.00, whichever is less. Many Empanelled Hospitals feign ignorance and hence the Beneficiaries are left with no option but to make own purchases / get it from their Polyclinics. You may call Director Regional Centre office before discharge in case of difficulties, as the contract is signed by the Regional Centre</b>
-<br><br>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>09 NOV 2021 – ALL INDIA – DID YOU KNOW? When an ECHS Beneficiary is admitted in an Empanelled Hospital using a Referral, the first 12 days ONLY is covered as In-Patient. For extension of stay between 13 to 30 days, the Hospital must initiate a Request for Approval. This uses a form called Appx A. Similarly, for Extension of stay between 31 days to 60 days, a form called Appx B is initiated. For stay beyond 60 days, form Appx C is initiated. ECHS counters in Empanelled Hospitals will have these forms. The latest format of these 3 forms were issued on 08 Jan 2021 by CO ECHS Office</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>07 NOV 2021 - @ BANGALORE - COVID HELP AT POLYCLINIC (URBAN) Bangalore – Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week 07 NOV  to 13 NOV 2021 is Gp Capt (Dr)   P C Ghosh (Retd)  Mobile # 9448119581. A COVID Nodal Medical Officer is also available at ECHS Polyclinic (Urban). COVID Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The COVID Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and seek Medical Help</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>06 NOV 2021 - ALL INDIA –– IMPORTANT INFORMATION ABOUT ECHS CARD  vide CO ECHS vide letter dated 03 Aug 2021. 16 kB ECHS Card & Offline Temporary slips are NOT VALID to get Medical cover and Referrals from ECHS. If you still have 16 kB card or Offline Temporary slip and if there is a Medical Emergency approach your Polyclinic and apply for 64 kB card immediately. A provision called Guest User is available with OIC Polyclinic to apply for the card and get a valid Online Temporary Slip</B>
-<BR><BR>
-<img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>02 NOV 2021 - DID YOU KNOW? ALL INDIA - If you have applied for 64 kB Card in one location (STATE OR CITY OR DISTRICT) and due to personal reasons you have shifted your residence to another location, your cards when received at the original location can be transferred to your new location for you to collect. The procedure is described in the CO ECHS letter TRANSFER OF ECHS CARDS BETWEEN POLYCLINICS dated 28 Jun 2021. To read this Policy letter click on ECHS POLICY LETTERS link above, under ECHS CARD heading, click TRANSFER OF ECHS CARDS BETWEEN POLYCLINICS</B>
+
 <BR><BR>
 
 <BR><BR>
