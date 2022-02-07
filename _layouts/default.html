@@ -17,11 +17,7 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 <meta name="google-site-verification" content="gREVyASSupe5MqxcORh1VACaSJPQPcHLbrUrAQh3TvE" />
-<script>
-  $( function() {
-    $( "#tabs" ).tabs();
-  } );
-  </script>
+
 {% if page.tipue_search_active or layout.tipue_search_active %}
 <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -73,5 +69,10 @@
       </script>
     {% endif %}
 	
+	<script>
+  $( function() {
+    $( "#tabs" ).tabs();
+  } );
+  </script>
   </body>
 </html>
