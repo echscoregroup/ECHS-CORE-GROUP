@@ -16,7 +16,7 @@
 </table>
 # Important Messages
 <hr>
-<p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>07 FEB 2022 – Identifying BANGALORE specific messages and ALL INDIA messages easily is implemented by colour code from to-date. 
+<p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)><B>07 FEB 2022 – Identifying BANGALORE specific messages and ALL INDIA messages easily is implemented by colour code from to-date. 
 <BR><BR>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>07 FEB 2022 – Identifying BANGALORE specific messages and ALL INDIA messages easily is implemented by colour code from to-date. 
 <BR><BR>
