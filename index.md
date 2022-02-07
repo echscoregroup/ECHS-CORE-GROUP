@@ -24,14 +24,15 @@
 	<p></p>
   </div>
   <div id="tabs-2">
-<p></p>  </div>
-</div>
-
-<hr>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>07 FEB 2022 - FOR BANGALORE – IMPORTANT MEDICAL  INFORMATION – Specialists OPD at Command Hospital , Air Force , Bangalore (CHAFB)  will recommence from 14 Feb 2022. On Line Appointments may start at a later date</B> 
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>06 FEB 2022 - FOR BANGALORE - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  06 FEB 2022 to 12 FEB 2022 is   Dr Soalvell,  Mobile #  9495095851. A Nodal Medical Officer is also available at ECHS Polyclinic (Urban). Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The  Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help</B>  
 <BR><BR>
+</div>
+</div>
+
+<hr>
+
 <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>02 FEB 2022 - ALL INDIA – VERY USEFUL FACILITY FOR ONLINE CONSULTATION BY ECHS BENEFICIARIES – All beneficiaries can  now avail On Line OPD Consultation on SeHAT. CO ECHS letter of 02 Feb 2022 is shared in this portal. Follow the steps given to register and then visit your Parent Polyclinic once to get approval of the Medical Officer. After that you can get OPD online consultation (including Video Consultation) & prescription. To read and register on SeHAT , click on ECHS POLICY LETTERS link above, under the Heading POLYCLINIC click OPD CONSULTATION SeHAT. A HELP document SeHAT HELP REGISTRATION is also shared. LOOK FOR THIS UPCOMING FACILITY  - In the next few months Beneficiaries will also have the facility of Medicines delivered to Home!!!</B>
 <BR><BR>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>01 FEB 2022 – FOR BANGALORE – The Precautionary COVID Vaccination dose will be given in the Auditorium, Command Hospital Air Force , Bangalore wef  02 FEB 2022.  No vaccination will be administered at ECHS Polyclinic (Urban)</B>
