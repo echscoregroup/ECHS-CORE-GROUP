@@ -1,3 +1,5 @@
+
+  
 <table>
   <tr><td><img src="https://github.com/echscoregroup/images/blob/main/Screenshot%202021-05-31%20092723.jpg?raw=true" width="100" height="100"></td>
     <td><h3> Welcome to HELPING HANDS FOR ECHS</h3>
@@ -13,6 +15,19 @@
 <tr><td><B>Command Hospital Air Force, Bangalore (CHAFB)</B></td><td><a href="https://www.chaf-b.org/">https://www.chaf-b.org/</a></td></tr>
 </table>
 # Important Messages
+<div id="tabs">
+  <ul>
+    <li><a href="#tabs-1">India</a></li>
+    <li><a href="#tabs-2">Bangalore</a></li>
+  </ul>
+  <div id="tabs-1">
+  <p></p>
+  </div>
+  <div id="tabs-2">
+	<p></p>
+  </div>
+</div>
+
 <hr>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>07 FEB 2022 - FOR BANGALORE – IMPORTANT MEDICAL  INFORMATION – Specialists OPD at Command Hospital , Air Force , Bangalore (CHAFB)  will recommence from 14 Feb 2022. On Line Appointments may start at a later date</B> 
 <BR><BR>
