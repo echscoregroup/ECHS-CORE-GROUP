@@ -17,7 +17,7 @@
 # Important Messages
 <hr>
 <p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>07 FEB 2022 – ALL INDIA -Identifying BANGALORE specific messages and ALL INDIA messages easily is implemented by colour code from to-date. This is ALL INDIA message 
-</p>
+
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>07 FEB 2022 – FOR BANGALORE - Identifying BANGALORE specific messages and ALL INDIA messages easily is implemented by colour code from to-date. This is Bangalore specific message  
 <BR><BR>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>07 FEB 2022 - FOR BANGALORE – IMPORTANT MEDICAL  INFORMATION – Specialists OPD at Command Hospital , Air Force , Bangalore (CHAFB)  will recommence from 14 Feb 2022. On Line Appointments may start at a later date</B> 
