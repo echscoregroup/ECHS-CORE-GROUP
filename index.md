@@ -16,7 +16,7 @@
 </table>
 # Important Messages
 <hr>
-<p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>10 FEB 2022 – ALL INDIA - IMPORTANT & USEFUL REFERENCE – A COMPENDIUM of ECHS POLICY letters upt to 2022 is shared in this Web Portal. To read this, click ECHS POLICY LETTERS link above, under heading MEMBERSHIP click CO ECHS POLICY COMPENDIUM FEB 2022</B> 
+<p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>10 FEB 2022 – ALL INDIA - IMPORTANT & USEFUL REFERENCE – A COMPENDIUM of ECHS POLICY letters up to 2022 is shared in this Web Portal. To read this, click ECHS POLICY LETTERS link above, under heading MEMBERSHIP click CO ECHS POLICY COMPENDIUM FEB 2022</B> 
 <BR>
 <p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>07 FEB 2022 – ALL INDIA -Identifying BANGALORE specific messages and ALL INDIA messages easily is implemented by colour code from to-date. This is ALL INDIA message 
 
