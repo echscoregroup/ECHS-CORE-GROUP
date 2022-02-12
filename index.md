@@ -44,7 +44,7 @@
 </tr>
 </table>
 <br>
-<p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>12 FEB 2022 – DID YOU KNOW ? ALL INDIA – You can get  the List of Empanelled Hospitals in your City “ANY TIME – ANY WHERE”  using a Computer or Mobile device. A simple procedure is available in this Portal.Click on STEP  BY STEP PROCEDURES link above, under Heading EMPANELLED HOSPITALS , click HOW TO FIND LIST OF EMPANELLED HOSPITAL</B>
+<p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">!<img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"> <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>12 FEB 2022 – DID YOU KNOW ? ALL INDIA – You can get  the List of Empanelled Hospitals in your City “ANY TIME – ANY WHERE”  using a Computer or Mobile device. A simple procedure is available in this Portal.Click on STEP  BY STEP PROCEDURES link above, under Heading EMPANELLED HOSPITALS , click HOW TO FIND LIST OF EMPANELLED HOSPITAL</B>
 <BR>
 <p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>10 FEB 2022 – ALL INDIA - IMPORTANT & USEFUL REFERENCE – A COMPENDIUM of ECHS POLICY letters up to 2022 is shared in this Web Portal. To read this, click ECHS POLICY LETTERS link above, under heading MEMBERSHIP click CO ECHS POLICY COMPENDIUM FEB 2022</B> 
 <BR>
