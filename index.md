@@ -15,6 +15,35 @@
 </table>
 # Important Messages
 <hr>
+<p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>12 FEB 2022 – ALL INDIA - FACT NOT FICTION! ECHS FACILITIES FOR YOU</B> 
+<BR>
+<table>
+<tr>
+    <th>FOR WHOM</th>
+    <th>DIRECT OPD NO REFERRAL REQUIRED FROM POLYCLINIC</th> 
+  </tr>
+  <tr>
+    <td><b>WAR DISABLED & BATTLE CASUALTY</b></td>
+    <td><B>AT MILITARY HOSPITALS – SELF & SPOUSE – NO AGE LIMIT</B></td>
+  </tr>
+  <tr>
+    <td><B>ECHS MEMBERS & DEPENDENTS</B></td>
+    <td><B>75 YEARS & ABOVE FOR SPECIALISTS DIRECT OPD AT MILITARY HOSPITALS</B></td>
+   </tr>
+<tr>
+    <td><B>ECHS MEMBERS & DEPENDENTS</B></td>
+    <td><B>75 YEARS & ABOVE FOR SPECIALISTS DIRECT OPD AT EMPANELLED HOSPITALS</B></td>
+   </tr>
+  <tr>
+  	<td><B>ECHS MEMBER MALES</B></td>
+  	<td><B>75 YEARS & ABOVE PRIORITY MEDICAL ATTENDANCE AT POLYCLINICS</B></td>
+  </tr>
+  <tr>
+    <td><B>ECHS MEMBERS FEMALES</B></td>
+    <td><B>70 YEARS & ABOVE PRIORITY MEDICAL ATTENDANCE AT POLYCLINICS</B></td>
+</tr>
+</table>
+<br>
 <p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>12 FEB 2022 – DID YOU KNOW ? ALL INDIA – You can get  the List of Empanelled Hospitals in your City “ANY TIME – ANY WHERE”  using a Computer or Mobile device. A simple procedure is available in this Portal.Click on STEP  BY STEP PROCEDURES link above, under Heading EMPANELLED HOSPITALS , click HOW TO FIND LIST OF EMPANELLED HOSPITAL</B>
 <BR>
 <p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>10 FEB 2022 – ALL INDIA - IMPORTANT & USEFUL REFERENCE – A COMPENDIUM of ECHS POLICY letters up to 2022 is shared in this Web Portal. To read this, click ECHS POLICY LETTERS link above, under heading MEMBERSHIP click CO ECHS POLICY COMPENDIUM FEB 2022</B> 
