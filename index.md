@@ -1,4 +1,3 @@
-
   
 <table>
   <tr><td><img src="https://github.com/echscoregroup/images/blob/main/Screenshot%202021-05-31%20092723.jpg?raw=true" width="100" height="100"></td>
