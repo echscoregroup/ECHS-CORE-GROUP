@@ -1,4 +1,3 @@
-<iframe src='https://webchat.botframework.com/embed/testqnamaker1-985f-bot?s=JHeT3KQ8ZEY.Q_lSWCoQnbc8m7fY6VxwCjk4Y5S5z3d8oCoPct7ohIA'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
   
 <table>
   <tr><td><img src="https://github.com/echscoregroup/images/blob/main/Screenshot%202021-05-31%20092723.jpg?raw=true" width="100" height="100"></td>
