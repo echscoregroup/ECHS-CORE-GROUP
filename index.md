@@ -15,7 +15,7 @@
 </table>
 # Important Messages
 <hr>
-<p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>12 FEB 2022 – ALL INDIA - FACT NOT FICTION !! ECHS FACILITIES FOR YOU</B> 
+<p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>12 FEB 2022 – ALL INDIA - FACT NOT FICTION! ECHS FACILITIES FOR YOU</B> 
 <BR>
 <table>
 <tr>
