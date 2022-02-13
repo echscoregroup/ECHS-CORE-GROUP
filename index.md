@@ -22,8 +22,8 @@
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}">  <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>12 FEB 2022 – ALL INDIA - FACT NOT FICTION! ECHS FACILITIES FOR YOU</B></p>
 <table>
 <tr>
-    <th>FOR WHOM</th>
-    <th>DIRECT OPD NO REFERRAL REQUIRED FROM POLYCLINIC</th> 
+    <th  style="color:Red;">FOR WHOM</th>
+    <th  style="color:Red;">DIRECT OPD NO REFERRAL REQUIRED FROM POLYCLINIC</th> 
   </tr>
   <tr>
     <td  style="color:Maroon;"><b>WAR DISABLED & BATTLE CASUALTY</b></td>
