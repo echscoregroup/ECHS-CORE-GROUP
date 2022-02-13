@@ -20,14 +20,14 @@
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>13 FEB 2022 - FOR BANGALORE - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  13 FEB 22 to 19 FEB 22 is Dr Rabia Mobile #  829125457 . Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The  Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help</b>
 </p>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}">  <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>12 FEB 2022 – ALL INDIA - FACT NOT FICTION! ECHS FACILITIES FOR YOU</B></p>
-<table style="color:Maroon;">
+<table>
 <tr>
     <th>FOR WHOM</th>
     <th>DIRECT OPD NO REFERRAL REQUIRED FROM POLYCLINIC</th> 
   </tr>
   <tr>
-    <td><b>WAR DISABLED & BATTLE CASUALTY</b></td>
-    <td><B>AT MILITARY HOSPITALS – SELF & SPOUSE – NO AGE LIMIT</B></td>
+    <td  style="color:Maroon;"><b>WAR DISABLED & BATTLE CASUALTY</b></td>
+    <td  style="color:Maroon;"><B>AT MILITARY HOSPITALS – SELF & SPOUSE – NO AGE LIMIT</B></td>
   </tr>
   <tr>
     <td><B>ECHS MEMBERS & DEPENDENTS</B></td>
