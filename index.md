@@ -15,6 +15,10 @@
 </table>
 # Important Messages
 <hr>
+<p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>197.	13 FEB 2022 – FOR BANGALORE – MESSAGE FROM ORTHO DEPT CHAFB – Elective Surgeries & Orthopaedic Intervention  will be undertaken from 15 Feb 2022. Beneficiaries may contact Cpl Prince or Cpl Sahu for assistance</b>
+</p>
+<p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>196.	13 FEB 2022 - FOR BANGALORE - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  13 FEB 22 to 19 FEB 22 is Dr Rabia Mobile #  829125457 . Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The  Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help</b>
+</p>
 <p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}">  <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>12 FEB 2022 – ALL INDIA - FACT NOT FICTION! ECHS FACILITIES FOR YOU</B> 
 <p style="color:Maroon;"><p style="color:Maroon;">
 <table>
