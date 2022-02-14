@@ -19,7 +19,7 @@
 </p>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>13 FEB 2022 - FOR BANGALORE - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  13 FEB 22 to 19 FEB 22 is Dr Rabia Mobile #  8291254575 . Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The  Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help</b>
 </p>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}">  <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>12 FEB 2022 – ALL INDIA - FACT NOT FICTION! ECHS FACILITIES FOR YOU</B></p>
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>12 FEB 2022 – ALL INDIA - FACT NOT FICTION! ECHS FACILITIES FOR YOU</B></p>
 <table >
 <tr>
     <th  style="color:Red;">FOR WHOM</th>
