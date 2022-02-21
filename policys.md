@@ -20,7 +20,7 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	ECHS CARD 
 ----------------
-<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/BLOCKING%20%20ECHS%20CARD%20DEMISE%20OF%20BENEFICIARY.pdf">BLOCKING OF ECHS CARD DEMISE OF BENEFICIARY</a></li></h5>
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/BLOCKING%20OF%20ECHS%20CARD%20DEMISE%20OF%20BENEFICIARY.pdf">BLOCKING OF ECHS CARD DEMISE OF BENEFICIARY</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/WITHDRAWAL%20OF%2064KB%20CARD%20APPLICATION.pdf">WITHDRAWAL OF 64KB CARD APPLICATION</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/HANDING%20OVER%20OF%2064%20kB%20CARDS.pdf">HANDING OVER OF 64 kB CARDS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/BLOCKING%20OF%20CARDS%20INELIGIBILITY%20DEMISE%20DISCIPLINARY%20REASONS.pdf">BLOCKING OF CARDS INELIGIBILITY DEMISE DISCIPLINARY REASONS</a></li></h5>
