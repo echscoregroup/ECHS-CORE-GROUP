@@ -15,7 +15,7 @@
 </table>
 # Important Messages
 <hr>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>26 FEB 2022 – ALL INDIA – DID YOU KNOW ? 1. With a REFERRAL from a Polyclinic, you can go to ANY EMPANELLED HOSPITAL  in the selected Station or City and receive CASHLESS treatment. 2. The REFERRAL will NOT indicate NAME OF THE EMPANELLED HOSPITAL.  
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>26 FEB 2022 – ALL INDIA – DID YOU KNOW ? 1. With a REFERRAL from a Polyclinic, you can go to ANY EMPANELLED HOSPITAL  in the selected Station or City and receive CASHLESS treatment. 2. The REFERRAL will NOT indicate NAME OF THE EMPANELLED HOSPITAL</B> 
 </P>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>24 FEB 2022 – ALL INDIA – IMPORTANT & USEFUL PROCEDURES ON ECHS CARD in this web portal – Once you have 64 kB Card , you can change the Registered Mobile Number & Parent Polyclinic Online. STEP BY STEP PROCEDURE for these now available in this Web Portal. To access the Procedures, click on STEP - BY - STEP PROCEDURES link above, under Heading ECHS CARD click 64 kB CARD PROCEDURE TO CHANGE PARENT POLYCLINIC or 64 kB CARD PROCEDURE TO CHANGE REGISTERED MOBILE NUMBER.JAI HIND</b>
 </p>
