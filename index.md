@@ -15,6 +15,8 @@
 </table>
 # Important Messages
 <hr>
+<p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>06 MAR 2022 - FOR BANGALORE - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  06 MAR 2022 to 12 MAR 2022 is Maj (Dr) Rukmani  Mobile # 9880258426.   Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The Nodal Medical Officer and DMO can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help</b>   
+</p>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>04 MAR 2022 – ALL INDIA – SOP EMERGENCY PANDEMIC RESPONSE –  SOP from CO ECHS dated Feb 2022 is shared here. To read the SOP click on ECHS POLICY LETTERS link above , under Heading COVID ADVISORY click SOP EMERGENCY PANDEMIC RESPONSE</B>
 </P>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><b>27 FEB 2022 - FOR BANGALORE - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  27 FEB 2022 to 05 MAR 2022 is Dr Roopa  Mobile #  9599829300. Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The  Nodal Medical Officer and DMO can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help</b>
