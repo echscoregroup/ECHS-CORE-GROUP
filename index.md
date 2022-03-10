@@ -15,6 +15,8 @@
 </table>
 # Important Messages
 <hr>
+<p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>10 MAR 2022 – FOR BANGALORE – COMMAND HOSPITAL , AIR FORCE , BANGALORE - ONLINE APPOINTMENTS FOR OPDs FOR EX-SERVICEMEN HAS BEEN STARTED. OBTAIN REFERRAL FROM ECHS POLYCLINICS AND REGISTER - LOGIN CHAFB PORTAL TO USE FACILITY</B>
+</P>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>09 MAR 2022 - FOR BANGALORE – IMPORTANT INFORMATION – DISCONTINUATION OF AN EMPANELLED HOSPITAL SERVICES – It has been intimated that Manipal Hospital, Old Airport Road, Bangalore,  will NOT provide CASHLESS Medical Services to ECHS Beneficiaries wef 10 MAR 2022</B>
 </P>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>06 MAR 2022 - FOR BANGALORE - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  06 MAR 2022 to 12 MAR 2022 is Maj(Dr) Rukmani(Retd), Mobile # 9880258426.   Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The Nodal Medical Officer and DMO can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help</b>   
