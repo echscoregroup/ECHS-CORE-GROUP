@@ -15,6 +15,8 @@
 </table>
 # Important Messages
 <hr>
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>11 MAR 2022 – FOR ALL INDIA – SeHAT ONLINE VIDEO CONSULTATION FACILITY – See the 02 FEB 2022 message in this Web Portal. If you have registered in SeHAT and obtained verification from your Parent Polyclinic, this facility is very useful to obtain ONLINE VIDEO OPD consultation & Prescription from a Doctor. Try it</b>
+</p>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>10 MAR 2022 – FOR BANGALORE – COMMAND HOSPITAL , AIR FORCE , BANGALORE - ONLINE APPOINTMENTS FOR OPDs FOR EX-SERVICEMEN HAS BEEN STARTED. OBTAIN REFERRAL FROM ECHS POLYCLINICS AND REGISTER - LOGIN CHAFB PORTAL TO USE FACILITY</B>
 </P>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>09 MAR 2022 - FOR BANGALORE – IMPORTANT INFORMATION – DISCONTINUATION OF AN EMPANELLED HOSPITAL SERVICES – It has been intimated that Manipal Hospital, Old Airport Road, Bangalore,  will NOT provide CASHLESS Medical Services to ECHS Beneficiaries wef 10 MAR 2022</B>
