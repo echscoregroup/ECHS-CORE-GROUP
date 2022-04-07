@@ -15,7 +15,7 @@
 </table>
 # Important Messages
 <hr>
-<p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>07 APR 2022 – FOR BANGALORE – IMPORTANT INFO - POLYCLINIC (URBAN) will remain CLOSED ON 09 APR 2022 due to Medical Store Inventory Management upgrade activities</b>
+<p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>07 APR 2022 – FOR BANGALORE – IMPORTANT INFO - POLYCLINIC (URBAN) will remain PARTIALLLY CLOSED ON 09 APR 2022 due to Medical Store Inventory Management upgrade activities. Emeregency  OPD will be available</b>
 </p>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>04 APR 2022  - FOR BANGALORE - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  03 APR 2022 to 08 APR 2022 is Dr Roopa  Mobile #  9599829300. Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The  Nodal Medical Officer and DMO can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help</B>
 </P>
