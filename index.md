@@ -15,6 +15,8 @@
 </table>
 # Important Messages
 <hr>
+<p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>07 APR 2022 – FOR BANGALORE – IMPORTANT INFO - POLYCLINIC (URBAN) will remain CLOSED ON 09 APR 2022 due to Medical Store Inventory Management upgrade activities</b>
+</p>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>04 APR 2022  - FOR BANGALORE - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  03 APR 2022 to 08 APR 2022 is Dr Roopa  Mobile #  9599829300. Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The  Nodal Medical Officer and DMO can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help</B>
 </P>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>29 MAR 2022 – FOR ALL INDIA  - DID YOU KNOW?  NOK OF VETERANS NEED NOT RUN AROUND TO GET APPROVAL OF UNLISTED PROCEDURE FOR EMPANELLED HOSPITAL –  Since Dec 2021 Emp Hospitals are required to initiate the Appx A form with details online ONLY to get approval. Veterans or NOK need not  run around to get this approval.   For more details , click on link above STEP – BY – STEP PROCEDURES , under the Heading EMPANELLED HOSPITALS click on  the document  PROCEDURE USE OF EMPANELLED HOSPITAL FACILITIES ROUTINE REFERRAL (or EMERGENCY MEDICAL CONDITIONS)</b>
