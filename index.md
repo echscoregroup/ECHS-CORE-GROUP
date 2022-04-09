@@ -15,6 +15,8 @@
 </table>
 # Important Messages
 <hr>
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>09 APR 2022 – ALL INDIA – VERY USEFUL POCKET GUIDE FOR MANAGING MEDICAL CONDITION USING ECHS  -  An updated Pocket Guide dated 09 Apr 2022 has been prepared and is now available in this Web Portal. To Read this, click link above STEP-BY-STEP PROCEDURES , under Heading POCKET GUIDE, click link POCKET GUIDE MANAGING MEDICAL CONDITIONS</b>
+</p>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>09 APR 2022 – DID YOU KNOW? - FOR BANGALORE – COMMAND HOSPITAL , AIR FORCE , BANGALORE - ONLINE APPOINTMENTS FOR SPECIALIST OPDs FOR EX-SERVICEMEN is now available. APPOINTMENTS can be taken MINIMUM ONE WEEK IN ADVANCE & MAXIMUM UP TO THREE WEEKS.  Obtain REFERRAL from ECHS POLYCLINIC. Register first with your Mobile # or User Name & Password to book Appointment</b>
 </p>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>09 APR 2022 – ALL INDIA – VERY USEFUL POCKET GUIDE FOR ECHS SMART CARD -  An updated Pocket Guide as on 09 Apr 2022 has been prepared and is now available in this Web Portal. To Read this, click link above STEP-BY-STEP PROCEDURES , under Heading POCKET GUIDE, click link POCKET GUIDE FOR ECHS CARD</b>
