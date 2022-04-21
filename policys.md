@@ -56,6 +56,7 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	SERVICE HOSPITAL 
 ----------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/MEDICAL%20CARE%20OF%20ESM%20%20IN%20MILY%20HOSP%20EMERGENCY .pdf">MEDICAL CARE OF ESM  IN MILY HOSP EMERGENCY </a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/CHAFB%20FORM%20REQUEST%20REFERRAL%20TO%20EMP%20HOSP.pdf">CHAFB FORM REQUEST REFERRAL TO EMP HOSP</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/CARE%20OF%20ESM%20BY%20MILITARY%20%20HOSPITAL.pdf">CARE OF ESM BY MILITARY  HOSPITAL</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/TREATMENT%20AT%20SERVICE%20HOSPITALS%20ELIGIBILTY.pdf">TREATMENT AT SERVICE HOSPITALS ELIGIBILTY</a></li></h5>
