@@ -15,7 +15,7 @@
 </table>
 # Important Messages
 <hr>
-<p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>24 APR 2022 - FOR BANGALORE – COVID VACCINATION AT CHAFB – Precautionary dose being administered at CHAFB for ECHS Beneficiaries over 60 years of age ONLY. Precautionary dose for ECHS Beneficiaries below 60 years WILL NOT be administered at present</b>
+<p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>24 APR 2022 - FOR BANGALORE – COVID VACCINATION AT CHAFB – Precautionary dose being administered at CHAFB for ECHS Beneficiaries over 60 years of age ONLY. To avoid long wait, try to reach by 9 AM. Precautionary dose for ECHS Beneficiaries below 60 years WILL NOT be administered at present</b>
 </p>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>26 APR 2022 – ALL INDIA – USEFUL INFORMATION ON AUTOMATION ECHS SERVICES  -  I have prepared a document  summarising the various ECHS Services that have been Automated. To read this document, click on STEP - BY - STEP PROCEDURES link above. Under Heading ECHS CARD click OVERVIEW AUTOMATED ECHS SERVICES</B>
 </P>
