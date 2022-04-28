@@ -83,70 +83,7 @@
 </P>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><b>27 FEB 2022 - FOR BANGALORE - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  27 FEB 2022 to 05 MAR 2022 is Dr Roopa  Mobile #  9599829300. Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The  Nodal Medical Officer and DMO can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help</b>
 </p>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>26 FEB 2022 – ALL INDIA – DID YOU KNOW ? 1. With a REFERRAL from a Polyclinic, you can go to ANY EMPANELLED HOSPITAL  in the selected Station or City and receive CASHLESS treatment. 2. The REFERRAL will NOT indicate NAME OF THE EMPANELLED HOSPITAL</B> 
-</P>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>24 FEB 2022 – ALL INDIA – IMPORTANT & USEFUL PROCEDURES ON ECHS CARD in this web portal – Once you have 64 kB Card , you can change the Registered Mobile Number & Parent Polyclinic Online. STEP BY STEP PROCEDURE for these now available in this Web Portal. To access the Procedures, click on STEP - BY - STEP PROCEDURES link above, under Heading ECHS CARD click 64 kB CARD PROCEDURE TO CHANGE PARENT POLYCLINIC or 64 kB CARD PROCEDURE TO CHANGE REGISTERED MOBILE NUMBER.JAI HIND</b>
-</p>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>21 FEB  2022 - FOR ALL INDIA – IMPORTANT ACTION ON DEMISE OF A ESM / BENEFICIARY PERTAINING TO ECHS CARD – Actions to be taken is contained in the Policy letter of Central Org ECHS  dated 16 Jul 2021. This is shared in this portal. To read the letter click on ECHS POLICY LETTERS link above , under Heading ECHS CARD click BLOCKING OF ECHS CARD DEMISE OF BENEFICIARY</B>
-</P>
-<p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>20 FEB 2022 - FOR BANGALORE - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  20 FEB 22 to 26 FEB 22 is Maj (Dr) Piyush Bali  (Retd) Mobile #  8289016484 . Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The  Nodal Medical Officer and DMO can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help</b>
-</p>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>19 FEB 2022 – ALL INDIA – USEFUL FEATURE TO ALL VETERANS – CHANGE OF POLYCLINIC – Till now a Veteran can change PARENT POLYCLINIC ONCE IN SIX (06) Months. This policy is modified allowing CHANGE OF PARENT POLYCLINIC ONCE IN THREE (03) Months.The POCKET GUIDE FOR ECHS CARD & STEP BY STEP PROCEDURE TO CHANGE PARENT POLYCLINIC have been modified and is available here for easy reference to all Veterans</B>
-</P>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>18 FEB 2022 – ALL INDIA - FROM ADMINISTRATOR HELPING HANDS FOR ECHS WEB PORTAL -  The information that is available in this Web Portal will answer over 95 % of your queries pertaining to ECHS. The portal is designed, keeping in view that a Non Computer savvy person can also use this Web Portal.  I request all users to take time and browse through the contents such as Important Messages, STEP-BY-STEP PROCEDURES & POLICY LETTERS. You are most welcome ask me queries for which you do not find answers here. You may also suggest areas that needs to be included in this web Portal.. Please share the Web Portal address to as many Veterans as you can, so that other Veterans  benefit. JAI HIND</B>
-</P>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>17 FEB 2022 – ALL INDIA – DID YOU KNOW ? ISSUE OF MEDICINES FOR LONGER DURATION – Facility exists in ECHS to obtain Medicines for 90 Days from Polyclinics under certain conditions. 1. When Beneficiary is proceeding to a foreign country for 90 days or more. 2. Bed ridden or Chronic condition patients. 3. Patients in Hilly region / difficult areas where commuting is difficult (J&K, NE regions, HP, Uttarakhand, etc). An amendment to the Medicine Management Policy (SOP) was issued by Central Org ECHS on 23 Dec 2021. The Policy letter is shared in this Web portal. To read this letter, click on POLICY LETTER link above, under Heading POLYCLINIC click the document ISSUE OF MEDICINE FOR LONGER DURATION BY POLYCLINIC</b>
-</p>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>16 FEB 2022 – ALL INDIA – TWO (02) useful POCKET GUIDES are available in this Web Portal for ECHS Card & Medical Conditions Management.To Read these, Click on STEP-BY-STEP PROCEDURES link above, under the Heading POCKET GUIDE click on the documents</b>
-</p>
-<p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>13 FEB 2022 – FOR BANGALORE – MESSAGE FROM ORTHO DEPT CHAFB – Elective Surgeries & Orthopaedic Intervention  will be undertaken from 15 Feb 2022. Beneficiaries may contact Cpl Prince or Cpl Sahu for assistance</b>
-</p>
-<p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>13 FEB 2022 - FOR BANGALORE - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  13 FEB 22 to 19 FEB 22 is Dr Rabia Mobile #  8291254575 . Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The  Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help</b>
-</p>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>12 FEB 2022 – ALL INDIA - FACT NOT FICTION! ECHS FACILITIES FOR YOU</B></p>
-<table >
-<tr>
-    <th  style="color:Red;">FOR WHOM</th>
-    <th  style="color:Red;">DIRECT OPD NO REFERRAL REQUIRED FROM POLYCLINIC</th> 
-  </tr>
-  <tr>
-    <td  style="color:Maroon;"><b>WAR DISABLED & BATTLE CASUALTY</b></td>
-    <td  style="color:Maroon;"><B>AT MILITARY HOSPITALS – SELF & SPOUSE – NO AGE LIMIT</B></td>
-  </tr>
-  <tr>
-    <td style="color:Maroon;"><B>ECHS MEMBERS & DEPENDENTS</B></td>
-    <td style="color:Maroon;"><B>75 YEARS & ABOVE FOR SPECIALISTS DIRECT OPD AT MILITARY HOSPITALS</B></td>
-   </tr>
-<tr>
-    <td style="color:Maroon;"> <B>ECHS MEMBERS & DEPENDENTS</B></td>
-    <td style="color:Maroon;"><B>75 YEARS & ABOVE FOR SPECIALISTS DIRECT OPD AT EMPANELLED HOSPITALS</B></td>
-   </tr>
-  <tr>
-  	<td style="color:Maroon;"><B>ECHS MEMBER MALES</B></td>
-  	<td style="color:Maroon;"><B>75 YEARS & ABOVE PRIORITY MEDICAL ATTENDANCE AT POLYCLINICS</B></td>
-  </tr>
-  <tr>
-    <td style="color:Maroon;"><B>ECHS MEMBERS FEMALES</B></td>
-    <td style="color:Maroon;"><B>70 YEARS & ABOVE PRIORITY MEDICAL ATTENDANCE AT POLYCLINICS</B></td>
-</tr>
-</table>
-<br>
-<p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">!<img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"> <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>12 FEB 2022 – DID YOU KNOW ? ALL INDIA – You can get  the List of Empanelled Hospitals in your City “ANY TIME – ANY WHERE”  using a Computer or Mobile device. A simple procedure is available in this Portal.Click on STEP  BY STEP PROCEDURES link above, under Heading EMPANELLED HOSPITALS , click HOW TO FIND LIST OF EMPANELLED HOSPITAL</B>
-<BR>
-<p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>10 FEB 2022 – ALL INDIA - IMPORTANT & USEFUL REFERENCE – A COMPENDIUM of ECHS POLICY letters up to 2022 is shared in this Web Portal. To read this, click ECHS POLICY LETTERS link above, under heading MEMBERSHIP click CO ECHS POLICY COMPENDIUM FEB 2022</B> 
-<BR>
-<p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>07 FEB 2022 – ALL INDIA -Identifying BANGALORE specific messages and ALL INDIA messages easily is implemented by colour code from to-date. This is ALL INDIA message 
-<p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>07 FEB 2022 – FOR BANGALORE - Identifying BANGALORE specific messages and ALL INDIA messages easily is implemented by colour code from to-date. This is Bangalore specific message  
-<BR><BR>
-<p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>07 FEB 2022 - FOR BANGALORE – IMPORTANT MEDICAL  INFORMATION – Specialists OPD at Command Hospital , Air Force , Bangalore (CHAFB)  will recommence from 14 Feb 2022. On Line Appointments may start at a later date</B> 
-</p>
-<p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>06 FEB 2022 - FOR BANGALORE - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  06 FEB 2022 to 12 FEB 2022 is   Dr Soalvell,  Mobile #  9495095851. A Nodal Medical Officer is also available at ECHS Polyclinic (Urban). Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The  Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help</B>  
-</p>
-<p style="color:Maroon;"><p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>02 FEB 2022 - ALL INDIA – VERY USEFUL FACILITY FOR ONLINE CONSULTATION BY ECHS BENEFICIARIES – All beneficiaries can  now avail On Line OPD Consultation on SeHAT. CO ECHS letter of 02 Feb 2022 is shared in this portal. Follow the steps given to register and then visit your Parent Polyclinic once to get approval of the Medical Officer. After that you can get OPD online consultation (including Video Consultation) & prescription. To read and register on SeHAT , click on ECHS POLICY LETTERS link above, under the Heading POLYCLINIC click OPD CONSULTATION SeHAT. A HELP document SeHAT HELP REGISTRATION is also shared. LOOK FOR THIS UPCOMING FACILITY  - In the next few months Beneficiaries will also have the facility of Medicines delivered to Home!!!</B>
-</p>
-<p style="color:Green;"> <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>01 FEB 2022 – FOR BANGALORE – The Precautionary COVID Vaccination dose will be given in the Auditorium, Command Hospital Air Force , Bangalore wef  02 FEB 2022.  No vaccination will be administered at ECHS Polyclinic (Urban)</B>
-</p>
-<p style="color:Maroon;"> <img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>01 FEB 2022 - ALL INDIA – DID YOU KNOW – Beneficiaries can take prior sanction of MD ECHS for Planned Procedures in Non Empanelled Hospital. Beneficiaries will be required to submit application at least 20 Working days in advance in order to get the sanction. To read the Policy , click on link above ECHS POLICY LETTERS, under Heading EMPANELLED & NON-EMPANELLED HOSPITALS, click PRIOR SANCTION TREATMENT IN NON EMP HOSPITALS</B>
+
 
 </p>
 
