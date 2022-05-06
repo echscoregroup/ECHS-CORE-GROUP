@@ -15,7 +15,7 @@
 </table>
 # Important Messages
 <hr>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>06 MAY 2022 – DID YOU KNOW? ALL INDIA – 64 kB ECHS Card activation is in TWO (02) stages. STAGE  1 – OTP is entered by the Office during collection by the Beneficiary. STAGE 2 – After collecting the card, you must activate this card. This can be done in the KIOSK AT ANY POLYCLINIC  
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>06 MAY 2022 – DID YOU KNOW? ALL INDIA – 64 kB ECHS Card activation is in TWO (02) stages. STAGE  1 – OTP is entered by the Office during collection by the Beneficiary. STAGE 2 – After collecting the card, you must activate this card. This can be done in the KIOSK AT ANY POLYCLINIC</B> 
 </p>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>05 MAY 2022 - DID YOU KNOW? @ BANGALORE – Ambulance for Veterans is available to reach any Hospital from your Home (within Bangalore city limits). The Ambulance service is provided by Armed Forces Retired Officers Welfare Association (AFROWA). To know more ,click on link above STEP – BY – STEP PROCEDURES, under HELPLINE heading click AFROWA AMBULANCE FOR VETERANS BANGALORE</b>
 </p>
