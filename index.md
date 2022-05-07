@@ -15,6 +15,34 @@
 </table>
 # Important Messages
 <hr>
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>07 MAY 2022 – FOR ALL INDIA - FACT NOT FICTION !! FOR VETERANS - ECHS FACILITIES</B>  
+<table>
+<tr>
+    <th>FOR WHOM</th>
+    <th>DIRECT OPD NO REFERRAL REQUIRED FROM POLYCLINIC</th> 
+  </tr>
+  <tr>
+    <td><b>WAR DISABLED & BATTLE CASUALTY</b></td>
+    <td><B>AT MILITARY HOSPITALS – SELF & SPOUSE – NO AGE LIMIT</B></td>
+  </tr>
+  <tr>
+    <td><B>ECHS MEMBERS & DEPENDENTS</B></td>
+    <td><B>75 YEARS & ABOVE FOR SPECIALISTS DIRECT OPD AT MILITARY HOSPITALS</B></td>
+   </tr>
+<tr>
+    <td><B>ECHS MEMBERS & DEPENDENTS</B></td>
+    <td><B>75 YEARS & ABOVE FOR SPECIALISTS DIRECT OPD AT EMPANELLED HOSPITALS</B></td>
+   </tr>
+  <tr>
+  	<td><B>ECHS MEMBER MALES</B></td>
+  	<td><B>75 YEARS & ABOVE PRIORITY MEDICAL ATTENDANCE AT POLYCLINICS</B></td>
+  </tr>
+  <tr>
+    <td><B>ECHS MEMBERS FEMALES</B></td>
+    <td><B>70 YEARS & ABOVE PRIORITY MEDICAL ATTENDANCE AT POLYCLINICS</B></td>
+</tr>
+</table>	
+</P>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>06 MAY 2022 – DID YOU KNOW? ALL INDIA – 64 kB ECHS Card activation is in TWO (02) stages. STAGE  1 – OTP is entered by the Office during collection by the Beneficiary. STAGE 2 – After collecting the card, you must activate this card. This can be done in the KIOSK AT ANY POLYCLINIC</B> 
 </p>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>05 MAY 2022 - DID YOU KNOW? @ BANGALORE – Ambulance for Veterans is available to reach any Hospital from your Home (within Bangalore city limits). The Ambulance service is provided by Armed Forces Retired Officers Welfare Association (AFROWA). To know more ,click on link above STEP – BY – STEP PROCEDURES, under HELPLINE heading click AFROWA AMBULANCE FOR VETERANS BANGALORE</b>
