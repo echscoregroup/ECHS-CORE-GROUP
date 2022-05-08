@@ -15,6 +15,8 @@
 </table>
 # Important Messages
 <hr>
+<p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>08 MAY 2022 - FOR BANGALORE – IMPORTANT & USEFUL HELPLINES - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  08 MAY22 to 14  MAY  22 is Dr Ashima Talwar , Mobile #  88268 49555 . Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 9448119581. The  Nodal Medical Officer and DMO can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help. Polyclinic ( Urban ) Contact # 080 2951 0092</b>
+</p>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>07 MAY 2022 – ALL INDIA – USEFUL INFORMATION - A Diagrammatic Flow of obtaining treatment in Empanelled Hospital  is shared in this Web Portal. To read this, click on STEP- BY-STEP PROCEDURES above, under Heading EMPANELLED HOSPITALS, click DIAGRAMMATIC FLOW TREATMENT AT EMPANELLED HOSPITAL</b>
 </p>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>07 MAY 2022 – FOR ALL INDIA - FACT NOT FICTION !! FOR VETERANS - ECHS FACILITIES</B>  
@@ -45,7 +47,7 @@
 </tr>
 </table>	
 </P>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>06 MAY 2022 – DID YOU KNOW? ALL INDIA – 64 kB ECHS Card activation is in TWO (02) stages. STAGE  1 – OTP is entered by the Office during collection by the Beneficiary. STAGE 2 – After collecting the card, you must activate this card. This can be done in the KIOSK AT ANY POLYCLINIC</B> 
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><b>06 MAY 2022 – DID YOU KNOW? ALL INDIA – 64 kB ECHS Card activation is in TWO (02) stages. STAGE  1 – OTP is entered by the Office during collection by the Beneficiary. STAGE 2 – After collecting the card, you must activate this card. This can be done in the KIOSK AT ANY POLYCLINIC</B> 
 </p>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><b>05 MAY 2022 - DID YOU KNOW? @ BANGALORE – Ambulance for Veterans is available to reach any Hospital from your Home (within Bangalore city limits). The Ambulance service is provided by Armed Forces Retired Officers Welfare Association (AFROWA). To know more ,click on link above STEP – BY – STEP PROCEDURES, under HELPLINE heading click AFROWA AMBULANCE FOR VETERANS BANGALORE</b>
 </p>
