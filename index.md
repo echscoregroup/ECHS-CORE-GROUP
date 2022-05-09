@@ -15,11 +15,13 @@
 </table>
 # Important Messages
 <hr>
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>09 MAY 2022 - ALL INDIA – USEFUL INFORMATION ON ECHS CARD. If you have applied for 64 kB Card in one location (STATE OR CITY OR DISTRICT) and due to personal reasons you have shifted your residence to another location , your cards when received at the original location can be transferred to your new location for collection. Step BY STEP Procedure is available in this web portal. To Read , click on STEP-BY-STEP PROCEDURES link above, under Heading ECHS CARD click the link STEP BY STEP PROCEDURE TRANSFER OF 64 kB CARD BETWEEN POLYCLINICS</B>
+</P>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>08 MAY 2022 - FOR BANGALORE – IMPORTANT & USEFUL HELPLINES - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  08 MAY22 to 14  MAY  22 is Maj (Dr) Piyush Bali , Mobile #  82890 16484 . Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 9448119581. The  DMO & Nodal Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help. Polyclinic ( Urban ) Contact # 080 2951 0092</b>
 </p>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>07 MAY 2022 – ALL INDIA – USEFUL INFORMATION - A Diagrammatic Flow of obtaining treatment in Empanelled Hospital  is shared in this Web Portal. To read this, click on STEP- BY-STEP PROCEDURES above, under Heading EMPANELLED HOSPITALS, click DIAGRAMMATIC FLOW TREATMENT AT EMPANELLED HOSPITAL</b>
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><b>07 MAY 2022 – ALL INDIA – USEFUL INFORMATION - A Diagrammatic Flow of obtaining treatment in Empanelled Hospital  is shared in this Web Portal. To read this, click on STEP- BY-STEP PROCEDURES above, under Heading EMPANELLED HOSPITALS, click DIAGRAMMATIC FLOW TREATMENT AT EMPANELLED HOSPITAL</b>
 </p>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>07 MAY 2022 – FOR ALL INDIA - FACT NOT FICTION !! FOR VETERANS - ECHS FACILITIES</B>  
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><b>07 MAY 2022 – FOR ALL INDIA - FACT NOT FICTION !! FOR VETERANS - ECHS FACILITIES</B>  
 <table>
 <tr>
     <th>FOR WHOM</th>
