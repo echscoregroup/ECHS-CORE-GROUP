@@ -13,7 +13,7 @@
 <tr><td><B>64kB Online Card Application</B> </td><td><a href="https://echs.sourceinfosys.com/">https://echs.sourceinfosys.com/</a></td></tr>
 <tr><td><B>Command Hospital Air Force, Bangalore (CHAFB)</B></td><td><a href="https://www.chaf-b.org/">https://www.chaf-b.org/</a></td></tr>
 </table>
-<img src="https://github.com/echscoregroup/images/blob/main/YTLogo.gif?raw=true" width="100" height="100">
+<img src="https://github.com/echscoregroup/images/blob/main/YTLogo.gif?raw=true">
 <a href="https://www.youtube.com/channel/UCEzUrm1z_daD8T9j34xWWAQ">HELPING HANDS FOR ECHS YOU TUBE CHANNEL</a><br>
 # Important Messages
 <hr>
