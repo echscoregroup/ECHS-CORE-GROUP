@@ -9,11 +9,12 @@
  <marquee behavior="scroll" direction="left"><p style="color:red;"><b>Send your FEEDBACK & QUERIES to Administrator @ 9740072879&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Command Hospital Air Force Bangalore (CHAFB) Duty Medical Officer (DMO) Contact Number 9008829595&nbsp;&nbsp;&nbsp;&nbsp;ANYTIME-ANYONE-ANYWHERE-ANY DEVICE - VISIT THIS PORTAL DAILY & GET ANSWERS</b></p></marquee>
 <table>
 <tr><th colspan=2>Useful External Web sites:-</th></tr>
-<tr><td><b>HELPING HANDS FOR ECHS YOU TUBE CHANNEL</B></td><td><a href="https://www.youtube.com/channel/UCEzUrm1z_daD8T9j34xWWAQ">https://www.youtube.com/channel/UCEzUrm1z_daD8T9j34xWWAQ</a></td></tr>
 <tr><td><B>Central Orgn ECHS, New Delhi</B></td><td><a href="https://echs.gov.in/">https://echs.gov.in/</a></td></tr>
 <tr><td><B>64kB Online Card Application</B> </td><td><a href="https://echs.sourceinfosys.com/">https://echs.sourceinfosys.com/</a></td></tr>
 <tr><td><B>Command Hospital Air Force, Bangalore (CHAFB)</B></td><td><a href="https://www.chaf-b.org/">https://www.chaf-b.org/</a></td></tr>
 </table>
+<img src="https://github.com/echscoregroup/images/blob/main/YTLogo.gif?raw=true" width="100" height="100">
+<a href="https://www.youtube.com/channel/UCEzUrm1z_daD8T9j34xWWAQ">HELPING HANDS FOR ECHS YOU TUBE CHANNEL</a>
 # Important Messages
 <hr>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>13 MAY 2022  – FOR ALL INDIA - Frequent queries are received about ECHS Polyclinic working Hours, Referral Issuing timings, lunch time closure, et al. Policy letter of Central Organisation, ECHS,  clearly indicates these details, applicable for all Polyclinics across India.  The Policy letter is available in this Web Portal. Click ECHS POLICY LETTERS above, under the heading POLYCLINIC, click  WORKING HOURS POLYCLINIC.  A summary of the working hours is given below for quick reference. Polyclinic observes staggered Lunch Hours so that treatment is provided continuously</b>
