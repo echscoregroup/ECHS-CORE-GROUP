@@ -15,6 +15,31 @@
 </table>
 # Important Messages
 <hr>
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>13 MAY 2022  – FOR ALL INDIA - Frequent queries are received about ECHS Polyclinic working Hours, Referral Issuing timings, lunch time closure, et al. Policy letter of Central Organisation, ECHS,  clearly indicates these details, applicable for all Polyclinics across India.  The Policy letter is available in this Web Portal. Click ECHS POLICY LETTERS above, under the heading POLYCLINIC, click  WORKING HOURS POLYCLINIC.  A summary of the working hours is given below for quick reference. Polyclinic observes staggered Lunch Hours so that treatment is provided continuously</b>
+<table>
+<tr>
+    <th>ACTIVITY DESCRIPTION</th>
+    <th>WORKING HOURS </th> 
+  </tr>
+  <tr>
+    <td><b>POLYCLINIC WORKING HOURS</b></td>
+    <td>0800 to 1600 hrs (8 AM to 4 PM)</td>
+  </tr>
+  <tr>
+    <td><B>LUNCH HOURS</B></td>
+    <td>STAGGERED. No Beneficiary shall be  denied treatment</td>
+   </tr>
+  <tr>
+  	<td><B>ISSUING OF REFERRALS</B></td>
+  	<td>0800 to 1600 Hrs (8 AM to 4 PM) </td>
+  </tr>
+  <tr>
+    <td><B>POLYCLINIC ADMIN HOURS</B></td>
+    <td>1500 TO 1600 Hrs (3 TO 4 pm)</td>
+  </tr>
+</table>
+
+</p>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>12 MAY 2022 – ALL INDIA – IMPORTANT VIDEO IN HELPING HANDS FOR ECHS  YOU TUBE CHANNEL - Very Useful for all veterans & Families on How To Manage an EMERGENCY Medical Condition using an Empanelled Hospital facility is now LIVE. Click the link <a href="https://www.youtube.com/channel/UCEzUrm1z_daD8T9j34xWWAQ">YouTube Channel</a>to watch. Click SUBSCRIBE button so that future Video posting will trigger a message in your mobile. Your comments are Welcome</b>
 </p>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>10 MAY 2022 – ALL INDIA –FROM PORTAL TO VIDEO - LAUNCH OF YOUTUBE CHANNEL – “HELPING HANDS FOR ECHS” TO BENEFIT VETERANS & FAMILIES – As a continuation to this Web Portal, I am launching an exclusive YOU TUBE Video Channel “Helping Hands For ECHS”. The Introduction Video of this launch can be viewed by clicking this link <a href="https://www.youtube.com/channel/UCEzUrm1z_daD8T9j34xWWAQ">YouTube Channel</a>. Videos on every aspect of ECHS will be posted by me regularly , so that Veterans & Families have answers to use the ECHS facilities easily. Please support my initiative by clicking Subscribe button in the You Tube Channel. Your feedback is important to Improve this Initiative. From Cdr Santhanam (Retd)</b>
