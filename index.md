@@ -15,7 +15,7 @@
 </table>
 <img src="https://github.com/echscoregroup/images/blob/main/YTLogo.gif?raw=true">
 <a href="https://www.youtube.com/channel/UCEzUrm1z_daD8T9j34xWWAQ">HELPING HANDS FOR ECHS YOU TUBE CHANNEL</a><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eHrFSMWSUF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLZEoitLISbkNP9eis3REZMQgt7zoHJ4-z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 # Important Messages
 <hr>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>13 MAY 2022  – FOR ALL INDIA - Frequent queries are received about ECHS Polyclinic working Hours, Referral Issuing timings, lunch time closure, et al. Policy letter of Central Organisation, ECHS,  clearly indicates these details, applicable for all Polyclinics across India.  The Policy letter is available in this Web Portal. Click ECHS POLICY LETTERS above, under the heading POLYCLINIC, click  WORKING HOURS POLYCLINIC.  A summary of the working hours is given below for quick reference. Polyclinic observes staggered Lunch Hours so that treatment is provided continuously</b>
