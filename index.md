@@ -9,6 +9,7 @@
  <marquee behavior="scroll" direction="left"><p style="color:red;"><b>Send your FEEDBACK & QUERIES to Administrator @ 9740072879&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Command Hospital Air Force Bangalore (CHAFB) Duty Medical Officer (DMO) Contact Number 9008829595&nbsp;&nbsp;&nbsp;&nbsp;ANYTIME-ANYONE-ANYWHERE-ANY DEVICE - VISIT THIS PORTAL DAILY & GET ANSWERS</b></p></marquee>
 <table>
 <tr><th colspan=2>Useful External Web sites:-</th></tr>
+<tr><td><b>HELPING HANDS FOR ECHS YOU TUBE CHANNEL</B></td><td><a href="https://www.youtube.com/channel/UCEzUrm1z_daD8T9j34xWWAQ"></a></td></tr>
 <tr><td><B>Central Orgn ECHS, New Delhi</B></td><td><a href="https://echs.gov.in/">https://echs.gov.in/</a></td></tr>
 <tr><td><B>64kB Online Card Application</B> </td><td><a href="https://echs.sourceinfosys.com/">https://echs.sourceinfosys.com/</a></td></tr>
 <tr><td><B>Command Hospital Air Force, Bangalore (CHAFB)</B></td><td><a href="https://www.chaf-b.org/">https://www.chaf-b.org/</a></td></tr>
