@@ -31,6 +31,7 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	REIMBURSEMENT 
 ----------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/PURCHASE%20FROM%20MARKET%20MEDICINES%2030%20DAYS.pdf">PURCHASE FROM MARKET MEDICINES 30 DAYS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/LETTER%20REIMBURSEMENT%20MODULE%20SELF%20LOGIN%20UPLOAD.pdf">LETTER REIMBURSEMENT MODULE SELF LOGIN UPLOAD</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/INSTRUCTION%20MANUAL%20REIMBURSEMENT%20MODULE%20SELF%20LOGIN%20UPLOAD.pdf">INSTRUCTION MANUAL REIMBURSEMENT MODULE SELF LOGIN UPLOAD</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSEMENT%20CLAIM%20QUERY%20STATUS.pdf">REIMBURSEMENT CLAIM QUERY STATUS</a></li></h5>
