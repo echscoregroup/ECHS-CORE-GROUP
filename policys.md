@@ -39,7 +39,6 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	REIMBURSEMENT 
 ----------------
-<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REMBURSEMENT%20COVID%20HOME%20ISOLATION%2014%20JAN%202022.pdf">REIMBURSEMENT COVID HOME ISOLATION 14 JAN 2022</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSEMENT%20OF%20NA%20MEDICINE.pdf">REIMBURSEMENT OF NA MEDICINE</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/LETTER%20REIMBURSEMENT%20MODULE%20SELF%20LOGIN%20UPLOAD.pdf">LETTER REIMBURSEMENT MODULE SELF LOGIN UPLOAD</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/INSTRUCTION%20MANUAL%20REIMBURSEMENT%20MODULE%20SELF%20LOGIN%20UPLOAD.pdf">INSTRUCTION MANUAL REIMBURSEMENT MODULE SELF LOGIN UPLOAD</a></li></h5>
