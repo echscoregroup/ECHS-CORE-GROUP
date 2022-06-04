@@ -39,6 +39,7 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	REIMBURSEMENT 
 ----------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/DOMICILIARY%20MEDICAL%20EQUIPMENT%20HEARING%20AID%20ETC.pdf">DOMICILIARY MEDICAL EQUIPMENT HEARING AID ETC</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/PURCHASE%20FROM%20MARKET%20MEDICINES%2030%20DAYS.pdf">PURCHASE FROM MARKET MEDICINES 30 DAYS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSEMENT%20OF%20NA%20MEDICINE.pdf">REIMBURSEMENT OF NA MEDICINE</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/LETTER%20REIMBURSEMENT%20MODULE%20SELF%20LOGIN%20UPLOAD.pdf">LETTER REIMBURSEMENT MODULE SELF LOGIN UPLOAD</a></li></h5>
