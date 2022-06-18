@@ -53,6 +53,7 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	COVID & VACCINES
 ----------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/VACCINES%20FOR%20BENEFICIARIES.pdf">VACCINES FOR BENEFICIARIES</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/SOP%20EMERGENCY%20PANDEMIC%20RESPONSE.pdf">SOP EMERGENCY PANDEMIC RESPONSE</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/COVID%20VACCINE%20CHILDREN%20AND%2060%20PLUS.pdf">COVID VACCINE CHILDREN AND 60 PLUS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/DENTAL%20TREATMENT%20COVID%20SAFETY.pdf">DENTAL TREATMENT COVID SAFETY</a></li></h5>
