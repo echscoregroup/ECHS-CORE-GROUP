@@ -51,7 +51,7 @@ title: "HELPING HANDS FOR ECHS"
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSEMENT%20CT%20MEDICINES.pdf">REIMBURSEMENT CT MEDICINES</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSMENT%20COVID%20HOME%20ISOLATION.pdf">REIMBURSMENT COVID HOME ISOLATION</a></li></h5>
 <br>
-#	COVID ADVISORY & VACCINES
+#	COVID & VACCINES
 ----------------
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/SOP%20EMERGENCY%20PANDEMIC%20RESPONSE.pdf">SOP EMERGENCY PANDEMIC RESPONSE</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/COVID%20VACCINE%20CHILDREN%20AND%2060%20PLUS.pdf">COVID VACCINE CHILDREN AND 60 PLUS</a></li></h5>
