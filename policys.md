@@ -22,6 +22,7 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	ECHS CARD 
 ----------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ECHS%20CARD%20LIFE%20CERTIFICATE%20FOR%20DEPENDENTS.pdf">ECHS CARD LIFE CERTIFICATE FOR DEPENDENTS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/BLOCKING%20OF%20TEMP%20SLIPS%2064%20KB%20CARD%20IN%2090%20DAYS%20FROM%20OTP.pdf">BLOCKING OF TEMP SLIPS 64 KB CARD IN 90 DAYS FROM OTP</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/UDID%20CARD%20AS%20VERIFICATION%20FOR%20ECHS%20CARD.pdf">UDID CARD AS VERIFICATION FOR ECHS CARD</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/BLOCKING%20OF%20ECHS%20CARD%20DEMISE%20OF%20BENEFICIARY.pdf">BLOCKING OF ECHS CARD DEMISE OF BENEFICIARY</a></li></h5>
