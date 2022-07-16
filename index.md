@@ -19,6 +19,34 @@
 
 # Important Messages
 <hr>
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>16 JUL 2022 – FOR ALL INDIA – IMPORTANT INFORMATION EVERY ECHS BENEFICIARY MUST KNOW</B>   
+<table>
+<tr>
+    <th>FOR WHOM</th>
+    <th>DIRECT OPD NO REFERRAL REQUIRED FROM POLYCLINIC</th> 
+  </tr>
+  <tr>
+    <td><b>WAR DISABLED & BATTLE CASUALTY</b></td>
+    <td><B>AT MILITARY HOSPITALS – SELF & SPOUSE – NO AGE LIMIT</B></td>
+  </tr>
+  <tr>
+    <td><B>ESM & SPOUSE</B></td>
+    <td><B>75 YEARS & ABOVE FOR SPECIALISTS DIRECT OPD AT MILITARY HOSPITALS</B></td>
+   </tr>
+<tr>
+    <td><B>ECHS MEMBERS & DEPENDENTS</B></td>
+    <td><B>75 YEARS & ABOVE FOR SPECIALISTS DIRECT OPD AT EMPANELLED HOSPITALS</B></td>
+   </tr>
+  <tr>
+  	<td><B>ECHS MEMBER MALES</B></td>
+  	<td><B>75 YEARS & ABOVE PRIORITY MEDICAL ATTENDANCE AT POLYCLINICS</B></td>
+  </tr>
+  <tr>
+    <td><B>ECHS MEMBERS FEMALES</B></td>
+<td><B>70 YEARS & ABOVE PRIORITY MEDICAL ATTENDANCE AT POLYCLINICS</B></td>
+</tr>
+</table>
+</p>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>15 JUL 2022 – ALL INDIA – DID YOU KNOW? USEFUL INFO ABOUT YOUR 64 kB ECHS Card. If you find that 64 kB ECHS Card is not working in the Kiosk at Polyclinic when you go for OPD consultation. SCENARIO # 1 -- CHIP on the Card is Defective. The OIC Polyclinic will check and confirm if the CHIP is defective using his compute system. If it is confirmed that the CHIP is defective , action will be taken to get the card replaced by OIC. Till you receive the new card, you download Temporary Slip get it signed by OIC & use it . SCENARIO # 2 -- The card is PHYSICALLY DAMAGED . In this case, you have to order for a Reprint of 64 kB Card Online & use a Temporary Slip till you receive a new card</b>
 </p>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>13 JUL 2022 - DID YOU KNOW? ALL INDIA – USEFUL FEATURE FOR VETERANS - If you have applied for 64 kB Card in one location (STATE OR CITY OR DISTRICT) and due to personal reasons you have shifted your residence to another location , your cards when received at the original location can be transferred to your new location for you to collect. To know details, click on ECHS POLICY LETTERS link above,under ECHS CARD heading, click TRANSFER OF ECHS CARDS BETWEEN POLYCLINICS</B>
