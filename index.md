@@ -25,7 +25,7 @@
 </p>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>16 JUL 2022 – FOR ECHS BENEFICIARIES WHEREVER YOU ARE -  Watch You Tube SHORTS – “ONE MINUTE” Video launched today. You can watch it above. All my Videos on ECHS are  available in the You Tube HELPING HANDS FOR ECHS.Share this info to Veterans & Families</B>
 </P>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>16 JUL 2022 – FOR ALL INDIA – IMPORTANT INFORMATION EVERY ECHS BENEFICIARY MUST KNOW</B>   
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>16 JUL 2022 – FOR ALL INDIA – IMPORTANT INFORMATION EVERY ECHS BENEFICIARY MUST KNOW</B>   
 <table>
 <tr>
     <th>FOR WHOM</th>
