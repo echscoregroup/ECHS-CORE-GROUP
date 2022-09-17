@@ -19,6 +19,8 @@
 
 # Important Messages
 <hr>
+<p style="color:Red;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>17 SEP 2022 – ALL INDIA – From Contingency Fund of India , ECHS has been allotted Rs 1000 Crores for FY 22 -23. This will be allocated to various Regional Centres. Authority CO Echs letter dated 16 Sep 2022</B>
+</P>
 <p style="color:Red;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>15 SEP 2022 – ALL INDIA - FROM HELPING HANDS FOR ECHS – CAN YOU GET MEDICINES FOR 90 DAYS & ABOVE ? - An useful You Tube Shorts Video on “Availability of Medicines for 90 days and beyond is live now. This is Video # 32 on ECHS. You can view this in You Tube Channel or Web portal” HELPING HANDS FOR ECHS”</B>  
 </P>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><B>14 SEP 2022 – FOR KARNATAKA – BIG BLOW TO ECHS HEALTH CARE – Narayana Hridalaya Group of Hospitals that were Empanelled as Super Speciality Hospitals have STOPPED SERVICES due to non-payment of their bills by the ECHS. This is the 2 nd group which have gone out of ECHS in the last 6 months</b>
