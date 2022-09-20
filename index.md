@@ -19,6 +19,10 @@
 
 # Important Messages
 <hr>
+<p style="color:Red;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>20 SEP 2022 – ALL INDIA - FROM HELPING HANDS FOR ECHS – WHAT ACTIONS TO BE TAKEN IN AN UNFORTUNATE DEATH OF AN ECHS BENEFICIARY - An useful You Tube Shorts Video on this is LIVE now.You can view this in You Tube Channel or Web portal” HELPING HANDS FOR ECHS”</b>
+</p>
+<p style="color:Red;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>20 SEP 2022 – ALL INDIA – 64 kB ECHS CARD - HELP FOR RETIRED INDIAN NAVY OFFICERS , SAILORS & FAMILIES - FROM COMMANDER SANTHANAM (Retd) –– If you have applied for 64 kB ECHS Card & Verification is pending from NHQ or NAVPEN Record Office, do not hesitate to write all details to my email  sanoppi@duck.com. If you still have 32 kB Card it will be blocked wef 16 Nov 2022. 16 kB Card is not valid as on date. You can also visit my Web Portal & You Tube channel HELPING HANDS FOR ECHS to get answers for your ECHS Card Queries.Share this message to Help Naval Veterans</b>
+</p>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><B>19 SEP 2022 – FOR BANGALORE – USEFUL HELPLINE NUMBER OF ECHS REGIONAL CENTRE BANGALORE - 82770 82111. If you have difficulties wrt Empanelled Hospitals in Karnataka  or queries,  call this number</b>
 </p>
 <p style="color:Red;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><b>17 SEP 2022 – ALL INDIA – From Contingency Fund of India , ECHS has been allotted Rs 1000 Crores for FY 22 -23. This will be allocated to various Regional Centres. Authority CO Echs letter dated 16 Sep 2022</B>
