@@ -19,6 +19,8 @@
 
 # Important Messages
 <hr>
+<p style="color:Red;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>27 SEP 2022 – ALL INDIA - FROM HELPING HANDS FOR ECHS – YOUR FEEDBACK ON AREAS THAT REQUIRE TO BE COVERED FURTHER – VIDEO # 36. Almost every Query you may have will have an answer in Helping Hands For ECHS You Tube Channel & Web portal. If you think more areas need to be covered by me , please do not hesitate to send me the specific areas so that these are also included. This You Tube Video requesting your feedback is LIVE now. You can view this above</b>
+</p>
 <p style="color:Red;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>23 SEP 2022 – ALL INDIA - FROM HELPING HANDS FOR ECHS – HOW TO FIND ECHS EMPANELLED HOSPITALS IN INDIA – VIDEO # 35. Using the New ECHS Web Site https://echs.gov.in, you can easily find the Empanelled Hospital list from your home using a computer. This You Tube Video is LIVE now & provides the Steps. You can view this above</b>
 </P>
 <p style="color:Red;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>20 SEP 2022 – ALL INDIA - FROM HELPING HANDS FOR ECHS – WHAT ACTIONS TO BE TAKEN IN AN UNFORTUNATE DEATH OF AN ECHS BENEFICIARY - An useful You Tube Shorts Video on this is LIVE now.You can view this in You Tube Channel or Web portal” HELPING HANDS FOR ECHS”</b>
