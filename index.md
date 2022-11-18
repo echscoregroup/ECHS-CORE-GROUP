@@ -19,6 +19,8 @@
 
 # Important Messages
 <hr>
+<p style="color:Red;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>18 NOV 2022 – ALL INDIA – YOU TUBE CHANNEL HELPING HANDS FOR ECHS – NEW VIDEO IS NOW LIVE – ANNUAL VALIDATION DEPENDENTS ECHS MEMBERSHIP - Important ESM friendly changes have been published by Central Org, ECHS on 26 Oct 2022. This video will explain in detail on the changes and how you can benefit. The video V 40 can be seen above. This is the 40 th  Video on ECHS that I have launched to date. Hope all of you find the Videos Useful</b>
+</P>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>17 NOV 2022 – ALL INDIA – DID YOU KNOW ? 32 kB ECHS Card will NO LONGER be VALID wef 15 Nov 2022. In case you still have it , APPLY FOR 64 kB CARD IMMEDIATELY. In case of Emergency Medical Condition you should use GUEST USER FACILITY AVAILABLE AT POLYCLINIC COMPUTER SYSTEM TO APPLY  FOR 64 kB Card & OBTAIN A TEMP SLIP for a short duration</b>
 </p>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><b>02 NOV 2022 – USEFUL INFORMATION FOR VETERANS – Command Hospital Air Force Bangalore (CHAFB) revised Working Hours have been received. To read the letter dated 31 Oct 2022 ,  click on ECHS POLICY LETTERS link above. Under the Heading SERVICE HOSPITAL, click the letter CHAFB WORKING HOURS FROM 31 OCT 2022</B>
