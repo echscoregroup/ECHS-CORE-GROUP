@@ -17,7 +17,7 @@
 <a href="https://www.youtube.com/channel/UCEzUrm1z_daD8T9j34xWWAQ">HELPING HANDS FOR ECHS YOU TUBE CHANNEL</a><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLZEoitLISbkNP9eis3REZMQgt7zoHJ4-z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a href="LIST OF YOU TUBE VIDEOS LAUNCHED BY HELPING HANDS FOR ECHS.docx">QUICK REFERNCE BRIEF DESCRIPTION OF VIDEOS LAUNCHED</a><br>
+<br><center><a href="LIST OF YOU TUBE VIDEOS LAUNCHED BY HELPING HANDS FOR ECHS.docx">QUICK REFERNCE BRIEF DESCRIPTION OF VIDEOS LAUNCHED</a></center><br>
 # Important Messages
 <hr>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>09 DEC 2022 – ALL INDIA – YOU TUBE CHANNEL HELPING HANDS FOR ECHS – NEW VIDEO ON ECHS IS NOW LIVE – When a Beneficiary is admitted in an Emp Hospital, Extension of Stay or Unlisted Procedure Treatment approvals are required to be OBTAINED BY THE EMP HOSPITAL well on time. The Family of patient should not take the hard copy of the form and run around to get ECHS Approval. This is the 43 rd You Tube Video on ECHS that I have launched to date & is available in the You Tube Channel HELPING HANDS FOR ECHS. Hope all of you find the Videos Useful. Please click SUBSCRIBE button in my You Tube channel. Watch this Video above</b>  
