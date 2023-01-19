@@ -18,7 +18,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLZEoitLISbkNP9eis3REZMQgt7zoHJ4-z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><center><a href="LIST OF YOU TUBE VIDEOS LAUNCHED BY HELPING HANDS FOR ECHS.pdf" target="_blank">QUICK REFERNCE BRIEF DESCRIPTION OF VIDEOS LAUNCHED</a></center><br>
-
 <br><center><a href="ACRONYMS & ABBREVIATIONS USED IN ECHS.pdf" target="_blank">ACRONYMS & ABBREVIATIONS USED IN ECHS</a></center><br>
 # Important Messages
 <hr>
