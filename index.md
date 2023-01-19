@@ -18,6 +18,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLZEoitLISbkNP9eis3REZMQgt7zoHJ4-z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><center><a href="LIST OF YOU TUBE VIDEOS LAUNCHED BY HELPING HANDS FOR ECHS.pdf" target="_blank">QUICK REFERNCE BRIEF DESCRIPTION OF VIDEOS LAUNCHED</a></center><br>
+
+<br><center><a href="ACRONYMS & ABBREVIATIONS USED IN ECHS.pdf" target="_blank">ACRONYMS & ABBREVIATIONS USED IN ECHS</a></center><br>
 # Important Messages
 <hr>
 <p style="color:Red;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>10 JAN 2023 – ALL INDIA – YOU TUBE CHANNEL HELPING HANDS FOR ECHS – FROM CDR SANTHANAM – This Video is about What Certificates you can obtain from ECHS Polyclinic. This facility is available to ECHS beneficiaries. This is the 49 th You Tube Video on ECHS that I have launched to date & is available in the You Tube Channel HELPING HANDS FOR ECHS. Hope all of you find the Videos Useful. Please click SUBSCRIBE button in my You Tube channel. The Video is available above. Please see the document link just below the Video, which will help you to know the Video Number based on the Category. Click and see this NEW FEATURE</b>
