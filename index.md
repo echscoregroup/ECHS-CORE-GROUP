@@ -21,7 +21,7 @@
 <br><center><a href="ACRONYMS & ABBREVIATIONS USED IN ECHS.pdf" target="_blank">ACRONYMS & ABBREVIATIONS USED IN ECHS</a></center><br>
 # Important Messages
 <hr>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b> NEW POLICY VALIDATION OF DEPENDENT ECHS CARD</B>
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>20 JAN 2023 - ALL INDIA - IMPORTANT INFO OF DEPENDENTS ECHS CARD VALIDATION. NEW POLICY VALIDATION OF DEPENDENT ECHS CARD</B>
 <table>
 <tr>
     <th>DEPENDENT VALIDATION STATUS</th>
