@@ -21,6 +21,30 @@
 <br><center><a href="ACRONYMS & ABBREVIATIONS USED IN ECHS.pdf" target="_blank">ACRONYMS & ABBREVIATIONS USED IN ECHS</a></center><br>
 # Important Messages
 <hr>
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b> NEW POLICY VALIDATION OF DEPENDENT ECHS CARD</B>
+<table>
+<tr>
+    <th>DEPENDENT VALIDATION STATUS</th>
+    <th>WHAT WILL HAPPEN </th> 
+     <th>WHAT IS THE REMEDY</th> 
+  </tr>
+  <tr>
+    <td><b>RENEWAL NOT CARRIED OUT & CARD EXPIRED</b></td>
+    <td><B>CARD WILL BE BLOCKED & CANNOT APPLY ONLINE ANYMORE</B></td>
+    <td><B>MEET OIC PC & GET VALIDITY EXTENDED VALIDITY FOR 90 DAYS. APPLY FOR ELIGIBILITY RENEWAL </B></td>
+  </tr>
+  <tr>
+    <td><B>ELIGIBILITY RENEWAL ACTION ALREADY TAKEN </B></td>
+    <td><B>90 DAYS EXTENSION NOT POSSIBLE </B></td>
+    <td><B>TRACK OIC OR RC APPROVAL </B></td>
+   </tr>
+<tr>
+    <td><B>ELIGIBILITY RENEWAL REJECTED BY DIR RC</B></td>
+    <td><B>90 DAYS EXTENSION NOT POSSIBLE </B></td>
+   </tr>
+  </table>
+
+</p>
 <p style="color:Red;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>19 JAN 2023 – ALL INDIA – YOU TUBE CHANNEL HELPING HANDS FOR ECHS – FROM CDR SANTHANAM – VIDEO # 50 This Video is about What Certificates you can obtain from ECHS Polyclinic.  This Video is about various Acronyms & Abbreviations used in ECHS . This 50 th Video is available in the You Tube Channel HELPING HANDS FOR ECHS. Hope all of you find the Videos Useful. Please click SUBSCRIBE button in my You Tube channel. The Video is also available above</b>  
 </p>
 <p style="color:Red;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>10 JAN 2023 – ALL INDIA – YOU TUBE CHANNEL HELPING HANDS FOR ECHS – FROM CDR SANTHANAM – This Video is about What Certificates you can obtain from ECHS Polyclinic. This facility is available to ECHS beneficiaries. This is the 49 th You Tube Video on ECHS that I have launched to date & is available in the You Tube Channel HELPING HANDS FOR ECHS. Hope all of you find the Videos Useful. Please click SUBSCRIBE button in my You Tube channel. The Video is available above. Please see the document link just below the Video, which will help you to know the Video Number based on the Category. Click and see this NEW FEATURE</b>
