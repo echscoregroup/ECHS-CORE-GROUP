@@ -41,6 +41,7 @@
 <tr>
     <td><B>ELIGIBILITY RENEWAL REJECTED BY DIR RC</B></td>
     <td><B>90 DAYS EXTENSION NOT POSSIBLE </B></td>
+	<td><B>ECHS FACILITIES NOT POSSIBLE TILL CRITERIA MET</B></td>
    </tr>
   </table>
 
