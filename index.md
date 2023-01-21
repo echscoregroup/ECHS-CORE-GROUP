@@ -21,7 +21,7 @@
 <br><center><a href="ACRONYMS & ABBREVIATIONS USED IN ECHS.pdf" target="_blank">ACRONYMS & ABBREVIATIONS USED IN ECHS</a></center><br>
 # Important Messages
 <hr>
-<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b> 394.	21 JAN 2023  – FOR ALL INDIA – USEFUL INFORMATION ALL ECHS POLYCLINIC WORKING HOURS . The Policy letter is available in this Web Portal. Click ECHS POLICY LETTERS above, under the heading POLYCLINIC, click WORKING HOURS POLYCLINIC.  A summary of the working hours is given below. Polyclinic is expected to observe staggered Lunch Hours so that treatment is provided continuously</B>
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>21 JAN 2023  – FOR ALL INDIA – USEFUL INFORMATION ALL ECHS POLYCLINIC WORKING HOURS . The Policy letter is available in this Web Portal. Click ECHS POLICY LETTERS above, under the heading POLYCLINIC, click WORKING HOURS POLYCLINIC.  A summary of the working hours is given below. Polyclinic is expected to observe staggered Lunch Hours so that treatment is provided continuously</B>
 <table>
 <tr>
     <th>ACTIVITY DESCRIPTION</th>
