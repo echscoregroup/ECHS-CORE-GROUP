@@ -21,6 +21,31 @@
 <br><center><a href="ACRONYMS & ABBREVIATIONS USED IN ECHS.pdf" target="_blank">ACRONYMS & ABBREVIATIONS USED IN ECHS</a></center><br>
 # Important Messages
 <hr>
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b> 394.	21 JAN 2023  – FOR ALL INDIA – USEFUL INFORMATION ALL ECHS POLYCLINIC WORKING HOURS . The Policy letter is available in this Web Portal. Click ECHS POLICY LETTERS above, under the heading POLYCLINIC, click WORKING HOURS POLYCLINIC.  A summary of the working hours is given below. Polyclinic is expected to observe staggered Lunch Hours so that treatment is provided continuously</B>
+<table>
+<tr>
+    <th>ACTIVITY DESCRIPTION</th>
+    <th>WORKING HOURS </th> 
+  </tr>
+  <tr>
+    <td><b>POLYCLINIC WORKING HOURS</b></td>
+    <td>0800 to 1600 hrs (8 AM to 4 PM)</td>
+  </tr>
+  <tr>
+    <td><B>LUNCH HOURS</B></td>
+    <td>STAGGERED. No Beneficiary shall be  denied treatment</td>
+   </tr>
+  <tr>
+  	<td><B>ISSUING OF REFERRALS</B></td>
+  	<td>0800 to 1600 Hrs (8 AM to 4 PM) </td>
+  </tr>
+  <tr>
+    <td><B>POLYCLINIC ADMIN HOURS</B></td>
+    <td>1500 TO 1600 Hrs (3 TO 4 pm)</td>
+  </tr>
+</table>
+
+</p>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>20 JAN 2023 - ALL INDIA - IMPORTANT INFO OF DEPENDENTS ECHS CARD VALIDATION. NEW POLICY VALIDATION OF DEPENDENT ECHS CARD</B>
 <table>
 <tr>
@@ -48,7 +73,7 @@
 </p>
 <p style="color:Red;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>19 JAN 2023 – ALL INDIA – YOU TUBE CHANNEL HELPING HANDS FOR ECHS – FROM CDR SANTHANAM – VIDEO # 50 This Video is about What Certificates you can obtain from ECHS Polyclinic.  This Video is about various Acronyms & Abbreviations used in ECHS . This 50 th Video is available in the You Tube Channel HELPING HANDS FOR ECHS. Hope all of you find the Videos Useful. Please click SUBSCRIBE button in my You Tube channel. The Video is also available above</b>  
 </p>
-<p style="color:Red;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>10 JAN 2023 – ALL INDIA – YOU TUBE CHANNEL HELPING HANDS FOR ECHS – FROM CDR SANTHANAM – This Video is about What Certificates you can obtain from ECHS Polyclinic. This facility is available to ECHS beneficiaries. This is the 49 th You Tube Video on ECHS that I have launched to date & is available in the You Tube Channel HELPING HANDS FOR ECHS. Hope all of you find the Videos Useful. Please click SUBSCRIBE button in my You Tube channel. The Video is available above. Please see the document link just below the Video, which will help you to know the Video Number based on the Category. Click and see this NEW FEATURE</b>
+<p style="color:Red;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><b>10 JAN 2023 – ALL INDIA – YOU TUBE CHANNEL HELPING HANDS FOR ECHS – FROM CDR SANTHANAM – This Video is about What Certificates you can obtain from ECHS Polyclinic. This facility is available to ECHS beneficiaries. This is the 49 th You Tube Video on ECHS that I have launched to date & is available in the You Tube Channel HELPING HANDS FOR ECHS. Hope all of you find the Videos Useful. Please click SUBSCRIBE button in my You Tube channel. The Video is available above. Please see the document link just below the Video, which will help you to know the Video Number based on the Category. Click and see this NEW FEATURE</b>
 </p>
 <p style="color:Green;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}"><b>05 JAN 2023 – FOR BANGALORE – COMMAND HOSPITAL AIR FORCE BANGALORE (CHAFB) - IMPORTANT & USEFUL INFORMATION FOR ECHS BENEFICIARIES – OPD / OT Days, List of Closed & Restricted Holidays for the Year 2023 is available in this portal. To Read this, click on POLICY LETTERS link above. Under the Heading SERVICE HOSPITAL click the letter CHAFB OPD & HOLIDAYS LIST 2023</B> 
 </P>
