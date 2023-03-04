@@ -64,6 +64,7 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	SERVICE HOSPITAL 
 ----------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/AGE%20LIMIT%20OF%20CHILDREN%20PAEDIATRIC%20CARE%20IN%20AFMS%20HOSPITAL.pdf">AGE LIMIT OF CHILDREN PAEDIATRIC CARE IN AFMS HOSPITAL</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/CHAFB%20OPD%20&%20HOLIDAYS%20LIST%202023.pdf">CHAFB OPD & HOLIDAYS LIST 2023</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REIMBURSEMENT%20%20OF%20CHARGES%20TREATMENT%20IN%20SERVICE%20HOSPITAL%20.pdf">REIMBURSEMENT  OF CHARGES TREATMENT IN SERVICE HOSPITAL</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/CHAFB%20WORKING%20HOURS%20FROM%2031%20OCT%202022.pdf">CHAFB WORKING HOURS FROM 31 OCT 2022</a></li></h5>
