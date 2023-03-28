@@ -78,6 +78,7 @@ title: "HELPING HANDS FOR ECHS"
 <BR>
 #   POLYCLINIC 
 --------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/15%20DAYS%20MEDICINE%20ISSUE%20AT%20NON%20PARENT%20POLYCLINIC.pdf">15 DAYS MEDICINE ISSUE AT NON PARENT POLYCLINIC</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ISSUE%20OF%20MEDICINES%20TRAVELLING%20ABROAD.pdf">ISSUE OF MEDICINES TRAVELLING ABROAD</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/SeHAT%20HELP%20REGISTRATION.pdf">SeHAT HELP REGISTRATION</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/OPD%20CONSULTATION%20SeHAT.pdf">OPD CONSULTATION SeHAT</a></li></h5>
