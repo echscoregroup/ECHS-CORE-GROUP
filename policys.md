@@ -39,6 +39,7 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	MEMBERSHIP   
 ----------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ECHS%20MEMBERSHIP%20APS%20PERSONNEL.pdf">ECHS MEMBERSHIP  APS PERSONNEL</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/CO%20ECHS%20POLICY%20COMPENDIUM%20FEB%202022.pdf">CO ECHS POLICY COMPENDIUM FEB 2022</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ECHS%20FACILITIES%20TO%20WWII%20SSCO%20ECO%20PMR.pdf">ECHS FACILITIES TO WWII SSCO ECO PMR</a></li></h5>
 <br>
