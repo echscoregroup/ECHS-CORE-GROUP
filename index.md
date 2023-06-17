@@ -21,6 +21,31 @@
 <br><center><a href="ACRONYMS & ABBREVIATIONS USED IN ECHS.pdf" target="_blank">ACRONYMS & ABBREVIATIONS USED IN ECHS</a></center><br>
 # Important Messages
 <hr>
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>17 JUN 2023  – FOR ALL INDIA – DO YOU KNOW THE WORKING HOURS OF ECHS POLYCLINIC? If Not , this message will be Useful. The Central Orgn ECHS,has issued Policy on the Working Hours of ECHS Polyclinic.This letter is available in this Web Portal ECHS POLICY LETTERS link above. Under the heading POLYCLINIC, click WORKING HOURS POLYCLINIC.A summary of the working hours is given below.Polyclinic is expected to observe STAGGERED LUNCH HOURS,so that treatment is provided continuously</B>
+
+<table>
+<tr>
+    <th>ACTIVITY DESCRIPTION</th>
+    <th>WORKING HOURS </th> 
+  </tr>
+  <tr>
+    <td><b>POLYCLINIC WORKING HOURS</b></td>
+    <td>0800 to 1600 hrs (8 AM to 4 PM)</td>
+  </tr>
+  <tr>
+    <td><B>LUNCH HOURS</B></td>
+    <td>STAGGERED. No Beneficiary shall be  denied treatment</td>
+   </tr>
+  <tr>
+  	<td><B>ISSUING OF REFERRALS</B></td>
+  	<td>0800 to 1600 Hrs (8 AM to 4 PM) </td>
+  </tr>
+  <tr>
+    <td><B>POLYCLINIC ADMIN HOURS</B></td>
+    <td>1500 TO 1600 Hrs (3 TO 4 pm)</td>
+  </tr>
+</table>
+</P>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>17  JUN 2023  – ALL INDIA – VERY USEFUL INFORMATION & VETERAN FRIENDLY FEATURE – SELECT VIDEO & LAUNCH IN 01 MINUTE !! -The You Tube Videos launched by me on various ECHS Services are readily available for viewing above. I have provided a document below the Video BOX  called as “VERY USEFUL – LIST OF YOU TUBE VIDEOS LAUNCHED CATEGORY WISE” . Launch this document and you can select any Video you wish to watch under Categories  such as, ECHS CARD, EMPANELLED HOSPITAL, ETC. Against the Video #, you can click the You Tube Video link and the Video will launch automatically. This facility is very simple to use. Try It & give me a Feedback.Jai Hind</B>  
 </p>
 <p style="color:Red;"><img src="{{ "/assets/tipuesearch/India.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>13 JUN 2023 – ALL INDIA – YOU TUBE CHANNEL HELPING HANDS FOR ECHS – FROM CDR SANTHANAM – YOU TUBE VIDEO # V 63 – Video on –  ELIGIBILITY FOR ECHS MEMBERSHIP This Video will bring out the Who are Eligible to become an ECHS Member This is my 63 rd You Tube Video launched on ECHS. The Video is available above. If you like the Video (s) please hit SUBSCRIBE button in You Tube Video</B>
