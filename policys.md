@@ -25,6 +25,7 @@ title: "HELPING HANDS FOR ECHS"
 <br>
 #	ECHS CARD 
 ----------------
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ANNUAL%20VALIDATION%20OF%20ECHS%20MEMBERSHIP%20OF%20DEPENDENTS.pdf">ANNUAL VALIDATION OF ECHS MEMBERSHIP OF DEPENDENTS</A></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ADVISORY%20FOR%20CREATION%20ABHA%20NUMBER.pdf">ADVISORY FOR CREATION ABHA NUMBER</A></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/32%20kB%20CARD%20WILL%20STOP%20WORKING%20FROM%2015%20NOV%202022.pdf">32 kB CARD WILL STOP WORKING FROM 15 NOV 2022</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/ECHS%20CARD%20LIFE%20CERTIFICATE%20FOR%20DEPENDENTS.pdf">ECHS CARD LIFE CERTIFICATE FOR DEPENDENTS</a></li></h5>
