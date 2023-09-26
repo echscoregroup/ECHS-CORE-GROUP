@@ -8,6 +8,7 @@ title: "HELPING HANDS FOR ECHS"
 
 #	EMPANELLED & NON-EMPANELLED HOSPITALS 
 ---------------- 
+<h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/TREATMENT%20AT%20NON%20EMPANELLED%20HOSPITAL%20CONDITIONS.pdf">TREATMENT AT NON EMPANELLED HOSPITAL CONDITIONS</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/EMPANELLED%20HOSP%20PAYABLE%20AND%20NON%20PAYABLE%20ITEMS%20ON%20PACKAGE%20RATE.pdf">EMPANELLED HOSP PAYABLE AND NON PAYABLE ITEMS ON PACKAGE RATE</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/REVISED%20RATES%20AT%20EH%20APRIL%202023.pdf">REVISED RATES AT EH APRIL 2023</a></li></h5>
 <h5><li><a href="https://github.com/echscoregroup/Helping-Hands-For-ECHS/raw/main/POLICIES/NO%20APPX%20A%20FROM%20EH%20FOR%20LISTED%20PROCEDURE.pdf">NO APPX A FROM EH FOR LISTED PROCEDURE</a></li></h5>
