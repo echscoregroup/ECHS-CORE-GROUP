@@ -12,6 +12,14 @@
 <tr><td><B>64kB Online Card Application</B> </td><td><a href="https://echs.sourceinfosys.com/">https://echs.sourceinfosys.com/</a></td></tr>
 <tr><td><B>Command Hospital Air Force, Bangalore (CHAFB)</B></td><td><a href="https://www.chaf-b.org/">https://www.chaf-b.org/</a></td></tr>
 </table>
+<img src="https://github.com/echscoregroup/images/blob/main/YTLogo.gif?raw=true">
+<a href="https://www.youtube.com/channel/UCEzUrm1z_daD8T9j34xWWAQ">HELPING HANDS FOR ECHS YOU TUBE CHANNEL</a><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ucu_v6uloOk?list=UULFEzUrm1z_daD8T9j34xWWAQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-pcture" allowfullscreen></iframe>
+<br><center><a href="LIST OF YOU TUBE VIDEOS LAUNCHED BY HELPING HANDS FOR ECHS.pdf" target="_blank">VERY USEFUL - LIST OF YOU TUBE VIDEOS LAUNCHED CATEGORY WISE</a></center><br>
+<br><center><a href="ECHS FLYERS_EMPOWERING BENEFICIARIES.pdf" target="_blank">VERY USEFUL - ECHS FLYER_EMPOWERING  BENEFICIARIES</a></center><br>
+<br><center><a href="ACRONYMS & ABBREVIATIONS USED IN ECHS.pdf" target="_blank">ACRONYMS & ABBREVIATIONS USED IN ECHS</a></center><br>
+<br><center><a href="INDIAN NAVY TOLL FREE HELPLINE.pdf" target="_blank">INDIAN NAVY TOLL FREE HELPLINE</a></center><br>
+
 # Important Messages
 <hr>
 <img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">![alttext](https://github.com/echscoregroup/images/blob/main/1aHE.gif?raw=true)<B>19 DEC 2021 - FOR BANGALORE - Duty Medical Officer (DMO ) at Polyclinic (URBAN) for the week  19 DEC 2021 TO 25 DEC 2021 is Dr Roopa , Mobile # 9599829300.  A Nodal Medical Officer is also available at ECHS Polyclinic (Urban). Nodal Medical Officer is Gp Capt (Dr) K K Pooniwala (Retd), Mobile # 7002513995. The  Nodal Medical Officer and Duty Medical Officer can be contacted by ECHS Beneficiaries having COVID symptoms or COVID Positive and for any Medical Help</B.
