@@ -22,6 +22,8 @@
 
 # Important Messages
 <hr>
+<p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b> 480.	05 JAN 2025 – ALL INDIA – FROM CDR SANTHANAM - HELPING HANDS FOR ECHS –– I am very happy to release  Video 112 TO 117 on the Update ECHS Mobile App and are now LIVE  to watch above. JAI HIND </b>
+</P>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>23 SEP 2024  – ALL INDIA – FROM CDR SANTHANAM - HELPING HANDS FOR ECHS –– I am very happy to release  Video #  V ( S) 106 . IMPORTANT CLARIFICATION TO VIDEO V(S)  103 - NO ANNUAL VALIDATION OF 64 kB CARD REQUIRED FOR 80 YEARS & ABOVE DEPENDENTS.    This is the 106 th  You Tube Video released by me and is  now LIVE to watch above.JAI HIND</B>
 </p>
 <p style="color:Maroon;"><img src="{{ "/assets/tipuesearch/Bangalore.jpg" | relative_url }}"><img src="{{ "/assets/tipuesearch/star.jpg" | relative_url }}">! <img src="{{ "/assets/tipuesearch/new.gif" | relative_url }}"><b>07 SEP   2024  – ALL INDIA – FROM CDR SANTHANAM - HELPING HANDS FOR ECHS –– I am very happy to release  Video # 105 named as "ECDL – ECHS CENTRAL DRUG LIST. This Video hopefully brings awareness to ECHS Beneficiaries on ECDL.Please HIT SUBSCRIBE button in YouTube Video. If you like this Video,  give a THUMBS UP  & write your Comments in the YouTube. JAI HIND</b>
